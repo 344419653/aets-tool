@@ -1,0 +1,146 @@
+{
+  "opi_number": 3,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/通讯",
+    "跑道入侵",
+    "放油"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Do you often communicate with foreign pilots in English? If yes, do you have any problems in radiotelephony communication?",
+      "question_cn": "你经常和国外飞行员用英语交流吗？如果是，你在无线电通话中有什么问题吗？",
+      "type": "自我介绍/背景类",
+      "answer": "Yes, we have a lot of international flights. Sometimes, if the pilot has a strong accent, or he speaks too fast, I may not understand his words.",
+      "topic": "自我介绍/通讯",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Do you think it is necessary to speak English in radiotelephony communication with Chinese pilots? Why?",
+      "question_cn": "你认为与中国飞行员在无线电通讯中讲英语是必须的吗？为什么？",
+      "type": "观点类",
+      "answer": "No, I don't think so. Because first, some pilots are not good at English, it may cause more misunderstanding. Then, we can speak Chinese to reduce our workload.",
+      "topic": "自我介绍/通讯",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Do you think speaking English may cause more communication misunderstanding? Why?",
+      "question_cn": "你认为讲英语可能引起更多的通讯误会吗？",
+      "type": "观点类",
+      "answer": "Yes, I think so. Because first, not all the controllers are good at English. Then, not all the pilots will use standard terms. Also, English comms may need more time or explanation.",
+      "topic": "自我介绍/通讯",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "The runway is a critical area for flight safety; do you know anything about runway incursions?",
+      "question_cn": "对于飞行安全，跑道是一个关键区域，你知道任何关于跑道入侵的事情吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. There was a dep A/C at the holding point. I instructed him to hold and issued landing clearance to another A/C on final. Suddenly, the landing A/C reported going around. I saw the dep A/C entered the RWY. So I instructed him to vacated RWY immediately, and confirmed the reason. The pilot reported it was a brake failure, they requested tug service and maintenance check.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What could cause a runway incursion?",
+      "question_cn": "什么能够引起跑道入侵？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to RWY incursion, such as low VIS, human error, mechanical failure and ground security problem.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What consequences may a runway incursion bring?",
+      "question_cn": "跑道入侵可能带来什么样的后果？",
+      "type": "后果类",
+      "answer": "RWY incursion is very dangerous, it may lead to delay, missed app, aborted takeoff, skid off RWY, collision, A/C damage, personal injury and RWY closed.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "When the runway is unlawfully occupied, what should a tower controller do?",
+      "question_cn": "当跑道被非法占用的时候，作为一名塔台管制员应该做些什么？",
+      "type": "处置类",
+      "answer": "First, I will instruct the landing traffic to go around. Then, I will ask the incursion unit to vacate RWY immediately and wait for investigation. Also, I should confirm the reason of RWY incursion. If necessary, I should provide tug service. Inform supervisor and related ATC units.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "In order to prevent a runway incursion from happening, what special rules or regulations should you follow?",
+      "question_cn": "为了防止跑道入侵的发生，你必须遵循什么特殊的规则和管理？",
+      "type": "建议类",
+      "answer": "First, I should use standard communication terms and monitor pilot readback. Then, we have strips to help us to avoid human error. Also, we should monitor all the traffic on the ground. If necessary, we should use A/P surveillance radar and other equipment to avoid RWY incursion.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Have you ever heard of or encountered a runway incursion? Please tell the story. And what did you learn from the incident?",
+      "question_cn": "你曾经听过或遇到过跑道入侵吗？请告诉我这个故事，从这次事故中你能学到什么？",
+      "type": "讲故事/经历类",
+      "answer": "同讲故事（参见第4题）",
+      "topic": "跑道入侵",
+      "note": "原文标注同讲故事，与第4题重复"
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever controlled an aircraft dumping fuel?",
+      "question_cn": "你曾经指挥过飞机放油吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working, an A/C reported overweight, and requested to dump fuel. So I confirmed his endurance, and provided RV to the fuel dumping area. Then I instructed other A/C to avoid him, and informed related ATC units. 1H later, the pilot reported complete, I vectored him back to the route.",
+      "topic": "放油",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "Under what conditions does an aircraft need to dump fuel?",
+      "question_cn": "在什么条件下，飞机需要放油？",
+      "type": "原因/列举类",
+      "answer": "An A/C may need to dump fuel under different situations, such as overweight, preparing for belly landing or forced landing. If there is bomb threat on board, the A/C may need to dump fuel too.",
+      "topic": "放油",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Could you please describe the fuel dumping procedures in your airspace?",
+      "question_cn": "请你描述在你的空域中飞机放油的过程？",
+      "type": "描述类",
+      "answer": "OK, First, we should vector the A/C to the dumping area and issue dumping instruction. Then, we should instruct other A/C to avoid fuel dumping area, maintain safe separation. Also, we should inform supervisor and related ATC units. After fuel dumping is complete, we should inform all the traffic and resume normal flight.",
+      "topic": "放油",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What information should an air traffic controller relay to other aircraft flight crews before fuel dumping begins?",
+      "question_cn": "在放油开始之前，一名管制员应该提供什么信息给其他的飞行机组？",
+      "type": "描述类",
+      "answer": "OK, before fuel dumping, I will inform other A/C about the dumping area and vector them to avoid, also, I should announce the dumping altitude and the starting time.",
+      "topic": "放油",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "How would fuel dumping affect other aircraft near the fuel dumping area?",
+      "question_cn": "飞机放油是怎么样影响放油区的其他飞行器的？",
+      "type": "后果类",
+      "answer": "Fuel dumping will take some airspace, so it may cause traffic conflict, altitude problem and fire risk. Other A/C need to detour the dumping area, so it may cause some delay.",
+      "topic": "放油",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "What help can controllers provide to a flight crew when they need to dump fuel?",
+      "question_cn": "管制员能提供给机组什么帮助，当他们需要放油的时候？",
+      "type": "描述类",
+      "answer": "First, I should provide fuel dumping instruction. Then, I will clear the dumping area, avoid traffic conflict. Also, I should monitor the dumping A/C, if necessary, warn the pilot about abnormal situations.",
+      "topic": "放油",
+      "note": ""
+    }
+  ]
+}

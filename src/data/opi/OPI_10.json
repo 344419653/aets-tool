@@ -1,0 +1,146 @@
+{
+  "opi_number": 10,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/工作职责",
+    "机腹着陆",
+    "紧急疏散"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Can you describe the job responsibility of an ATC controller?",
+      "question_cn": "你能形容下作为一名管制员的责任吗？",
+      "type": "描述类",
+      "answer": "OK, as a controller, first, I should provide safe separation, prevent collision between A/C and the A/C with obstructions. Then, I should expedite the traffic flow, reduce delay. Also, I should provide air traffic services, like advisory, warning or monitoring.",
+      "topic": "自我介绍/工作职责",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "What types of on-the-job training did you receive?",
+      "question_cn": "你受到了什么类型的工作培训？",
+      "type": "自我介绍/背景类",
+      "answer": "We had theory and simulator training, and we must have recurrent training every year.",
+      "topic": "自我介绍/工作职责",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Is it necessary for a controller to take simulator training every year? Why?",
+      "question_cn": "每年都接受模拟机训练是重要的，为什么？",
+      "type": "观点类",
+      "answer": "Yes, I think it's necessary, because first, we need simulator training to practice SOPs, avoid human error. Then, we may have some new flight procedures or operation standard, we can get familiar with them by finishing simulator course. Also, we need to practice more on some certain emergency situation.",
+      "topic": "自我介绍/工作职责",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "What are the possible reasons for making a belly landing?",
+      "question_cn": "做机腹着陆的最重要原因是什么？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to belly landing, such as landing gear failure, mechanical problem or tyre burst.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "Which is more dangerous, belly landing or water ditching? Why?",
+      "question_cn": "机腹着陆与水上迫降哪一种更危险？为什么？",
+      "type": "比较类",
+      "answer": "I think ditching is more dangerous. Because it may cause A/C disintegrated, passenger drowning, and it's much harder to rescue.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What help can ATC controllers provide to the flight crew when they request belly landing?",
+      "question_cn": "当机组需要进行机腹着陆时，管制员能提供什么帮助？",
+      "type": "描述类",
+      "answer": "OK. First, I should instruct the A/C to dump fuel and reduce weight. Then, I should inform A/P, request to foam the RWY. Also, I should request medical, fire and rescue services. If necessary, I should instruct other A/C to divert. Remind the pilot to use minimum landing spd.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "Before making belly landing, many flights conduct low pass, in what way can low pass help belly landing?",
+      "question_cn": "在做机腹着陆前，许多飞行员要进行低空通场，什么方法能使低空通场帮助到机腹着陆？",
+      "type": "描述类",
+      "answer": "First, pilot can check the RWY condition during low pass. Then, ATC will check the landing gear condition, help the pilot to make the decision of belly landing.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Is fuel dumping necessary before each belly landing? Why?",
+      "question_cn": "在做机腹着陆之前需要放油吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, fuel dumping is very necessary. Because it can help pilot to reduce landing weight, and reduce the risk of fire or explosion.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "What ground services may be needed when making a belly landing?",
+      "question_cn": "当做机腹着陆时，什么地面保障服务是必要的？",
+      "type": "描述类",
+      "answer": "We may need to foam the RWY, and request medical, fire and emergency service.",
+      "topic": "机腹着陆",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever experienced or heard of emergency evacuation? Tell me about it.",
+      "question_cn": "你曾经经历或听说过关于紧急疏散吗？告诉我关于它。",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. A landing flight reported smoke in the cabin, so I confirmed his intention. The pilot said they will make a emergency evacuation after landing. I informed related ATC units and following flights. Also, I requested medical and emergency service to be ready. 10min later, the A/C landed, the pilot lead all the passengers to safe area. (No one was hurt.)",
+      "topic": "紧急疏散",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "In which situations is emergency evacuation needed?",
+      "question_cn": "在什么情况下需要做紧急撤离？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to EE, such as landing gear failure, fire or smoke, ditching or risk of explosion.",
+      "topic": "紧急疏散",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "When a flight executes emergency evacuation, what departments will ATC need to inform?",
+      "question_cn": "当一架飞机执行紧急疏散时，管制需要通知什么部门？",
+      "type": "描述类",
+      "answer": "I should inform related ATC units, following flights, supervisor, medical, fire and emergency service.",
+      "topic": "紧急疏散",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What assistance should you provide for the flight crew before executing emergency evacuation?",
+      "question_cn": "在紧急疏散执行前，你准备为机组提供什么帮助？",
+      "type": "处置类",
+      "answer": "First, I should instruct other A/C to avoid. Then, I should inform pilot about the safe area to go after evacuation. Also I should inform M, F and E service, supervisor and related ATC units.",
+      "topic": "紧急疏散",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "When emergency evacuation occurs, what ground services are needed?",
+      "question_cn": "当紧急疏散发生时，都需要什么地面保障？",
+      "type": "描述类",
+      "answer": "同上（参见第12题）",
+      "topic": "紧急疏散",
+      "note": "原文标注同上"
+    },
+    {
+      "id": 15,
+      "question_en": "If emergency evacuation is not executed properly, what possible results may occur?",
+      "question_cn": "如果紧急疏散没有正确执行，会有什么可能的后果？",
+      "type": "后果类",
+      "answer": "Passengers may not be able to leave the cabin in time, and get injured during evacuation. (For example, there is fire in the cabin, but the passengers can't evacuate immediately, they may get hurt)",
+      "topic": "紧急疏散",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "opi_number": 15,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/职业选择",
+    "管制员品质与培训",
+    "管制员与飞行员关系",
+    "复飞",
+    "紧急下降"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Why did you choose to be an air traffic controller?",
+      "question_cn": "为什么你选择了空中交通管制这个职业？",
+      "type": "自我介绍/背景类",
+      "answer": "同OPI 14（参见OPI 14第1题）",
+      "topic": "自我介绍/职业选择",
+      "note": "原文标注同OPI 14"
+    },
+    {
+      "id": 2,
+      "question_en": "What are the important qualities that an air traffic controller should have?",
+      "question_cn": "一名管制员应有的重要品质是什么？",
+      "type": "描述类",
+      "answer": "见OPI话题分析画图：日常问题-工作经历部分（参见OPI 1-2自我介绍部分）",
+      "topic": "管制员品质与培训",
+      "note": "原文标注见OPI话题分析画图"
+    },
+    {
+      "id": 3,
+      "question_en": "Do you think on-the-job training is important for controllers? Why?",
+      "question_cn": "你认为工作培训对于管制员来说是重要的吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, I think so, because first, it will help us to improve our efficiency and reduce human error. Then, we can learn about new equipment and procedures during training.",
+      "topic": "管制员品质与培训",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever flown with a flight crew to experience the whole flight? Do you think it is necessary for controllers?",
+      "question_cn": "你曾经有过和机组体验整个飞行过程的经历吗？你认为对于管制员来说它是必要的吗？",
+      "type": "观点类",
+      "answer": "Yes. We had the airline practice, controllers can follow the flight crew to experience a whole flight. I think it's very necessary, because we can know more about the crew's work and their flight procedures. Also, it will help us to improve our service.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "Do you often exchange ideas with pilots on some concerns about flight and air traffic control?",
+      "question_cn": "你经常就一些飞行员和管制员关心的事交换意见吗？",
+      "type": "自我介绍/背景类",
+      "answer": "Sure. I have some pilot friends, we talk about our work very often. They will share their suggestions and complaints. I will explain our working procedures and regulations. It's good for my job.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "How should controllers cooperate with pilots in maintaining an orderly flow of traffic?",
+      "question_cn": "管制员和飞行员如何配合才能保持有序的交通流量？",
+      "type": "描述类",
+      "answer": "First, we should communicate well, follow regulations and SOP. Then, we should share info about weather, traffic and emergency situation. Also, I should respect the captain's decision and provide necessary help.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "If disputes occur between you and the pilots, what should you do to ensure flight safety?",
+      "question_cn": "如果你与飞行员间产生争论，你将做什么来确保安全？",
+      "type": "处置类",
+      "answer": "First, I should explain the reason of my decision, remind pilot to check operation minima. Then, I will ask for his intention, provide help. Also, I should never quarrel with pilots on the frequency.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "What should you do when the flight crew doesn't follow your instruction in flight?",
+      "question_cn": "当飞行员没有按你指令飞行时，你将如何做？",
+      "type": "处置类",
+      "answer": "First, I will say again the instruction, and confirm the reason of his decision. Then, I will warn him about the danger of this situation, and confirm his intentions. If he insists to not follow my instructions, I should report to supervisor and related ATC units. Also, I should instruct other A/C to avoid him. Sometimes, not following ATC instructions can mean hijack situation. So I should check for it.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "If you make mistakes in your instruction and the flight crew point it out, do you think you lose face and how do you correct it to ensure flight safety?",
+      "question_cn": "如果你的指令出现错误，机组指出了错误，你觉得丢脸了，如何改正它以确保安全？",
+      "type": "处置类",
+      "answer": "OK, first of all, I think it's a good thing that the pilot can point out my mistake. I will admit the mistake and correct instructions immediately. Normally, I will say 'correction' and the correct content.",
+      "topic": "管制员与飞行员关系",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever encountered the situation of a missed approach?",
+      "question_cn": "你曾经遇到过复飞情况吗？",
+      "type": "讲故事/经历类",
+      "answer": "详见笔记（参见OPI 1第4-9题）",
+      "topic": "复飞",
+      "note": "原文标注详见笔记"
+    },
+    {
+      "id": 11,
+      "question_en": "What are the possible reasons for a missed approach?",
+      "question_cn": "对于复飞，什么是最可能的原因？",
+      "type": "原因/列举类",
+      "answer": "详见笔记（参见OPI 1第5题）",
+      "topic": "复飞",
+      "note": "原文标注详见笔记"
+    },
+    {
+      "id": 12,
+      "question_en": "When the flight crew makes a decision to land instead of following controllers' advice of going around, what should controllers do?",
+      "question_cn": "当机组决定落地而不是听从管制员复飞的建议时，管制员应该怎么做？",
+      "type": "处置类",
+      "answer": "First, I should inform the pilot about ground situation and weather. Then, I should make sure the RWY is clear. Also, I should remind pilot to check the RWY and the landing minima.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "Under what situations is emergency descent necessary?",
+      "question_cn": "在什么情况下，必需紧急下降？",
+      "type": "原因/列举类",
+      "answer": "If there is fire, smoke or decompression problem on board, ED is necessary.",
+      "topic": "紧急下降",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "When the flight crew reports they are making emergency descent, what help can ATC provide to the crew?",
+      "question_cn": "当机组报告他们要紧急下降时，管制员准备给机组提供什么帮助？",
+      "type": "描述类",
+      "answer": "First, I can instruct other A/C to avoid. Then, I should inform related ATC units about this situation, and request more airspace. Also, I should monitor the A/C, ask for the pilot's intention.",
+      "topic": "紧急下降",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "When emergency descent occurs, how do you coordinate with controllers in other control units?",
+      "question_cn": "当紧急下降发生时，你是如何协调其他管制单位的？",
+      "type": "处置类",
+      "answer": "First, I will inform related ATC units about the situation and destination altitude. Then, I can request more airspace and ground services. Also, I should work with other ATC unit to avoid conflict.",
+      "topic": "紧急下降",
+      "note": ""
+    }
+  ]
+}

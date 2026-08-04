@@ -1,0 +1,147 @@
+{
+  "opi_number": 12,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/工作与压力",
+    "跑道入侵",
+    "模拟机训练",
+    "飞行冲突"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Can you tell me something about your present job?",
+      "question_cn": "你能谈谈有关你现在工作的事吗？",
+      "type": "自我介绍/背景类",
+      "answer": "I have been working in Xiamen ATMB for xx years, I'm a xxx controller. I like my job, it's busy and challenging, but it pays me well, and I enjoy the feeling of helping pilots. Safety is our top priority.",
+      "topic": "自我介绍/工作与压力",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Can you please describe the work shift in your unit?",
+      "question_cn": "在你单位，你能描述下是如何换班的吗？",
+      "type": "描述类",
+      "answer": "Sure, in our ATC unit, we have 3 groups, so each group will work for 1 day and rest for 2 days. In one day, we can work for 2 hours and rest for 2 hours, we will work for 10 hours in total.",
+      "topic": "自我介绍/工作与压力",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Do you experience much pressure from your work? How do you relax yourself?",
+      "question_cn": "你的工作压力大吗？你如何放松自己？",
+      "type": "自我介绍/背景类",
+      "answer": "Yes, being a controller is stressful. So, I would like to do some cardio after work, eat well, have a long and peaceful sleep. Some people like to talk to friends, roast on his job experience or release the pressure.",
+      "topic": "自我介绍/工作与压力",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever encountered runway incursion or heard of such kind of incidents?",
+      "question_cn": "你曾经遇到过跑道入侵或听说过吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, I have heard. An aircraft enter the runway not follow the controllers instruction and cause the departure aircraft immediately emergency brake and turn avoid this aircraft.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What may result in runway incursion?",
+      "question_cn": "跑道入侵能导致什么？",
+      "type": "后果类",
+      "answer": "Runway incursion may cause the aircraft collision with other departure or landing aircraft and vehicle on the runway; may cause the runway confusion and increase the controller working and pressure.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "Do you think the use of non-standard phraseology might be one of the contributing factors of runway incursion? Please explain your reasoning?",
+      "question_cn": "你认为使用非标准用语是导致跑道入侵的可能因素之一吗？请告诉我原因",
+      "type": "观点类",
+      "answer": "Yes, I do. Because first, we may have misunderstanding during communication, pilot will make mistakes. Then, if we don't use standard terms, we may have more workload and confusion, this will cause more human error.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "What are your suggestions for avoiding runway incursion?",
+      "question_cn": "对于如何避免跑道入侵，你有什么建议？",
+      "type": "建议类",
+      "answer": "I should watching the aircraft or vehicle moving situation on runway all time; I should use the standard taxi way to avoid pilot or driver bring confusion; I should use the standard radio communication.",
+      "topic": "跑道入侵",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "When and where do you receive simulator training?",
+      "question_cn": "什么时候，在哪里你接受过模拟机训练？",
+      "type": "自我介绍/背景类",
+      "answer": "We must have simulator training once every year, normally, we will have the recurrent training in our ATC unit.",
+      "topic": "模拟机训练",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Is simulator training necessary for controllers? Why?",
+      "question_cn": "模拟机训练对管制员来说是必须的吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes. I think the simulator training is very necessary, because first, it can help us to experience emergency situations. Then, it can help us to practice SOP and avoid human error. Also, we can practice English communication on the simulator.",
+      "topic": "模拟机训练",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "What do you think the controllers can learn from simulator training practices?",
+      "question_cn": "你认为管制员能从模拟机训练中学到什么东西吗？",
+      "type": "描述类",
+      "answer": "First, we can practice all the SOP and flight procedures, and improve our control skills. Then, we can experience different emergency situations, and build up confidence. Also, we can try high traffic flow or high pressure work, it will help us to deal with abnormal situations.",
+      "topic": "模拟机训练",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "Did you receive training for emergency situations on the simulators? What impressed you most among those subjects?",
+      "question_cn": "你接受过模拟机关于特情的训练吗？你对那些科目印象是什么？",
+      "type": "讲故事/经历类",
+      "answer": "Sure. I had different emergency situation training, but the fire, decompression and hijack situation are the most impressive ones.",
+      "topic": "模拟机训练",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Some controllers may do a good job in the simulator training but he or she can't control airplanes properly and correctly in real time, what is your opinion about this?",
+      "question_cn": "有些管制员模拟机训练做的很好，但他在真正的时候不能指挥好飞机，你怎么看？",
+      "type": "观点类",
+      "answer": "First, I think they should have more real working experience. Then, I think they should build up confidence and learn from their instructors. Also, I think they may have too much pressure, they should relax and focus on the traffic.",
+      "topic": "模拟机训练",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What may cause traffic conflicts?",
+      "question_cn": "什么能导致飞行冲突？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to conflict, such as bad weather, human error, mechanical failure or emergency situation.",
+      "topic": "飞行冲突",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "When traffic conflicts occur, what do you think is the most effective way to solve the problem?",
+      "question_cn": "当飞行冲突发生时，你任务解决这一问题的最好办法是什么？",
+      "type": "处置类",
+      "answer": "First, I should follow SOP to establish safe separation. Then, I should confirm the reason of the conflict. Also, I should maintain monitoring and avoid more conflict.",
+      "topic": "飞行冲突",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Can pilots and controllers completely believe TCAS warning? Why?",
+      "question_cn": "飞行员与管制员能完全相信TCAS告警吗？为什么？",
+      "type": "观点类",
+      "answer": "No. Pilot and controller should check TCAS warning before any actions. Because there may be equipment failure or false alarm. Believe the TCAS warning without any checking can be dangerous.",
+      "topic": "飞行冲突",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "opi_number": 9,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/职业选择",
+    "鸟击",
+    "VIP飞行"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Why did you choose to be an air traffic controller?",
+      "question_cn": "为什么你选择成为一名管制员？",
+      "type": "自我介绍/背景类",
+      "answer": "Because first, I think it's a challenging job, I like to solve problems. Then, I think ATC service is important, and I wish to serve my part in it.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "What was your first impression of your work?",
+      "question_cn": "你对这份工作的第一印象是什么？",
+      "type": "自我介绍/背景类",
+      "answer": "I think it's a challenging job. Controllers must be very responsible and careful, they must work together.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "What's your position in your ATC unit?",
+      "question_cn": "在你的管制部门，你在哪个岗位？",
+      "type": "自我介绍/背景类",
+      "answer": "I'm a terminal controller in Turpan A/P.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Could you say something about the bird activities at your airport?",
+      "question_cn": "你能谈谈关于你的机场的鸟群活动吗？",
+      "type": "描述类",
+      "answer": "Sure. Our A/P is near a river, so there are many birds flying near the RWY. But the winter is cold, so bird activity often happens during summer time. We don't have many bird strike problems.",
+      "topic": "鸟击",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "How do bird activities influence flight safety?",
+      "question_cn": "鸟群活动是怎样影响飞行安全的？",
+      "type": "后果类",
+      "answer": "Bird strike can be dangerous, it may lead to windshield damage, bird ingestion, airframe damage, control problem or personal injury.",
+      "topic": "鸟击",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "If you receive a report that there is a flock of birds in the vicinity of your airport, what will you do?",
+      "question_cn": "如果你接到有一大群鸟在你机场附近，你将怎么做？",
+      "type": "处置类",
+      "answer": "First, I will monitor bird activity and inform pilots about it. Then, I should monitor pilot report. Also, I can request bird dispersing service. If necessary, I can inform related ATC units and ask to delay the app.",
+      "topic": "鸟击",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "What are some possible consequences to an aircraft if it ingests birds into the engine?",
+      "question_cn": "如果飞机发动机吸进了飞鸟，有什么可能的后果？",
+      "type": "后果类",
+      "answer": "It's called bird ingestion. It's very dangerous, may lead to engine fire or failure, bleed air problem, diversion or return to land.",
+      "topic": "鸟击",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Have you ever experienced any coordination between ATC units concerning bird strike?",
+      "question_cn": "你曾经在管制单位之间协调过涉及鸟击的事情吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, one time, I encountered bird strike, the pilot requested to hold in the air for checking, so I informed tower to delay the departure traffic, 20min later, the A/C requested to make a low pass, and I informed tower about the situation. Tower called for mechanics and they finished visual check. The A/C landed safely.",
+      "topic": "鸟击",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "In China, what flights can be categorized as VIP flights?",
+      "question_cn": "在中国，什么飞行被视为VIP飞行？",
+      "type": "描述类",
+      "answer": "(In our work, the flight for a leader of a province or above is VIP flight.) The flight for the president or leader of a country is called special flight.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "What are some priorities that VIP flights have over normal flights?",
+      "question_cn": "VIP航班比正常航班有什么优先权？",
+      "type": "描述类",
+      "answer": "ATC will not impose flow control on the VIP flight. We will try our best to avoid delay on VIP flight.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "If normal flights encounter emergency, should VIP flights give way to the flight with the emergency? Why?",
+      "question_cn": "如果正常飞行遭遇到险情，VIP飞行将给遇险航班让路，为什么？",
+      "type": "观点类",
+      "answer": "Yes, because Emergency flight has the top priority.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Can you introduce the standard procedures used to control VIP flights in your daily work?",
+      "question_cn": "你能介绍下在你日常工作中指挥VIP飞行的标准程序吗？",
+      "type": "描述类",
+      "answer": "OK. First, we will confirm VIP info with FIS office. Then, we will contact the pilot, confirm their request and intention. Also, we should instruct other A/C to avoid VIP flight.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "If your control unit receives a VIP flight plan from the dispatch office, how will you deal with it?",
+      "question_cn": "如果你的管制单位从签派接到VIP飞行计划，你如何处理它？",
+      "type": "处置类",
+      "answer": "First, We will have a briefing, make precautions. Then, we should inform related ATC units, and check weather condition. Also, we should make sure we have enough back up controllers to be ready for emergency situation. I should report this situation to supervisor and A/P.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Do you know the radar separation between VIP flights and normal flights?",
+      "question_cn": "你知道VIP飞行和普通飞行的雷达间隔吗？",
+      "type": "描述类",
+      "answer": "Sure, we will double the radar separation between VIP and normal flights.",
+      "topic": "VIP飞行",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Is it more difficult to ensure the security of VIP flights than normal flights? Why?",
+      "question_cn": "确认VIP飞行安全与普通航班飞行安全是不同的？为什么？",
+      "type": "观点类",
+      "answer": "No. I think it's easier to ensure the safety of the VIP flight. Because first, we will use double separation, then, everyone is monitoring the VIP flights, there will be less human error. Also, the VIP flight has the higher priority.",
+      "topic": "VIP飞行",
+      "note": ""
+    }
+  ]
+}

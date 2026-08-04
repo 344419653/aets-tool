@@ -1,0 +1,330 @@
+
+????
+Story 1
+One day in 2000,  Flight  152  reported  bird  strike  three  minutes  after
+takeoff, and requested return to the airport. But the  controller  told  the
+crew that the RVR of the airport was below landing minima,  so  the  captain
+made a decision to make an emergency  landing  at  airport  A.  Air  traffic
+controller quickly contacted A airport and gained permission for  a  landing
+on runway 15. However, the aircraft could not reach A airport  due  to  lack
+of altitude. The crew decided to  make  a  ditching  in  a  river  and  they
+reported it to the controller. Finally, the crew  made  a  ditching  without
+power at about 150 miles per hour in the river.
+
+
+
+Story 2
+When SIA188 was approaching the airspace of  Chicago  Center  Area  Control,
+the controller instructed the flight crew to change radio frequency for  the
+next section on 132.1. The first officer acknowledged the  frequency  change
+and read back the correct  frequency.  However,  the  flight  crew  did  not
+contact ATC on the new frequency. Because the controllers in  the  receiving
+units were preparing for a shift change, they didn't know  that  flight  188
+did not establish radio contact, 30 minutes later,  the  controller  at  the
+next sector identified SIA188 on  the  radar.  Although  they  attempted  to
+establish contact with the airplane by calling the company dispatcher,  they
+got no response from the pilots. The  controller  finally  regained  contact
+with SIA188 on the emergency frequency 50 minutes later.
+
+Story 3
+Landing light signal could provide useful information  to  controllers.  One
+day, a B757 vacated runway 36L via taxiway A9 after  landing.  It  was  then
+cleared to cross runway 36R. But it stopped taxiing on  taxiway  A9  between
+runway 36L and runway 36R. The tower controller  attempted  to  contact  the
+pilot but received no reply. He saw the aircraft landing  lights  were  also
+off. This made him believe that the B757 had a radio  failure  and  had  not
+received the clearance to cross runway 36R. So he issued  takeoff  clearance
+to A320 on runway 36R. Suddenly, the controller noticed  the  B757's  lights
+came on and it began to move. Realizing the risk  of  runway  incursion,  he
+cancelled A320's takeoff clearance immediately.
+
+Story 4
+It was a foggy day in 2002, SIA 686 was cleared to taxi  to  runway  36R.  A
+few minutes later, the Cessna  pilot  requested  engine  start.  The  ground
+controller gave start-up clearance. Then he requested Flight 686 to  contact
+the Tower  controller.  From  then  on,  those  two  aircraft  were  on  two
+different radio frequencies. The Cessna started to taxi, but the pilot  made
+a mistake  to  taxi  to  right  and  entered  taxiway  R6.  But  the  ground
+controller did not realize it and cleared the Cessna to continue  its  taxi.
+At the same time, the Tower controller cleared Flight 686 for takeoff.  When
+the flight 686 was rolling on the runway,  the  Cessna  crossed  the  runway
+holding sign and entered the  active  runway  36R.  Unfortunately,  the  two
+aircraft collided, all 114 people on board died.
+
+
+Story 5
+Flight 345 nearly collided with Flight 101 at the intersection of runway  16
+and runway 22. There were no injuries and no damage to either aircraft.  But
+it was regarded as the most serious incident of this  kind.  That  day,  the
+tower controller cleared Flight 345 to land on runway 22. But he forgot  the
+arriving aircraft  when  he  cleared  Flight  101  for  take  off  from  the
+intersecting runway 16. After Flight 345  touched  down,  the  ground  radar
+system alerted. The controller tried to instruct Flight 345  to  stop  short
+of runway 16. However, the aircraft managed to stop in  the  middle  of  the
+intersection. It was impossible for Flight 101 to abort takeoff. Flight  101
+made an early liftoff and flew over Flight  345.  The  two  aircraft  missed
+colliding by only 50 feet.
+
+
+
+
+Story 6
+As  American  Flight  835  was  approaching  the  terminal   area   of   its
+destination, the flight crew contacted the Approach  Control  and  requested
+ILS approach for runway 12. Tailwind conditions were reported on  runway  12
+at that time, so the  controller  advised  the  pilot  to  make  a  circling
+approach for runway 30. But the crew insisted to land on runway 12  and  the
+controller cleared them to land on the runway 12. The  runway  was  wet  and
+braking action was not good. During landing roll, the  aircraft  skidded  to
+the left of the runway and went through the  airport  fences.  The  fuselage
+was broken into three pieces, the right engine  and  right  main  gear  were
+separated from  the  aircraft.  No  one  was  killed,  but  many  passengers
+suffered from serious injuries.
+
+
+Story 7
+One day, Flight 123, a B737 carrying 152 passengers and 9 crews  was  flying
+to land at Tokyo Narita International Airport. When it was transferred  from
+Tokyo Control to Tokyo Approach, flight 123 was instructed to proceed to  DA
+to hold because of traffic congestion. During the holding, the  flight  crew
+was informed that the local weather was  deteriorating  and  the  controller
+suggested the pilot divert to the alternate, but  the  pilot  reported  that
+their fuel was not enough to  the  alternate.  So  the  controller  vectored
+flight 123 by  radar  to  land  at  runway  34R.  Unfortunately,  the  pilot
+couldn't stabilize the aircraft on the localizer due to wind  shear.  Flight
+123 went around and made  a  second  approach.  Later,  it  crashed  into  a
+hillside due to fuel shortage. The aircraft was broken into pieces  and  all
+the people on board were killed.
+
+Story 8
+One day, Indonesia 205 took off from  Jinan  to  Hangzhou.  About  one  hour
+later, the aircraft was transferred to Hangzhou Approach. Hangzhou  Approach
+required Indonesia 205 to slow down to 190 knots and  later  the  controller
+asked the  pilot  to  reduce  speed  to  160  knots.  Three  minutes  later,
+Indonesia 205 passed the outer marker inbound. At that time, the  controller
+issued a missed approach clearance  because  of  separation.  He  instructed
+Indonesia 205 to make a right turn to a heading of 180 and  climb  to  900m.
+But during the missed approach, the aircraft was out of control  because  of
+mechanical problem. The aircraft continued to descend with a high  angle  of
+attack. The aircraft impacted trees and buildings and part of  the  fuselage
+was damaged.
+
+
+
+Story 9
+One day, AFR188 crashed at Singapore  Changi  Airport  during  takeoff.  The
+tower controller instructed the crew to takeoff on Runway 02L, but the  crew
+lined up runway 02R and began their takeoff rolling.  The  aircraft  overran
+the runway, and crashed into the fence of the airport. Crew members and  110
+passengers were killed, and the co-pilot was badly injured.  The  plane  was
+destroyed by the impact and caught on an  intense  fire.  According  to  the
+investigation, there were three reasons leading to the  accident.  First  of
+all, the crew didn't use effective methods to verify their position  at  the
+airport. Secondly, the crew  forgot  to  check  whether  they  were  on  the
+correct runway or not. Finally, the crew members' idle chatting  during  the
+taxi resulted in the loss of situational awareness.
+
+Story 10
+One day, an A320 collided with a B737 during taxi.  The  right  ailerons  of
+B737 was severely damaged but A320 only had minor damage of its  left  wing.
+Luckily, there were no injuries. After receiving ATC taxi  instruction,  the
+A320 began to pass the B737  from  the  right  side.  The  captain  of  A320
+thought they had enough room to pass over the B737. But  unfortunately,  two
+aircraft collided together  with  the  wings.  Both  captains  reported  the
+collision immediately to the controller. Because  the  Boeing  aircraft  was
+damaged  seriously,  fuel  leakage  was  reported  and  fire  services  were
+required. Fortunately, the fuel leak didn't develop into fire. The  crew  of
+the Boeing aircraft complained that they just  parked  stationary  with  the
+parking brakes applied when they were hit.
+
+
+Story 11
+A pilot of Air China airline company told us  an  event  with  landing  gear
+problem several days ago.  After  normal  pushback,  startup  and  taxi,  he
+requested takeoff at the holding point of the  active  runway.  However,  he
+was instructed to hold short of the runway in order to give  way  to  AFR123
+on final. AFR123 declared emergency because of landing gear problem.  AFR123
+asked for a low pass to have a visual check.  The  controller  verified  the
+landing gear  was  still  in  up  position  during  low  pass.  Then  AFR123
+requested a touch and go to jar the jammed gear. Unfortunately, after  doing
+this, the landing gear still couldn't be extended. So, AFR123 had to make  a
+belly landing on a foamed runway. AFR123 made a safe landing. There were  no
+casualties except some minor injuries.
+Story 12
+CSN341 was a flight from  Beijing  to  Los  Angles.  When  CSN341  initially
+contacted the tower controller, he was told  the  runway  visual  range  was
+500m. The pilot executed a missed approach two minutes later because  of  no
+contact at minima. Then, CSN341 was given radar vectors  for  a  second  ILS
+approach. In the second approach, the controller  issued  landing  clearance
+to CSN341 at outer marker. One minute later,  the  controller  observed  the
+airplane was leaving the glide path on  his  radar  display,  so  he  issued
+missed approach instructions again. There was  no  further  reply  from  the
+pilot. The airplane impacted  the  top  of  a  tall  building  and  crashed.
+According to the investigation, the poor visibility made the  pilot  nervous
+and he misunderstood the missed  approach  instructions  and  made  a  wrong
+turn.
+Story 13
+This story is about runway incursion. One day, A B767 nearly  collided  with
+an A320 at New York  Airport,  which  is  operating  with  two  intersecting
+runways. Although there was neither  casualties  nor  aircraft  damages  for
+both aircraft, still the incident was regarded as one of  the  most  serious
+incidents of this kind. The tower controller  instructed  B767  to  land  at
+runway 21, meanwhile, he cleared A320 to take off  at  runway  18.  Just  as
+B767 touched down, the ground radar system  sounded  the  alarm.  The  tower
+controller realized the problem and instructed B767 to stop landing  rolling
+immediately, trying to stay out of the intersection of runway 18.  In  spite
+of the effort, B767 could only  stop  in  the  middle  of  the  intersecting
+runway. However, the pilot of A320 could not abort takeoff,  and  pulled  up
+the aircraft in advance to avoid collision. They missed each other  by  only
+60 feet.
+
+
+Story 14
+It was a sunny  day  in  2010,  a  Delta  Airline's  767-300  departed  from
+Shanghai Pudong International Airport to Seoul. It  carried  256  passengers
+and 13 crew members on board. During takeoff  rolling,  an  unknown  foreign
+object was sucked into  port  engine  and  the  engine  fire  warning  light
+illuminated.  Then  the  flight  crew  declared  an  emergency  right  after
+airborne and completed  the  emergency  checklist  procedure.  Through  good
+communication, the controller understood the flight crew  wanted  to  return
+to land. But the pilot had to dump fuel before landing because the  aircraft
+was overweight to land. So the controller vectored the aircraft by radar  to
+the dumping area. After circling over the sea and dumping  fuel  for  almost
+one hour, the plane returned to land at departure airport safely.
+
+
+Story 15
+One day, a B737 flew into the  terminal  control  area  of  its  destination
+airport. After establishing contact with Approach control, the  flight  crew
+requested clearance for ILS approach runway 22.  During  the  approach,  the
+controller suggested the flight crew make a circling to land  on  runway  04
+because strong tailwind on runway 22 was just  reported  by  previous  A330.
+But the crew insisted on using  runway  22,  so  the  controller  gave  them
+clearance to land on runway 22. It was at night, the  runway  was  scattered
+with snow and ice. Unfortunately, the plane missed the proper landing  point
+on the runway, overran  the  runway  and  crashed  into  the  fence  of  the
+airport. The fuselage was broken into three parts with the starboard  engine
+separated from the wing. Fortunately,  there  were  no  killings,  but  many
+passengers were seriously injured.
+Story 16
+In November 1996 I was in a flight flying to New York. I was in  the  flight
+because I got a call from New York Hospital that a heart would be ready  for
+me. The pilot called the tower and told them who we were. The  ATC  said  we
+could not land because President Clinton was there and the security  service
+would not let us land. The pilot told the ATC that he would report  this  to
+the press and TV stations.  I think they would let us land  because  of  the
+bad influence. However, it didn't work because  the  controllers  wanted  to
+have a look of Clinton. So  we  had  to  divert  to  the  alternate  airport
+instead. Fortunately, I got to the hospital on time. It was  a  great  heart
+as you can see I am still alive almost 11 years after  the  operation.  (145
+words)
+Story 17
+On February 17th, 2005, United airline 123, an  Airbus  320,  collided  with
+Air China 321, a Boeing 737, during taxi in the run-up  area  at  the  north
+end of runway 19. The right aileron of the Boeing 737 was severely  damaged;
+the left wing of the Airbus 320 had minor damage. There  were  no  injuries.
+The pilot of the Airbus 320 reported that he was positioned to the right  of
+the Boeing 737. ATC cleared them for departure, which required them to  taxi
+past the Boeing 737. The captain stated that he checked the position of  the
+Boeing 737, and he thought he could clear it and then felt the  impact.  The
+captain notified ATC of the collision. Airport  fire  crews  responded,  but
+there was no fuel leak or fire. The crew of the  Boeing  737  reported  that
+they were stationary with the  parking  brake  applied  while  awaiting  ATC
+clearance. (150 words)
+
+Story 18
+The crew of flight 523 found a traffic 20 miles at FL  294  right  ahead  of
+the airplane on TCAS at FL 290 near LAMEN. The captain reported to  Shanghai
+Control  immediately,  but  the  controller  responded  that  there  was  no
+indication on his radar screen and there had not been any  flight  advisory.
+The captain then instructed the crew to turn left and found the  conflicting
+traffic closing to the flight path and a TCAS  warning  was  initiated.  The
+crew then immediately turns right for  avoidance,  disengage  the  autopilot
+and descended to a lower altitude.  The  crew  reported  to  the  controller
+about the conflict after the conflict had been cleared.8
+Story 19
+    On September 28, 2003, United 552, a DC-9-82, experienced an  in-flight
+engine fire during departure climb from New York City. During the return  to
+the departure airport, the nose landing  gear  failed  to  extend,  and  the
+flight crew was instructed by the ATC to execute a go-around,  during  which
+the crew extended the nose gear using the emergency  procedure.  The  flight
+crew conducted an emergency landing,  and  the  2  flight  crew  members,  3
+flight attendants, and 138 passengers deplaned on the  runway.  No  occupant
+injuries were reported, but the airplane sustained substantial  damage  from
+the fire.
+The National Transportation Safety Board determines that the probable  cause
+of this accident was American Airlines' maintenance personnel's  use  of  an
+inappropriate manual engine-start procedure, which lead  to  the  subsequent
+left engine fire. (128 words)
+Story 20
+    On March 22, 2008, China Southern 303, a Boeing 757-200,  lost  a  left
+upper wing trailing edge panel during cruise  flight  at  FL270.  Initially,
+ATC received a pilot report that the  flight  crew  had  experienced  "light
+chop" at the time. The  flight  was  en  route  from  Greenyard  Airport  to
+Blueyard Airport. The broken panel struck the window of passenger row  19ABC
+and cracked only the outer portion of the  window.  Pressurization  was  not
+lost. The flight crew continued on to Blueyard. Upon approach  to  Blueyard,
+ATC instructed the flight crew to expedite for separation. the  flight  crew
+informed ATC that they could not increase their  airspeed  due  to  possible
+airframe damage. The flight landed safely. There were 174 passengers  and  6
+crew members on board with no reported injuries.(128 words)
+Story 21
+On February 17, 2005, an Airbus 320 operated  by  United  Airline,  collided
+with an ERJ 145, operated by US Airways during taxi in  the  runup  area  of
+taxiway J at the north end of runway 19. The right aileron of  the  ERJ  145
+was substantially damaged; the left winglet of  the  Airbus  320  had  minor
+damage. There were no injuries.
+The pilot of the Airbus 320 reported that he was positioned to the right  of
+the ERJ 145. ATC cleared them for departure, which  required  them  to  taxi
+past the ERJ 145. The captain stated that he checked the  proximity  of  the
+ERJ 145, and it looked like he could clear it and then felt the impact.  The
+captain notified ATC of the collision. Airport  fire  crews  responded,  but
+there was no fuel leak or fire. The crew of the ERJ 145 reported  that  they
+were  stationary  with  the  parking  brake  applied  while   awaiting   ATC
+clearance. (155 words)
+Story 22
+    Prior to initiating the first ILS approach to runway 10R, the pilot  of
+Japan air 223 was advised by the tower controller  that  the  runway  visual
+range (RVR) was 600 feet, followed by being given a landing  clearance.  The
+pilot declared a missed approach two  minutes  later  and  was  given  radar
+vectors for a second ILS approach. After turning inbound on  the  localizer,
+the pilot was advised the runway visual range  and  then  cleared  to  land.
+When the tower controller observed the airplane turning to the south of  the
+runway on her radar display, she issued missed approach instructions.  There
+was no further reply from the pilot. The airplane impacted the top of an 85-
+foot tall tree, and then continued to collide on the ground.  The  published
+missed approach procedure instructed the pilot to climb to  900  feet,  then
+right turn to intercept the 160 degree radial of the VORTAC. It appears  the
+pilot likely misinterpreted the missed approach instructions by  making  the
+right hand turn prior to initiating a climb to 900 feet, which  resulted  in
+the subsequent impact with the tree. (179 words)
+Story 23
+    On February 28, 2001, A Boeing 757 and a Bombardier were  substantially
+damaged when the tails  of  both  airplanes  collided  during  the  pushback
+process from two adjacent terminal gates in Greenyard  airport.  The  flight
+crew of the Bombardier reported that during the  final  stages  of  pushback
+from gate 79, they were in a stopped position while their  ground  crew  was
+in the process  of  disconnecting  the  tug  when  the  collision  occurred.
+Company maintenance personnel stated they were pushing  the  757  back  from
+gate 80 and  did  not  see  the  Bombardier.  Review  of  ATC  communication
+recordings between ground control and both airplanes revealed that  the  757
+was initially cleared for pushback onto taxiway alpha from  gate  80.  About
+41 seconds later, the ground controller cleared the Bombardier to push  back
+onto taxiway alpha from gate 79. The recordings  revealed  that  the  ground
+controller did not advise either aircraft of simultaneous adjacent  pushback
+operations. The controller stated that he believed there was room  for  both
+aircraft to push back and did not forecast a traffic conflict. (174 words)
+Story 24
+    On December 11, 2002, Air France 551 departed runway 15R and over  flew
+United83, which had landed on runway 10 at Atlantic  international  Airport.
+The tower controller  had  cleared  United83  to  land  on  runway  10  when
+United83 was approximately 6 mile on  final  approach.  Simultaneously,  the
+ATC local controller cleared Air France 551 for takeoff on runway  15R.  Air
+France 551 was on taxiway A about 500 feet short  of  runway  15R  when  the
+takeoff clearance was issued. Air France 551 rotated at taxiway F  and  over
+flew United83 by 300 feet  at  the  intersection  of  runways  10  and  15R.
+United83 exited runway 10 afterwards. The main cause  of  this  incident  is
+local controller's failure of maintaining awareness  of  the  situation  and
+failing to provide the  appropriate  separation  between  the  two  aircraft
+operating on intersecting runways. (136 words)
+

@@ -1,0 +1,146 @@
+{
+  "opi_number": 6,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/日常工作",
+    "管制设备",
+    "航班延误"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Which ATC unit do you work for?",
+      "question_cn": "你在哪个管制部门工作？",
+      "type": "自我介绍/背景类",
+      "answer": "I work in Turpan A/P. I'm a terminal controller.",
+      "topic": "自我介绍/日常工作",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "How long have you been working in the unit?",
+      "question_cn": "你工作已经多长时间了？",
+      "type": "自我介绍/背景类",
+      "answer": "同类问题，见前文/自我介绍部分。I have been working for xxx ATMB for xx years, I'm an area controller.",
+      "topic": "自我介绍/日常工作",
+      "note": "原文标注同类问题，见前文"
+    },
+    {
+      "id": 3,
+      "question_en": "Could you tell us something about your daily work?",
+      "question_cn": "你能告诉我们关于你的正常工作的一些事吗？",
+      "type": "自我介绍/背景类",
+      "answer": "I'm an area controller, I control all the cruising traffic. It's a large airspace, so I'm very busy.",
+      "topic": "自我介绍/日常工作",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Could you please describe ATC facilities in your unit?",
+      "question_cn": "请你描绘下你工作单位的管制设备？",
+      "type": "描述类",
+      "answer": "In my control unit, we have Radar system, ATIS, weather radar and info system. Also, we have VHF radio, intercom and strips.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What roles do ATC facilities play in your routine job?",
+      "question_cn": "在你的日常工作中，管制设备起什么作用？",
+      "type": "描述类",
+      "answer": "First, the ATC facilities can provide necessary info, and help us to maintain flight safety. Then, they can help us to reduce workload and human error. Also, ATC facilities has warning function, they can help us to deal with emergency situation.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "Suppose one day your radar fails suddenly, what will you do to continue ATC services under this situation?",
+      "question_cn": "假设某一天，你的雷达突然死机，在这种情况下，你如何继续你的管制指挥？",
+      "type": "处置类",
+      "answer": "I will change to back up radar system, we have 2/3 systems online. If the radar is failed, I can still change to procedure control.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "How do you control aircraft without the help of radar?",
+      "question_cn": "没有雷达的帮助，你怎样指挥飞机？",
+      "type": "处置类",
+      "answer": "OK. We have procedure control and strips, first, I will establish procedure separation, instruct all the traffic to resume own navigation. Then, I will request all the A/C to make position report, and use strips to maintain situational awareness.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "As a qualified controller, do you think it is important to know procedure control in case of radar failure?",
+      "question_cn": "作为一名合格的管制员，在雷达失效的情况下，你认为最重要的是知晓程序吗？",
+      "type": "观点类",
+      "answer": "Yes, I think it's very necessary. Because first, controllers should always be ready for possible equipment failure. Then, we must know how to deal with radar failure and how to commence procedure control.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Do you think procedure control is more reliable than radar control? Why?",
+      "question_cn": "你认为程序管制是比雷达管制可靠吗？为什么？",
+      "type": "比较类",
+      "answer": "No. I think radar control is more reliable. Because first, we can see the A/C on the radar, it will show us all the info about the traffic, like callsign, altitude, level change and so on. Then, the radar has warning function, it can help us to monitor conflict and other abnormal situations. Also, radar control is more accurate than procedure control.",
+      "topic": "管制设备",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Do traffic delays often occur in your work? What would result when delays occur?",
+      "question_cn": "在你工作中，航班延误经常发生吗？当延误发生时，会有什么结果？",
+      "type": "后果类",
+      "answer": "Yes, delay is very common. It may lead to pilot working overtime, increase ATC workload, cause endurance problem or traffic congestion. And the passengers will be very angry.",
+      "topic": "航班延误",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What are the reasons for traffic delays according to your own understanding?",
+      "question_cn": "就你自己的理解，航班延误的依据是什么？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to delay. Such as bad weather, military activity, emergency, passenger problem or traffic congestion.",
+      "topic": "航班延误",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "No pilot likes delays, what do you think are some effective ways to make pilots cooperate?",
+      "question_cn": "没有机组喜欢延误，你认为哪些有效的办法能使机组配合？",
+      "type": "建议类",
+      "answer": "First, we should inform pilot about the reason of delay. Then, we should work with flow control unit to determine the delay time. Also, we should inform pilot about departure time in advance.",
+      "topic": "航班延误",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "When a pilot cannot accept delays due to performance or other reasons, how can controllers help them?",
+      "question_cn": "当某个飞行员不能接受延误，由于性能或其他原因，如何能在管制中帮助他们？",
+      "type": "处置类",
+      "answer": "OK. First, we should confirm the endurance, suggest pilot to divert. Then, we should inform related ATC units and supervisor, ask for help. Also, we should confirm pilot's intention and provide support, such as radar vectors or priority landing.",
+      "topic": "航班延误",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Holding is one of the solutions to solve delays. So what information do you need to know before you decide to give a holding instruction?",
+      "question_cn": "等待是一种解决延误的方案，因此，在你决定给出一个等待指令前，你需要知道哪些信息？",
+      "type": "描述类",
+      "answer": "OK, first I should confirm endurance. Then, I should check the weather in holding area, and instruct other A/C to avoid. Also, I should work with other controllers, determine the holding time.",
+      "topic": "航班延误",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "If you will issue a holding instruction to a flight, what basic elements do you think should usually be stated in the holding instruction?",
+      "question_cn": "如果要发等待指令，你觉得要说明哪些基本要素？",
+      "type": "描述类",
+      "answer": "OK, I will issue the altitude, direction, holding fix and inbound track, outbound time of holding.",
+      "topic": "航班延误",
+      "note": ""
+    }
+  ]
+}

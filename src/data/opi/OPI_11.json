@@ -1,0 +1,146 @@
+{
+  "opi_number": 11,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/空域与班次",
+    "放行许可",
+    "延误"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "How long have you been working as a controller? Do you like your job?",
+      "question_cn": "你干管制工作多长时间了？你喜欢你的工作吗？",
+      "type": "自我介绍/背景类",
+      "answer": "同前文类似问题（参见OPI 1-2自我介绍部分）",
+      "topic": "自我介绍/空域与班次",
+      "note": "原文标注同前文类似问题"
+    },
+    {
+      "id": 2,
+      "question_en": "Please briefly introduce the airspace under your jurisdiction.",
+      "question_cn": "请简单的介绍下载你管辖下的空域？",
+      "type": "描述类",
+      "answer": "OK, I'm a xxx controller, I control the airspace between xxxm and xxxxm. Most of the traffic are xxxx flights.",
+      "topic": "自我介绍/空域与班次",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Please talk about the work shift in your unit?",
+      "question_cn": "请谈一谈你单位的倒班班次？",
+      "type": "描述类",
+      "answer": "In my unit, we have 3 groups, each will work for 2 days and rest for 1 day. In a working day, according to the regulation, we can control for 2 hours, and rest for 30min.",
+      "topic": "自我介绍/空域与班次",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Could you please tell me something about the ATC clearance limit?",
+      "question_cn": "请你告诉我一些关于放行限制的事情？",
+      "type": "描述类",
+      "answer": "OK. ATC clearance limit means the A/C must operate within our restriction. It's to ensure the flight safety. (For example, we will issue the limit of dep procedure, pilot should follow our procedure to leave the airspace).",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "When should ATC controllers issue a clearance to a flight?",
+      "question_cn": "什么时候管制员能准许一架航班的放行？",
+      "type": "描述类",
+      "answer": "Controller should issue ATC clearance before taxi.",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "Generally, what information should be included in ATC clearance? Please give an example.",
+      "question_cn": "通常，放行许可都包含什么信息？请举个例子",
+      "type": "描述类",
+      "answer": "OK. For example: CCA105, cleared to BJ via flight planned route. RWY 36. Initial climb to 1200m on QNH. After airborne, contact Dep on 125.35. Follow xxxx D. Cruising level 9800m. Squawk 2453. Info H.",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "If one flight enters a controlled airspace without your clearance, what should you do to solve the problem?",
+      "question_cn": "如果一个航班在管制空域中没有接到你的放行，你将如何处理这个问题？",
+      "type": "处置类",
+      "answer": "First, I should instruct the A/C to vacate my airspace immediately. Then, I will confirm the reason of entering my airspace. If necessary, I will inform related ATC units, and provide radar vectors to help the pilot to detour.",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "What consequences would there be if you didn't realize the mistakes you made in a clearance?",
+      "question_cn": "如果你没有意识到你发的放行许可里的错误，会有什么后果？",
+      "type": "后果类",
+      "answer": "First, pilot will make mistakes, cause traffic conflict. Then, there will be delay or other accident. Also, pilot may encounter lost navigation.",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "As a controller, how can you ensure the clearances you issue to the flight crew are proper and correct?",
+      "question_cn": "作为管制员，你如何确保发给机组的许可是完整和正确的？",
+      "type": "建议类",
+      "answer": "First, I will check the flight plan and strips to ensure my instructions are correct. Then, I will use standard terms and monitor pilot readback. Also, I should monitor radar, if the A/C is making mistakes, I should correct him immediately.",
+      "topic": "放行许可",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever experienced delay during your routine job? Please tell me about it.",
+      "question_cn": "在你的日常工作中，你曾经经历过延误吗？请告诉我关于它。",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. There was heavy fog in our A/P, a dep A/C waited for 4 hours. The pilot and passengers were very angry. I worked with weather department and flow control unit, we tried our best to help the flight. Later, the visibility got better, the flight left the A/P safely.",
+      "topic": "延误",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What reasons may cause ground delay?",
+      "question_cn": "什么原因能导致地面延误？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to ground delay, such as bad weather, military activity, traffic congestion and emergency.",
+      "topic": "延误",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Do you think ground delay is an economic way for airliner companies? Why?",
+      "question_cn": "对于航空公司来说，你认为地面延误是一种经济的方法吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, I think so. Because first, ground delay can help us to avoid endurance problem and pilots working overtime. Then, it's low cost, and easier to make changes. Also, the passengers will have more convenience.",
+      "topic": "延误",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "Is holding in the air an efficient way to deal with delays?",
+      "question_cn": "空中等待是解决延误的有效方法吗？",
+      "type": "观点类",
+      "answer": "No, I don't think so. Because a long holding in the air may lead to endurance problem, and increase traffic conflict. We should use holding in the air with caution.",
+      "topic": "延误",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "What influences does delay have on airliner companies, passengers and ATC controllers?",
+      "question_cn": "延误分别对航空公司，旅客或者管制员有何影响？",
+      "type": "后果类",
+      "answer": "Delay will increase company cost, increase controller's workload, cause more conflict or human error, also, passengers will be angry or miss the following flight.",
+      "topic": "延误",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Sometimes, the flights have to be delayed because of weather, what strategies can be used to relieve traffic flow pressure?",
+      "question_cn": "有时，机组由于天气导致延误，什么策略可以用来缓解交通流量压力？",
+      "type": "建议类",
+      "answer": "First, we can issue flow control. Then, we can work with pilots, suggest the flights in the air to divert or hold. Also, we should have precautions for bad weather, increase working sectors or request more airspace for maneuver.",
+      "topic": "延误",
+      "note": ""
+    }
+  ]
+}

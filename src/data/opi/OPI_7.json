@@ -1,0 +1,146 @@
+{
+  "opi_number": 7,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/教育背景",
+    "恶劣天气",
+    "燃油"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "When did you graduate from the university and what was your major at the university?",
+      "question_cn": "你什么时候大学毕业的？你在学校时学的是什么专业？",
+      "type": "自我介绍/背景类",
+      "answer": "I graduated from university of XJ in 2010, my major was air traffic control.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Do you think the knowledge you learned in the university helps you a lot in your work?",
+      "question_cn": "你认为你在学校里学习的知识对你的工作有大的帮助吗？",
+      "type": "观点类",
+      "answer": "Yes, I think it's very useful. Because first, it's the base of our daily work. Then, it helped me to build a good safety and situational awareness. Also, I learned English in university, it's very helpful when I control the international flights.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Do you enjoy your present job?",
+      "question_cn": "你满意你现在的工作吗？",
+      "type": "观点类",
+      "answer": "Yes, I like my job, because first, it pays me well. Then, it gives me a feeling of achievement. Also, my family and friends respect me because I can handle the heavy duty.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Could you list some types of bad weather such as severe turbulence?",
+      "question_cn": "你能列举出一些危险天气吗？例如严重颠簸。",
+      "type": "原因/列举类",
+      "answer": "Sure. There are many dangerous weather situations, such as wind shear, icing, heavy rain, thunderstorm or fog.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "Where do you get information about bad weather in your airspace?",
+      "question_cn": "在你的空域中，你从哪里得到关于坏天气的信息？",
+      "type": "描述类",
+      "answer": "We can get weather info from ATIS, weather forecast/report, weather satellite and pilot report.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What problems could bad weather bring to your work?",
+      "question_cn": "坏天气将给你的工作带来什么问题？",
+      "type": "后果类",
+      "answer": "OK, first, bad weather will increase our workload, cause delay, detour or diversion. Then, bad weather may cause more conflict and endurance problem. Also, we may need to issue flow control, and sometimes, A/C may be damaged when encountered lightning strike or turbulence.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "Have you ever experienced any extremely bad weather while you were on duty? Please say something about it.",
+      "question_cn": "当你值班时，你经历过任何极端恶劣的天气吗？请讲一讲关于这件事吧。",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. There was heavy snow. The RWY was covered. A landing A/C reported overrun the RWY. So, I instructed following A/C to go around, and send a tug to the damaged flight. The A/C had LG problem, we closed the RWY for 4 hours. Later, the weather got better, we resumed normal operation.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Do you know how weather trends can influence air traffic control?",
+      "question_cn": "你知道怎样的天气趋势能影响空中交通管制吗？",
+      "type": "描述类",
+      "answer": "Yes. If the weather is getting better, we may have more traffic in the area, there will be more workload and conflict. Controllers may make more mistakes. If the weather is getting worse, we may encounter delay, detour and diversion, A/C may encounter damage or endurance problem.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "What suggestions will you give to the pilots who would likely be affected by bad weather conditions?",
+      "question_cn": "你能给受恶劣天气影响的飞行员们什么建议吗？",
+      "type": "建议类",
+      "answer": "Ok, first, I should inform the pilot about weather condition, suggest holding, diversion or return. Then, I should confirm endurance. Also, I should ask pilot to monitor weather radar.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "What factors should you consider for aircraft if the weather is getting worse in your airspace?",
+      "question_cn": "如果天气变坏在你的空域里，你应该考虑哪些因素对飞机的影响？",
+      "type": "描述类",
+      "answer": "OK, if the weather is getting worse, I should consider endurance, diversion, holding, operation standard, using larger separation and pilot's intention.",
+      "topic": "恶劣天气",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What do you know about Minimum FUEL? What should you do if the pilot declares low fuel in your airspace?",
+      "question_cn": "你知道最低油量吗？如果飞行员在你的空域里证实低油量，你将如何做？",
+      "type": "描述类",
+      "answer": "Low fuel means the A/C has enough fuel to follow the flight planned route to the landing A/P. But he can't accept any more holding or delay. It's not an emergency. First, I should confirm the endurance. Then, I should provide radar vectors and priority landing. Also, I should inform related ATC units and instruct other A/C to avoid.",
+      "topic": "燃油",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "What is the difference between Minimum FUEL and Emergency FUEL?",
+      "question_cn": "低油量和最小油量有何不同？",
+      "type": "比较类",
+      "answer": "Minimum fuel means the A/C has used up the holding fuel. It's not an emergency. Emergency fuel is a MAYDAY situation, the A/C can only follow direct flight to the RWY.",
+      "topic": "燃油",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What should you pay attention to when the pilot declares Emergency FUEL?",
+      "question_cn": "当机组报告紧急油量时，你将注意哪些？",
+      "type": "处置类",
+      "answer": "First, I should confirm his endurance and pilot's intention. Then, I should provide direct flight and immediate landing. Also, I should inform A/P, related ATC units and the supervisor, instruct other A/C to avoid. If necessary, I should request a better landing direction.",
+      "topic": "燃油",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "What help can you give to the flight crew to ensure the safety of flight?",
+      "question_cn": "你给机组什么帮助能确认飞行安全？",
+      "type": "描述类",
+      "answer": "First, I should monitor the altitude and speed of the A/C. Then, I can request more airspace and provide landing priority. Also, I should help the pilot to avoid bad weather and possible missed app.",
+      "topic": "燃油",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Why is the fuel quantity of the flight which declares Emergency FUEL checked after landing?",
+      "question_cn": "宣布最低油量的航班在落地后为什么要检查油量？",
+      "type": "原因/列举类",
+      "answer": "Because we need to find out the reason of fuel shortage, and this can prevent the pilot from cheating for an early landing.",
+      "topic": "燃油",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,1234 @@
+{
+  "1": [
+    {
+      "id": 1,
+      "text": "How long have you been working as an air traffic controller?",
+      "filename": "OPI_01_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Are you proud of yourself as a controller? Why?",
+      "filename": "OPI_01_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Could you give a general introduction of the area/or airspace under your control?",
+      "filename": "OPI_01_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever controlled a flight which made a missed approach?",
+      "filename": "OPI_01_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What reasons do you think may cause a missed approach?",
+      "filename": "OPI_01_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What help do you think the pilots may need when executing missed approach?",
+      "filename": "OPI_01_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "Do you think the standard procedures for missed approach can provide convenience both for the pilots and controllers?",
+      "filename": "OPI_01_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "How could a missed approach influence ATC work?",
+      "filename": "OPI_01_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Do you think it is necessary to make a missed approach for flight safety under certain situations?",
+      "filename": "OPI_01_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever experienced air miss in your work? If yes, please share the story with me; if no, have you heard any of that?",
+      "filename": "OPI_01_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What reasons may cause an airmiss?",
+      "filename": "OPI_01_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "What are some of the separation limits in your control unit?",
+      "filename": "OPI_01_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "If the separation limits between two aircraft is going to be exceeded, what will you do?",
+      "filename": "OPI_01_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "What do you think are some of the consequences of an airmiss?",
+      "filename": "OPI_01_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Can you suggest some good ways to avoid or prevent airmiss effectively?",
+      "filename": "OPI_01_Q15.mp3"
+    }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "text": "Which ATC unit do you work in?",
+      "filename": "OPI_02_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What's your position now and what's the main responsibility of your position?",
+      "filename": "OPI_02_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Have you ever received some training related to air traffic control recently? Could you say something about that?",
+      "filename": "OPI_02_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "What kind of abnormal situations have you ever experienced in the past?",
+      "filename": "OPI_02_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "According to your understanding, what are the main principles when dealing with abnormal situations?",
+      "filename": "OPI_02_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What personality should an air traffic controller have when dealing with abnormal or emergency situations?",
+      "filename": "OPI_02_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "Do you have standard procedures for abnormal or emergency situations in your control unit? Could you please give an example?",
+      "filename": "OPI_02_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Have you ever had trouble in communicating with foreign pilots when dealing with abnormal situations? If yes, how did you overcome the trouble to ensure flight safety?",
+      "filename": "OPI_02_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Assume the flight crew report that one passenger onboard had a heart attack, how do you handle the situation when you are on duty?",
+      "filename": "OPI_02_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "What reasons may cause flow control?",
+      "filename": "OPI_02_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "Do you think it is necessary to impose flow control?",
+      "filename": "OPI_02_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "What consequences does flow control bring to controllers, airline companies, pilots and passengers respectively?",
+      "filename": "OPI_02_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Who is responsible for making a decision to control traffic flow?",
+      "filename": "OPI_02_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "What factors should be taken into consideration when making a decision to control traffic flow?",
+      "filename": "OPI_02_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "After a long delay on the ground because of flow control, pilots are likely to be anxious, how do you deal with their complaints and quarrels on your frequency?",
+      "filename": "OPI_02_Q15.mp3"
+    }
+  ],
+  "3": [
+    {
+      "id": 1,
+      "text": "Do you often communicate with foreign pilots in English? If yes, do you have any problems in radiotelephony communication?",
+      "filename": "OPI_03_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Do you think it is necessary to speak English in radiotelephony communication with Chinese pilots? Why?",
+      "filename": "OPI_03_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you think speaking English may cause more communication misunderstanding? Why?",
+      "filename": "OPI_03_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "The runway is a critical area for flight safety; do you know anything about runway incursions?",
+      "filename": "OPI_03_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What could cause a runway incursion?",
+      "filename": "OPI_03_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What consequences may a runway incursion bring?",
+      "filename": "OPI_03_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "When the runway is unlawfully occupied, what should a tower controller do?",
+      "filename": "OPI_03_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "In order to prevent a runway incursion from happening, what special rules or regulations should you follow?",
+      "filename": "OPI_03_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Have you ever heard of or encountered a runway incursion? Please tell the story. And what did you learn from the incident?",
+      "filename": "OPI_03_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever controlled an aircraft dumping fuel?",
+      "filename": "OPI_03_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "Under what conditions does an aircraft need to dump fuel?",
+      "filename": "OPI_03_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Could you please describe the fuel dumping procedures in your airspace?",
+      "filename": "OPI_03_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What information should an air traffic controller relay to other aircraft flight crews before fuel dumping begins?",
+      "filename": "OPI_03_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "How would fuel dumping affect other aircraft near the fuel dumping area?",
+      "filename": "OPI_03_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "What help can controllers provide to a flight crew when they need to dump fuel?",
+      "filename": "OPI_03_Q15.mp3"
+    }
+  ],
+  "4": [
+    {
+      "id": 1,
+      "text": "How long have you been working as an air traffic controller?",
+      "filename": "OPI_04_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What is your working position?",
+      "filename": "OPI_04_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you enjoy your job at present? Why?",
+      "filename": "OPI_04_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever controlled an aircraft experiencing a bomb threat? If not, do you know a story about this?",
+      "filename": "OPI_04_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "Have you ever received any bomb threat training in a simulator?",
+      "filename": "OPI_04_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "In your opinion, what are some important pieces of information you should gather when a bomb threat occurs?",
+      "filename": "OPI_04_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "If you receive an anonymous call saying there is a hand bomb on board, what procedures should you follow to handle the situation?",
+      "filename": "OPI_04_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "If the flight with the bomb threat is going to divert to your airport, how would you handle it?",
+      "filename": "OPI_04_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "When bomb threat occurs, what help can you give the flight crew to assist them through the emergency?",
+      "filename": "OPI_04_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Which one do you think is more dangerous, a bomb threat or a fire on board? Why?",
+      "filename": "OPI_04_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What may cause a fire on board?",
+      "filename": "OPI_04_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "If a pilot reports passengers were injured, how would it affect your control operation?",
+      "filename": "OPI_04_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Are there any standard procedures for controllers to follow for fire on board? If yes, please explain.",
+      "filename": "OPI_04_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "If the aircraft with a fire on board lands at your airport and executes emergency evacuation on the runway in use, what can you do to help the subsequent flights?",
+      "filename": "OPI_04_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "How do you cooperate with other control units when fire on board happens?",
+      "filename": "OPI_04_Q15.mp3"
+    }
+  ],
+  "5": [
+    {
+      "id": 1,
+      "text": "When and where did you graduate from the university?",
+      "filename": "OPI_05_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Do you think the knowledge you've learned in the university helped you a lot in your work? Why or why not?",
+      "filename": "OPI_05_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "What suggestions will you give to the student controllers who are at the university?",
+      "filename": "OPI_05_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Could you please describe an event of air miss or near miss?",
+      "filename": "OPI_05_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "Why is air miss or near miss dangerous?",
+      "filename": "OPI_05_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What may cause air miss or near miss?",
+      "filename": "OPI_05_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "What is the separation minima for radar control or procedure control in your control area?",
+      "filename": "OPI_05_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "When you discover the risk of air miss between two aircraft, what should you do immediately to avoid near miss?",
+      "filename": "OPI_05_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "What are your procedures when the separation minima seem to be exceeded?",
+      "filename": "OPI_05_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever received any simulator training about hijacking? Do you think it is necessary for controllers to receive such training?",
+      "filename": "OPI_05_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "When a hijacking occurs, what information should the controllers know?",
+      "filename": "OPI_05_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "If the hijacker wants to divert to other airport, what information should controllers provide to the flight crew?",
+      "filename": "OPI_05_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What help can ATC give to the flight crew in order to control the situation?",
+      "filename": "OPI_05_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Do you have standard procedures for dealing with a hijacking? If yes, what are they?",
+      "filename": "OPI_05_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "What is the most important thing when dealing with a hijacking?",
+      "filename": "OPI_05_Q15.mp3"
+    }
+  ],
+  "6": [
+    {
+      "id": 1,
+      "text": "Which ATC unit do you work for?",
+      "filename": "OPI_06_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "How long have you been working in the unit?",
+      "filename": "OPI_06_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Could you tell us something about your daily work?",
+      "filename": "OPI_06_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Could you please describe ATC facilities in your unit?",
+      "filename": "OPI_06_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What roles do ATC facilities play in your routine job?",
+      "filename": "OPI_06_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "Suppose one day your radar fails suddenly, what will you do to continue ATC services under this situation?",
+      "filename": "OPI_06_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "How do you control aircraft without the help of radar?",
+      "filename": "OPI_06_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "As a qualified controller, do you think it is important to know procedure control in case of radar failure?",
+      "filename": "OPI_06_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Do you think procedure control is more reliable than radar control? Why?",
+      "filename": "OPI_06_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Do traffic delays often occur in your work? What would result when delays occur?",
+      "filename": "OPI_06_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What are the reasons for traffic delays according to your own understanding?",
+      "filename": "OPI_06_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "No pilot likes delays, what do you think are some effective ways to make pilots cooperate?",
+      "filename": "OPI_06_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "When a pilot cannot accept delays due to performance or other reasons, how can controllers help them?",
+      "filename": "OPI_06_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Holding is one of the solutions to solve delays. So what information do you need to know before you decide to give a holding instruction?",
+      "filename": "OPI_06_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "If you will issue a holding instruction to a flight, what basic elements do you think should usually be stated in the holding instruction?",
+      "filename": "OPI_06_Q15.mp3"
+    }
+  ],
+  "7": [
+    {
+      "id": 1,
+      "text": "When did you graduate from the university and what was your major at the university?",
+      "filename": "OPI_07_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Do you think the knowledge you learned in the university helps you a lot in your work?",
+      "filename": "OPI_07_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you enjoy your present job?",
+      "filename": "OPI_07_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Could you list some types of bad weather such as severe turbulence?",
+      "filename": "OPI_07_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "Where do you get information about bad weather in your airspace?",
+      "filename": "OPI_07_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What problems could bad weather bring to your work?",
+      "filename": "OPI_07_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "Have you ever experienced any extremely bad weather while you were on duty? Please say something about it.",
+      "filename": "OPI_07_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Do you know how weather trends can influence air traffic control?",
+      "filename": "OPI_07_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "What suggestions will you give to the pilots who would likely be affected by bad weather conditions?",
+      "filename": "OPI_07_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "What factors should you consider for aircraft if the weather is getting worse in your airspace?",
+      "filename": "OPI_07_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What do you know about Minimum FUEL? What should you do if the pilot declares low fuel in your airspace?",
+      "filename": "OPI_07_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "What is the difference between Minimum FUEL and Emergency FUEL?",
+      "filename": "OPI_07_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What should you pay attention to when the pilot declares Emergency FUEL?",
+      "filename": "OPI_07_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "What help can you give to the flight crew to ensure the safety of flight?",
+      "filename": "OPI_07_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Why is the fuel quantity of the flight which declares Emergency FUEL checked after landing?",
+      "filename": "OPI_07_Q15.mp3"
+    }
+  ],
+  "8": [
+    {
+      "id": 1,
+      "text": "How long have you been working as a controller?",
+      "filename": "OPI_08_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Could you tell some advantages or disadvantages of your job?",
+      "filename": "OPI_08_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "How do you keep your ATC knowledge up-to-date?",
+      "filename": "OPI_08_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Can you explain marginal weather to us?",
+      "filename": "OPI_08_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What hazards may marginal weather bring to flight safety?",
+      "filename": "OPI_08_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "Do you know a pilot who has risked to flying in under marginal weather?",
+      "filename": "OPI_08_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "Can you refuse the pilot's request of operating an aircraft in marginal weather? Why?",
+      "filename": "OPI_08_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Can you give some suggestions to the pilots landing in marginal weather?",
+      "filename": "OPI_08_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "For operations in marginal weather, are there any different requirements for Terminal controllers and Area controllers?",
+      "filename": "OPI_08_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Can you tell me your understanding about minimum safe altitudes?",
+      "filename": "OPI_08_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What might happen if the minimum safe altitude is exceeded?",
+      "filename": "OPI_08_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Do you have any means of ensuring that aircraft do not exceed the minimum safety altitude?",
+      "filename": "OPI_08_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What will you do if the aircraft under your control flies below the minimum safety altitude?",
+      "filename": "OPI_08_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Below the minimum altitude and under radar control, can you assign a visual approach in marginal weather to avoid terrain warning? Why?",
+      "filename": "OPI_08_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "For pilots insisting on visual approach in marginal weather, what precautions can ATC make to ensure flight safety?",
+      "filename": "OPI_08_Q15.mp3"
+    }
+  ],
+  "9": [
+    {
+      "id": 1,
+      "text": "Why did you choose to be an air traffic controller?",
+      "filename": "OPI_09_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What was your first impression of your work?",
+      "filename": "OPI_09_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "What's your position in your ATC unit?",
+      "filename": "OPI_09_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Could you say something about the bird activities at your airport?",
+      "filename": "OPI_09_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "How do bird activities influence flight safety?",
+      "filename": "OPI_09_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "If you receive a report that there is a flock of birds in the vicinity of your airport, what will you do?",
+      "filename": "OPI_09_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "What are some possible consequences to an aircraft if it ingests birds into the engine?",
+      "filename": "OPI_09_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Have you ever experienced any coordination between ATC units concerning bird strike?",
+      "filename": "OPI_09_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "In China, what flights can be categorized as VIP flights?",
+      "filename": "OPI_09_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "What are some priorities that VIP flights have over normal flights?",
+      "filename": "OPI_09_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "If normal flights encounter emergency, should VIP flights give way to the flight with the emergency? Why?",
+      "filename": "OPI_09_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Can you introduce the standard procedures used to control VIP flights in your daily work?",
+      "filename": "OPI_09_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "If your control unit receives a VIP flight plan from the dispatch office, how will you deal with it?",
+      "filename": "OPI_09_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Do you know the radar separation between VIP flights and normal flights?",
+      "filename": "OPI_09_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Is it more difficult to ensure the security of VIP flights than normal flights? Why?",
+      "filename": "OPI_09_Q15.mp3"
+    }
+  ],
+  "10": [
+    {
+      "id": 1,
+      "text": "Can you describe the job responsibility of an ATC controller?",
+      "filename": "OPI_10_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What types of on-the-job training did you receive?",
+      "filename": "OPI_10_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Is it necessary for a controller to take simulator training every year? Why?",
+      "filename": "OPI_10_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "What are the possible reasons for making a belly landing?",
+      "filename": "OPI_10_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "Which is more dangerous, belly landing or water ditching? Why?",
+      "filename": "OPI_10_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What help can ATC controllers provide to the flight crew when they request belly landing?",
+      "filename": "OPI_10_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "Before making belly landing, many flights conduct low pass, in what way can low pass help belly landing?",
+      "filename": "OPI_10_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Is fuel dumping necessary before each belly landing? Why?",
+      "filename": "OPI_10_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "What ground services may be needed when making a belly landing?",
+      "filename": "OPI_10_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever experienced or heard of emergency evacuation? Tell me about it.",
+      "filename": "OPI_10_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "In which situations is emergency evacuation needed?",
+      "filename": "OPI_10_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "When a flight executes emergency evacuation, what departments will ATC need to inform?",
+      "filename": "OPI_10_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What assistance should you provide for the flight crew before executing emergency evacuation?",
+      "filename": "OPI_10_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "When emergency evacuation occurs, what ground services are needed?",
+      "filename": "OPI_10_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "If emergency evacuation is not executed properly, what possible results may occur?",
+      "filename": "OPI_10_Q15.mp3"
+    }
+  ],
+  "11": [
+    {
+      "id": 1,
+      "text": "How long have you been working as a controller? Do you like your job?",
+      "filename": "OPI_11_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Please briefly introduce the airspace under your jurisdiction.",
+      "filename": "OPI_11_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Please talk about the work shift in your unit?",
+      "filename": "OPI_11_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Could you please tell me something about the ATC clearance limit?",
+      "filename": "OPI_11_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "When should ATC controllers issue a clearance to a flight?",
+      "filename": "OPI_11_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "Generally, what information should be included in ATC clearance? Please give an example.",
+      "filename": "OPI_11_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "If one flight enters a controlled airspace without your clearance, what should you do to solve the problem?",
+      "filename": "OPI_11_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "What consequences would there be if you didn't realize the mistakes you made in a clearance?",
+      "filename": "OPI_11_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "As a controller, how can you ensure the clearances you issue to the flight crew are proper and correct?",
+      "filename": "OPI_11_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever experienced delay during your routine job? Please tell me about it.",
+      "filename": "OPI_11_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What reasons may cause ground delay?",
+      "filename": "OPI_11_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Do you think ground delay is an economic way for airliner companies? Why?",
+      "filename": "OPI_11_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Is holding in the air an efficient way to deal with delays?",
+      "filename": "OPI_11_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "What influences does delay have on airliner companies, passengers and ATC controllers?",
+      "filename": "OPI_11_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Sometimes, the flights have to be delayed because of weather, what strategies can be used to relieve traffic flow pressure?",
+      "filename": "OPI_11_Q15.mp3"
+    }
+  ],
+  "12": [
+    {
+      "id": 1,
+      "text": "Can you tell me something about your present job?",
+      "filename": "OPI_12_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "Can you please describe the work shift in your unit?",
+      "filename": "OPI_12_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you experience much pressure from your work? How do you relax yourself?",
+      "filename": "OPI_12_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever encountered runway incursion or heard of such kind of incidents?",
+      "filename": "OPI_12_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What may result in runway incursion?",
+      "filename": "OPI_12_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "Do you think the use of non-standard phraseology might be one of the contributing factors of runway incursion? Please explain your reasoning?",
+      "filename": "OPI_12_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "What are your suggestions for avoiding runway incursion?",
+      "filename": "OPI_12_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "When and where do you receive simulator training?",
+      "filename": "OPI_12_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Is simulator training necessary for controllers? Why?",
+      "filename": "OPI_12_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "What do you think the controllers can learn from simulator training practices?",
+      "filename": "OPI_12_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "Did you receive training for emergency situations on the simulators? What impressed you most among those subjects?",
+      "filename": "OPI_12_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Some controllers may do a good job in the simulator training but he or she can't control airplanes properly and correctly in real time, what is your opinion about this?",
+      "filename": "OPI_12_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "What may cause traffic conflicts?",
+      "filename": "OPI_12_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "When traffic conflicts occur, what do you think is the most effective way to solve the problem?",
+      "filename": "OPI_12_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Can pilots and controllers completely believe TCAS warning? Why?",
+      "filename": "OPI_12_Q15.mp3"
+    }
+  ],
+  "13": [
+    {
+      "id": 1,
+      "text": "Which ATC unit do you work in?",
+      "filename": "OPI_13_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What are the main responsibilities of your job?",
+      "filename": "OPI_13_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you like your job? Why?",
+      "filename": "OPI_13_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever encountered or heard of ground collisions? Please tell me about it.",
+      "filename": "OPI_13_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What are the possible causes of ground collisions?",
+      "filename": "OPI_13_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "Who should be responsible for the accidents once ground collisions occur?",
+      "filename": "OPI_13_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "In your opinion, what should controllers do to prevent ground collisions from happening?",
+      "filename": "OPI_13_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Do you think both controllers and pilots should be well prepared for radio communication failure? Why?",
+      "filename": "OPI_13_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "What reasons may cause radio communication failure?",
+      "filename": "OPI_13_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Is radio check an efficient way to check radio failure? Why?",
+      "filename": "OPI_13_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "Why should you transmit some messages blindly when two-way communication fails?",
+      "filename": "OPI_13_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "Have you ever encountered misunderstanding between you and other controllers or pilots?",
+      "filename": "OPI_13_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "If a message in radio telephony communication is misunderstood, what might be the consequences?",
+      "filename": "OPI_13_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Do you think the use of standard phraseology can reduce misunderstanding? Why?",
+      "filename": "OPI_13_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Can you give some suggestions to avoid misunderstanding in communication?",
+      "filename": "OPI_13_Q15.mp3"
+    }
+  ],
+  "14": [
+    {
+      "id": 1,
+      "text": "Why did you choose ATC as your career?",
+      "filename": "OPI_14_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What do you think of your present job?",
+      "filename": "OPI_14_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Which air traffic control unit do you think is the most challenging one?",
+      "filename": "OPI_14_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever experienced or heard of a flight with fire on board? Please tell me about it.",
+      "filename": "OPI_14_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "What are the possible causes of fire on board?",
+      "filename": "OPI_14_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What are the possible results if the flight with fire on board is not controlled properly and timely?",
+      "filename": "OPI_14_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "What should ACC or APP do when the flight crew report fire on board?",
+      "filename": "OPI_14_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Is emergency evacuation needed after landing if the aircraft catches fire? Why?",
+      "filename": "OPI_14_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Do you often use English to communicate with pilots in your routine work?",
+      "filename": "OPI_14_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Is it hard for you to communicate with pilots in English? Why?",
+      "filename": "OPI_14_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "How can a controller achieve effective communication in English with pilots?",
+      "filename": "OPI_14_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "In what way does ICAO language proficiency requirement contribute to flight safety?",
+      "filename": "OPI_14_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Have you ever experienced or heard of misunderstanding in communication with pilots?",
+      "filename": "OPI_14_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "What may cause misunderstanding?",
+      "filename": "OPI_14_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "As a controller, how can you avoid misunderstanding in communication?",
+      "filename": "OPI_14_Q15.mp3"
+    }
+  ],
+  "15": [
+    {
+      "id": 1,
+      "text": "Why did you choose to be an air traffic controller?",
+      "filename": "OPI_15_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What are the important qualities that an air traffic controller should have?",
+      "filename": "OPI_15_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you think on-the-job training is important for controllers? Why?",
+      "filename": "OPI_15_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Have you ever flown with a flight crew to experience the whole flight? Do you think it is necessary for controllers?",
+      "filename": "OPI_15_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "Do you often exchange ideas with pilots on some concerns about flight and air traffic control?",
+      "filename": "OPI_15_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "How should controllers cooperate with pilots in maintaining an orderly flow of traffic?",
+      "filename": "OPI_15_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "If disputes occur between you and the pilots, what should you do to ensure flight safety?",
+      "filename": "OPI_15_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "What should you do when the flight crew doesn't follow your instruction in flight?",
+      "filename": "OPI_15_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "If you make mistakes in your instruction and the flight crew point it out, do you think you lose face and how do you correct it to ensure flight safety?",
+      "filename": "OPI_15_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "Have you ever encountered the situation of a missed approach?",
+      "filename": "OPI_15_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What are the possible reasons for a missed approach?",
+      "filename": "OPI_15_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "When the flight crew makes a decision to land instead of following controllers' advice of going around, what should controllers do?",
+      "filename": "OPI_15_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Under what situations is emergency descent necessary?",
+      "filename": "OPI_15_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "When the flight crew reports they are making emergency descent, what help can ATC provide to the crew?",
+      "filename": "OPI_15_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "When emergency descent occurs, how do you coordinate with controllers in other control units?",
+      "filename": "OPI_15_Q15.mp3"
+    }
+  ],
+  "16": [
+    {
+      "id": 1,
+      "text": "Do you enjoy studying English?",
+      "filename": "OPI_16_Q01.mp3"
+    },
+    {
+      "id": 2,
+      "text": "What problems do you have in your English studies? What help do you need?",
+      "filename": "OPI_16_Q02.mp3"
+    },
+    {
+      "id": 3,
+      "text": "Do you think English is important in radio communication nowadays?",
+      "filename": "OPI_16_Q03.mp3"
+    },
+    {
+      "id": 4,
+      "text": "Do you have ways to delay approach? What are they?",
+      "filename": "OPI_16_Q04.mp3"
+    },
+    {
+      "id": 5,
+      "text": "When and why do you need to use speed adjustment?",
+      "filename": "OPI_16_Q05.mp3"
+    },
+    {
+      "id": 6,
+      "text": "What methods do you usually use to adjust speed?",
+      "filename": "OPI_16_Q06.mp3"
+    },
+    {
+      "id": 7,
+      "text": "What are the main principles for speed adjustment?",
+      "filename": "OPI_16_Q07.mp3"
+    },
+    {
+      "id": 8,
+      "text": "Do you think controllers should keep speed adjustments to the minimum? Why?",
+      "filename": "OPI_16_Q08.mp3"
+    },
+    {
+      "id": 9,
+      "text": "Have you ever controlled a flight with landing gear problems?",
+      "filename": "OPI_16_Q09.mp3"
+    },
+    {
+      "id": 10,
+      "text": "What might be the results if a landing aircraft can only extend landing gear partially?",
+      "filename": "OPI_16_Q10.mp3"
+    },
+    {
+      "id": 11,
+      "text": "What help can you provide to the flight crew undergoing the gear problems?",
+      "filename": "OPI_16_Q11.mp3"
+    },
+    {
+      "id": 12,
+      "text": "In this situation, what should you do to maintain the safety of other aircraft in the vicinity of the aerodrome?",
+      "filename": "OPI_16_Q12.mp3"
+    },
+    {
+      "id": 13,
+      "text": "Do you use radar separation or procedure separation in your control unit? What is the difference between them?",
+      "filename": "OPI_16_Q13.mp3"
+    },
+    {
+      "id": 14,
+      "text": "Is separation changeable in your control unit according to the situation of traffic in the air? How can you change it?",
+      "filename": "OPI_16_Q14.mp3"
+    },
+    {
+      "id": 15,
+      "text": "Why is minimum separation needed in air traffic control services?",
+      "filename": "OPI_16_Q15.mp3"
+    }
+  ]
+}

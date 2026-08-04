@@ -1,0 +1,146 @@
+{
+  "opi_number": 5,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/教育背景",
+    "空中危险接近",
+    "劫机"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "When and where did you graduate from the university?",
+      "question_cn": "你什么时候从哪所学校毕业的？",
+      "type": "自我介绍/背景类",
+      "answer": "I graduated from CAUC/CAFUC/NUAA in 2000/2012.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Do you think the knowledge you've learned in the university helped you a lot in your work? Why or why not?",
+      "question_cn": "你认为你在大学里所学的知识对你的工作有很大帮助吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, I think so. Because first, it will help us to understand work SOP. Then, it will help us to form a good safety awareness. Also, the English we learned in school is very useful.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "What suggestions will you give to the student controllers who are at the university?",
+      "question_cn": "你给在大学学习管制的学生们什么建议？",
+      "type": "建议类",
+      "answer": "OK, I think they should learn English well in school. Because we are very busy at work. Use the time in school wisely.",
+      "topic": "自我介绍/教育背景",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Could you please describe an event of air miss or near miss?",
+      "question_cn": "请你描述一次空中危险接近事件？",
+      "type": "讲故事/经历类",
+      "answer": "同Airmiss（参见OPI 1第10题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同Airmiss"
+    },
+    {
+      "id": 5,
+      "question_en": "Why is air miss or near miss dangerous?",
+      "question_cn": "为什么危险接近危险？",
+      "type": "后果类",
+      "answer": "后果类问题，同airmiss（参见OPI 1第14题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同airmiss后果"
+    },
+    {
+      "id": 6,
+      "question_en": "What may cause air miss or near miss?",
+      "question_cn": "引起空中危险接近的原因是什么？",
+      "type": "原因/列举类",
+      "answer": "同airmiss原因（参见OPI 1第11题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同airmiss原因"
+    },
+    {
+      "id": 7,
+      "question_en": "What is the separation minima for radar control or procedure control in your control area?",
+      "question_cn": "在你的管制空域中，雷达管制或程序管制的最小间隔是什么？",
+      "type": "描述类",
+      "answer": "同airmiss描述间隔（参见OPI 1第12题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同airmiss描述间隔"
+    },
+    {
+      "id": 8,
+      "question_en": "When you discover the risk of air miss between two aircraft, what should you do immediately to avoid near miss?",
+      "question_cn": "当你发现两架飞机有小于间隔的危险时，你怎样立即避免空中危险接近？",
+      "type": "处置类",
+      "answer": "同airmiss处置（参见OPI 1第13题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同airmiss处置"
+    },
+    {
+      "id": 9,
+      "question_en": "What are your procedures when the separation minima seem to be exceeded?",
+      "question_cn": "当最小间隔看起来要被超越时，你的标准程序是什么？",
+      "type": "处置类",
+      "answer": "同airmiss处置（参见OPI 1第13题）",
+      "topic": "空中危险接近",
+      "note": "原文标注同airmiss处置"
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever received any simulator training about hijacking? Do you think it is necessary for controllers to receive such training?",
+      "question_cn": "你曾经经过任何有关于劫机的模拟训练吗？你认为接受这种训练对于管制员是有必要的吗？",
+      "type": "观点类",
+      "answer": "Yes. We must have simulator training for hijack every year. I think it's very necessary, because all the controllers should know how to work with pilots during hijacking. And we must be ready for anything.",
+      "topic": "劫机",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "When a hijacking occurs, what information should the controllers know?",
+      "question_cn": "当劫机发生时，管制员需要知道哪些信息？",
+      "type": "描述类",
+      "answer": "Controller should get info about the POB, endurance, number of hijackers, weapon, injuries and pilot's intention.",
+      "topic": "劫机",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "If the hijacker wants to divert to other airport, what information should controllers provide to the flight crew?",
+      "question_cn": "如果劫机者想改航去其他机场，管制员需要给机组提供什么信息？",
+      "type": "处置类",
+      "answer": "If they wanted to divert, I should provide the route, weather and alternate A/P info.",
+      "topic": "劫机",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What help can ATC give to the flight crew in order to control the situation?",
+      "question_cn": "为了控制劫机事件，管制员能给机组提供什么帮助？",
+      "type": "描述类",
+      "answer": "First, we should inform Air Force and anti-hijack squad. Then, we should instruct other A/C to avoid, monitor the A/C. Also, we should inform supervisor, related ATC units and Emergency services.",
+      "topic": "劫机",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Do you have standard procedures for dealing with a hijacking? If yes, what are they?",
+      "question_cn": "你们有处理劫机的标准程序吗？如果有，是什么内容？",
+      "type": "处置类",
+      "answer": "First, I should confirm squawk 7500. Then, I should confirm the situation on board, such as POB, endurance, number of hijackers, weapon, injuries and pilot's intention. Also, I should inform Air Force, supervisor, anti-hijack squad and related ATC units. If necessary, I should instruct other A/C to avoid, issue flow control.",
+      "topic": "劫机",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "What is the most important thing when dealing with a hijacking?",
+      "question_cn": "当处理劫机时，什么是最重要的事情？",
+      "type": "描述类",
+      "answer": "Follow SOP and checklist, Never provide personal advice.",
+      "topic": "劫机",
+      "note": ""
+    }
+  ]
+}

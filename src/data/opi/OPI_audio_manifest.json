@@ -1,0 +1,1549 @@
+{
+  "version": "1.0",
+  "total_opis": 16,
+  "audio_config": {
+    "engine": "edge-tts",
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "format": "mp3",
+    "naming_pattern": "OPI_{opi_num:02d}_Q{q_id:02d}.mp3"
+  },
+  "opis": {
+    "1": {
+      "json_file": "OPI_1.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍",
+        "复飞",
+        "空中危险接近"
+      ],
+      "audio_dir": "OPI_01",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_01_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_01_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_01_Q03.mp3",
+          "type": "描述类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_01_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "复飞"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_01_Q05.mp3",
+          "type": "原因/列举类",
+          "topic": "复飞"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_01_Q06.mp3",
+          "type": "处置类",
+          "topic": "复飞"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_01_Q07.mp3",
+          "type": "观点类",
+          "topic": "复飞"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_01_Q08.mp3",
+          "type": "后果类",
+          "topic": "复飞"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_01_Q09.mp3",
+          "type": "观点类",
+          "topic": "复飞"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_01_Q10.mp3",
+          "type": "讲故事/经历类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_01_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_01_Q12.mp3",
+          "type": "描述类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_01_Q13.mp3",
+          "type": "处置类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_01_Q14.mp3",
+          "type": "后果类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_01_Q15.mp3",
+          "type": "建议类",
+          "topic": "空中危险接近"
+        }
+      ]
+    },
+    "3": {
+      "json_file": "OPI_3.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/通讯",
+        "跑道入侵",
+        "放油"
+      ],
+      "audio_dir": "OPI_03",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_03_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/通讯"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_03_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/通讯"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_03_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/通讯"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_03_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_03_Q05.mp3",
+          "type": "原因/列举类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_03_Q06.mp3",
+          "type": "后果类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_03_Q07.mp3",
+          "type": "处置类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_03_Q08.mp3",
+          "type": "建议类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_03_Q09.mp3",
+          "type": "讲故事/经历类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_03_Q10.mp3",
+          "type": "讲故事/经历类",
+          "topic": "放油"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_03_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "放油"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_03_Q12.mp3",
+          "type": "描述类",
+          "topic": "放油"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_03_Q13.mp3",
+          "type": "描述类",
+          "topic": "放油"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_03_Q14.mp3",
+          "type": "后果类",
+          "topic": "放油"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_03_Q15.mp3",
+          "type": "描述类",
+          "topic": "放油"
+        }
+      ]
+    },
+    "4": {
+      "json_file": "OPI_4.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍",
+        "炸弹威胁",
+        "机上失火"
+      ],
+      "audio_dir": "OPI_04",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_04_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_04_Q02.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_04_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_04_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_04_Q05.mp3",
+          "type": "讲故事/经历类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_04_Q06.mp3",
+          "type": "描述类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_04_Q07.mp3",
+          "type": "处置类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_04_Q08.mp3",
+          "type": "处置类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_04_Q09.mp3",
+          "type": "描述类",
+          "topic": "炸弹威胁"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_04_Q10.mp3",
+          "type": "比较类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_04_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_04_Q12.mp3",
+          "type": "后果类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_04_Q13.mp3",
+          "type": "处置类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_04_Q14.mp3",
+          "type": "处置类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_04_Q15.mp3",
+          "type": "描述类",
+          "topic": "机上失火"
+        }
+      ]
+    },
+    "5": {
+      "json_file": "OPI_5.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/教育背景",
+        "空中危险接近",
+        "劫机"
+      ],
+      "audio_dir": "OPI_05",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_05_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_05_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_05_Q03.mp3",
+          "type": "建议类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_05_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_05_Q05.mp3",
+          "type": "后果类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_05_Q06.mp3",
+          "type": "原因/列举类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_05_Q07.mp3",
+          "type": "描述类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_05_Q08.mp3",
+          "type": "处置类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_05_Q09.mp3",
+          "type": "处置类",
+          "topic": "空中危险接近"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_05_Q10.mp3",
+          "type": "观点类",
+          "topic": "劫机"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_05_Q11.mp3",
+          "type": "描述类",
+          "topic": "劫机"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_05_Q12.mp3",
+          "type": "处置类",
+          "topic": "劫机"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_05_Q13.mp3",
+          "type": "描述类",
+          "topic": "劫机"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_05_Q14.mp3",
+          "type": "处置类",
+          "topic": "劫机"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_05_Q15.mp3",
+          "type": "描述类",
+          "topic": "劫机"
+        }
+      ]
+    },
+    "6": {
+      "json_file": "OPI_6.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/日常工作",
+        "管制设备",
+        "航班延误"
+      ],
+      "audio_dir": "OPI_06",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_06_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/日常工作"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_06_Q02.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/日常工作"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_06_Q03.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/日常工作"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_06_Q04.mp3",
+          "type": "描述类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_06_Q05.mp3",
+          "type": "描述类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_06_Q06.mp3",
+          "type": "处置类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_06_Q07.mp3",
+          "type": "处置类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_06_Q08.mp3",
+          "type": "观点类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_06_Q09.mp3",
+          "type": "比较类",
+          "topic": "管制设备"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_06_Q10.mp3",
+          "type": "后果类",
+          "topic": "航班延误"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_06_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "航班延误"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_06_Q12.mp3",
+          "type": "建议类",
+          "topic": "航班延误"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_06_Q13.mp3",
+          "type": "处置类",
+          "topic": "航班延误"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_06_Q14.mp3",
+          "type": "描述类",
+          "topic": "航班延误"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_06_Q15.mp3",
+          "type": "描述类",
+          "topic": "航班延误"
+        }
+      ]
+    },
+    "7": {
+      "json_file": "OPI_7.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/教育背景",
+        "恶劣天气",
+        "燃油"
+      ],
+      "audio_dir": "OPI_07",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_07_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_07_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_07_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/教育背景"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_07_Q04.mp3",
+          "type": "原因/列举类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_07_Q05.mp3",
+          "type": "描述类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_07_Q06.mp3",
+          "type": "后果类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_07_Q07.mp3",
+          "type": "讲故事/经历类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_07_Q08.mp3",
+          "type": "描述类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_07_Q09.mp3",
+          "type": "建议类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_07_Q10.mp3",
+          "type": "描述类",
+          "topic": "恶劣天气"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_07_Q11.mp3",
+          "type": "描述类",
+          "topic": "燃油"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_07_Q12.mp3",
+          "type": "比较类",
+          "topic": "燃油"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_07_Q13.mp3",
+          "type": "处置类",
+          "topic": "燃油"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_07_Q14.mp3",
+          "type": "描述类",
+          "topic": "燃油"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_07_Q15.mp3",
+          "type": "原因/列举类",
+          "topic": "燃油"
+        }
+      ]
+    },
+    "8": {
+      "json_file": "OPI_8.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/工作感受",
+        "边缘天气",
+        "最低安全高度"
+      ],
+      "audio_dir": "OPI_08",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_08_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/工作感受"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_08_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/工作感受"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_08_Q03.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/工作感受"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_08_Q04.mp3",
+          "type": "描述类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_08_Q05.mp3",
+          "type": "后果类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_08_Q06.mp3",
+          "type": "讲故事/经历类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_08_Q07.mp3",
+          "type": "观点类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_08_Q08.mp3",
+          "type": "建议类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_08_Q09.mp3",
+          "type": "描述类",
+          "topic": "边缘天气"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_08_Q10.mp3",
+          "type": "描述类",
+          "topic": "最低安全高度"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_08_Q11.mp3",
+          "type": "后果类",
+          "topic": "最低安全高度"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_08_Q12.mp3",
+          "type": "描述类",
+          "topic": "最低安全高度"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_08_Q13.mp3",
+          "type": "处置类",
+          "topic": "最低安全高度"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_08_Q14.mp3",
+          "type": "观点类",
+          "topic": "最低安全高度"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_08_Q15.mp3",
+          "type": "处置类",
+          "topic": "最低安全高度"
+        }
+      ]
+    },
+    "9": {
+      "json_file": "OPI_9.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/职业选择",
+        "鸟击",
+        "VIP飞行"
+      ],
+      "audio_dir": "OPI_09",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_09_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_09_Q02.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_09_Q03.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_09_Q04.mp3",
+          "type": "描述类",
+          "topic": "鸟击"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_09_Q05.mp3",
+          "type": "后果类",
+          "topic": "鸟击"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_09_Q06.mp3",
+          "type": "处置类",
+          "topic": "鸟击"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_09_Q07.mp3",
+          "type": "后果类",
+          "topic": "鸟击"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_09_Q08.mp3",
+          "type": "讲故事/经历类",
+          "topic": "鸟击"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_09_Q09.mp3",
+          "type": "描述类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_09_Q10.mp3",
+          "type": "描述类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_09_Q11.mp3",
+          "type": "观点类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_09_Q12.mp3",
+          "type": "描述类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_09_Q13.mp3",
+          "type": "处置类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_09_Q14.mp3",
+          "type": "描述类",
+          "topic": "VIP飞行"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_09_Q15.mp3",
+          "type": "观点类",
+          "topic": "VIP飞行"
+        }
+      ]
+    },
+    "10": {
+      "json_file": "OPI_10.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/工作职责",
+        "机腹着陆",
+        "紧急疏散"
+      ],
+      "audio_dir": "OPI_10",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_10_Q01.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_10_Q02.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_10_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_10_Q04.mp3",
+          "type": "原因/列举类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_10_Q05.mp3",
+          "type": "比较类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_10_Q06.mp3",
+          "type": "描述类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_10_Q07.mp3",
+          "type": "描述类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_10_Q08.mp3",
+          "type": "观点类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_10_Q09.mp3",
+          "type": "描述类",
+          "topic": "机腹着陆"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_10_Q10.mp3",
+          "type": "讲故事/经历类",
+          "topic": "紧急疏散"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_10_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "紧急疏散"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_10_Q12.mp3",
+          "type": "描述类",
+          "topic": "紧急疏散"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_10_Q13.mp3",
+          "type": "处置类",
+          "topic": "紧急疏散"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_10_Q14.mp3",
+          "type": "描述类",
+          "topic": "紧急疏散"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_10_Q15.mp3",
+          "type": "后果类",
+          "topic": "紧急疏散"
+        }
+      ]
+    },
+    "11": {
+      "json_file": "OPI_11.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/空域与班次",
+        "放行许可",
+        "延误"
+      ],
+      "audio_dir": "OPI_11",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_11_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/空域与班次"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_11_Q02.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/空域与班次"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_11_Q03.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/空域与班次"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_11_Q04.mp3",
+          "type": "描述类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_11_Q05.mp3",
+          "type": "描述类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_11_Q06.mp3",
+          "type": "描述类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_11_Q07.mp3",
+          "type": "处置类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_11_Q08.mp3",
+          "type": "后果类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_11_Q09.mp3",
+          "type": "建议类",
+          "topic": "放行许可"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_11_Q10.mp3",
+          "type": "讲故事/经历类",
+          "topic": "延误"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_11_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "延误"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_11_Q12.mp3",
+          "type": "观点类",
+          "topic": "延误"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_11_Q13.mp3",
+          "type": "观点类",
+          "topic": "延误"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_11_Q14.mp3",
+          "type": "后果类",
+          "topic": "延误"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_11_Q15.mp3",
+          "type": "建议类",
+          "topic": "延误"
+        }
+      ]
+    },
+    "12": {
+      "json_file": "OPI_12.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/工作与压力",
+        "跑道入侵",
+        "模拟机训练",
+        "飞行冲突"
+      ],
+      "audio_dir": "OPI_12",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_12_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/工作与压力"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_12_Q02.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/工作与压力"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_12_Q03.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/工作与压力"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_12_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_12_Q05.mp3",
+          "type": "后果类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_12_Q06.mp3",
+          "type": "观点类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_12_Q07.mp3",
+          "type": "建议类",
+          "topic": "跑道入侵"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_12_Q08.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "模拟机训练"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_12_Q09.mp3",
+          "type": "观点类",
+          "topic": "模拟机训练"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_12_Q10.mp3",
+          "type": "描述类",
+          "topic": "模拟机训练"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_12_Q11.mp3",
+          "type": "讲故事/经历类",
+          "topic": "模拟机训练"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_12_Q12.mp3",
+          "type": "观点类",
+          "topic": "模拟机训练"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_12_Q13.mp3",
+          "type": "原因/列举类",
+          "topic": "飞行冲突"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_12_Q14.mp3",
+          "type": "处置类",
+          "topic": "飞行冲突"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_12_Q15.mp3",
+          "type": "观点类",
+          "topic": "飞行冲突"
+        }
+      ]
+    },
+    "13": {
+      "json_file": "OPI_13.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/工作职责",
+        "地面相撞",
+        "无线电通讯",
+        "通讯误解"
+      ],
+      "audio_dir": "OPI_13",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_13_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_13_Q02.mp3",
+          "type": "描述类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_13_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/工作职责"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_13_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "地面相撞"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_13_Q05.mp3",
+          "type": "原因/列举类",
+          "topic": "地面相撞"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_13_Q06.mp3",
+          "type": "描述类",
+          "topic": "地面相撞"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_13_Q07.mp3",
+          "type": "建议类",
+          "topic": "地面相撞"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_13_Q08.mp3",
+          "type": "观点类",
+          "topic": "无线电通讯"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_13_Q09.mp3",
+          "type": "原因/列举类",
+          "topic": "无线电通讯"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_13_Q10.mp3",
+          "type": "观点类",
+          "topic": "无线电通讯"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_13_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "无线电通讯"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_13_Q12.mp3",
+          "type": "讲故事/经历类",
+          "topic": "通讯误解"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_13_Q13.mp3",
+          "type": "后果类",
+          "topic": "通讯误解"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_13_Q14.mp3",
+          "type": "观点类",
+          "topic": "通讯误解"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_13_Q15.mp3",
+          "type": "建议类",
+          "topic": "通讯误解"
+        }
+      ]
+    },
+    "14": {
+      "json_file": "OPI_14.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/职业选择",
+        "机上失火",
+        "无线电通讯英语",
+        "通讯误解"
+      ],
+      "audio_dir": "OPI_14",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_14_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_14_Q02.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_14_Q03.mp3",
+          "type": "观点类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_14_Q04.mp3",
+          "type": "讲故事/经历类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_14_Q05.mp3",
+          "type": "原因/列举类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_14_Q06.mp3",
+          "type": "后果类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_14_Q07.mp3",
+          "type": "处置类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_14_Q08.mp3",
+          "type": "观点类",
+          "topic": "机上失火"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_14_Q09.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "无线电通讯英语"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_14_Q10.mp3",
+          "type": "观点类",
+          "topic": "无线电通讯英语"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_14_Q11.mp3",
+          "type": "建议类",
+          "topic": "无线电通讯英语"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_14_Q12.mp3",
+          "type": "描述类",
+          "topic": "无线电通讯英语"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_14_Q13.mp3",
+          "type": "讲故事/经历类",
+          "topic": "通讯误解"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_14_Q14.mp3",
+          "type": "原因/列举类",
+          "topic": "通讯误解"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_14_Q15.mp3",
+          "type": "建议类",
+          "topic": "通讯误解"
+        }
+      ]
+    },
+    "15": {
+      "json_file": "OPI_15.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "自我介绍/职业选择",
+        "管制员品质与培训",
+        "管制员与飞行员关系",
+        "复飞",
+        "紧急下降"
+      ],
+      "audio_dir": "OPI_15",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_15_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "自我介绍/职业选择"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_15_Q02.mp3",
+          "type": "描述类",
+          "topic": "管制员品质与培训"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_15_Q03.mp3",
+          "type": "观点类",
+          "topic": "管制员品质与培训"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_15_Q04.mp3",
+          "type": "观点类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_15_Q05.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_15_Q06.mp3",
+          "type": "描述类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_15_Q07.mp3",
+          "type": "处置类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_15_Q08.mp3",
+          "type": "处置类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_15_Q09.mp3",
+          "type": "处置类",
+          "topic": "管制员与飞行员关系"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_15_Q10.mp3",
+          "type": "讲故事/经历类",
+          "topic": "复飞"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_15_Q11.mp3",
+          "type": "原因/列举类",
+          "topic": "复飞"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_15_Q12.mp3",
+          "type": "处置类",
+          "topic": "复飞"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_15_Q13.mp3",
+          "type": "原因/列举类",
+          "topic": "紧急下降"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_15_Q14.mp3",
+          "type": "描述类",
+          "topic": "紧急下降"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_15_Q15.mp3",
+          "type": "处置类",
+          "topic": "紧急下降"
+        }
+      ]
+    },
+    "16": {
+      "json_file": "OPI_16.json",
+      "total_questions": 15,
+      "topic_blocks": [
+        "英语学习",
+        "速度调整",
+        "起落架故障",
+        "间隔"
+      ],
+      "audio_dir": "OPI_16",
+      "questions": [
+        {
+          "id": 1,
+          "audio_file": "OPI_16_Q01.mp3",
+          "type": "自我介绍/背景类",
+          "topic": "英语学习"
+        },
+        {
+          "id": 2,
+          "audio_file": "OPI_16_Q02.mp3",
+          "type": "描述类",
+          "topic": "英语学习"
+        },
+        {
+          "id": 3,
+          "audio_file": "OPI_16_Q03.mp3",
+          "type": "观点类",
+          "topic": "英语学习"
+        },
+        {
+          "id": 4,
+          "audio_file": "OPI_16_Q04.mp3",
+          "type": "描述类",
+          "topic": "速度调整"
+        },
+        {
+          "id": 5,
+          "audio_file": "OPI_16_Q05.mp3",
+          "type": "原因/列举类",
+          "topic": "速度调整"
+        },
+        {
+          "id": 6,
+          "audio_file": "OPI_16_Q06.mp3",
+          "type": "描述类",
+          "topic": "速度调整"
+        },
+        {
+          "id": 7,
+          "audio_file": "OPI_16_Q07.mp3",
+          "type": "描述类",
+          "topic": "速度调整"
+        },
+        {
+          "id": 8,
+          "audio_file": "OPI_16_Q08.mp3",
+          "type": "观点类",
+          "topic": "速度调整"
+        },
+        {
+          "id": 9,
+          "audio_file": "OPI_16_Q09.mp3",
+          "type": "讲故事/经历类",
+          "topic": "起落架故障"
+        },
+        {
+          "id": 10,
+          "audio_file": "OPI_16_Q10.mp3",
+          "type": "后果类",
+          "topic": "起落架故障"
+        },
+        {
+          "id": 11,
+          "audio_file": "OPI_16_Q11.mp3",
+          "type": "描述类",
+          "topic": "起落架故障"
+        },
+        {
+          "id": 12,
+          "audio_file": "OPI_16_Q12.mp3",
+          "type": "处置类",
+          "topic": "起落架故障"
+        },
+        {
+          "id": 13,
+          "audio_file": "OPI_16_Q13.mp3",
+          "type": "描述类",
+          "topic": "间隔"
+        },
+        {
+          "id": 14,
+          "audio_file": "OPI_16_Q14.mp3",
+          "type": "描述类",
+          "topic": "间隔"
+        },
+        {
+          "id": 15,
+          "audio_file": "OPI_16_Q15.mp3",
+          "type": "原因/列举类",
+          "topic": "间隔"
+        }
+      ]
+    }
+  }
+}

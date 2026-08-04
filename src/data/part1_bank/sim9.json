@@ -1,0 +1,437 @@
+{
+  "bank_name": "AETS Part One 听力理解题库",
+  "version": "1.2",
+  "generated": "2026-07-17",
+  "schema_note": "每套题(set)含若干听力材料组(group)；每组一段对话(dialogue, P=飞行员 C=管制员)和1-4道题(questions)；answer 为正确选项字母；audio_* 为配套音频的规划路径（生成后按此命名）。",
+  "exam_note": "问题念完后5秒作答，听力只播放一遍（think_time_sec=5）。",
+  "paper_rules": {
+    "说明": "组卷规则：不是150题混抽15题，而是分层随机。",
+    "q1_5": "从全部套卷的 slot=q1_5 组中（每套5组，共50组短对话，每组1题）完全随机抽5组，依次作为新卷 Q1-Q5。",
+    "q6_8": "从 slot=q6_8 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q6-Q8，不可拆分；可与其他组来自不同套卷。",
+    "q9_12": "从 slot=q9_12 的组中（共10组，每组含1段对话+4题）随机抽1组，整组作为 Q9-Q12，不可拆分。",
+    "q13_15": "从 slot=q13_15 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q13-Q15，不可拆分。",
+    "组合数": "C(50,5)×10×10×10（不算顺序约21亿种整卷）"
+  },
+  "sets": [
+    {
+      "set_id": "sim9",
+      "title": "AETS test simulation 9",
+      "source": "仿写",
+      "directions": "In this part, you are going to hear a dialogue or exchange, after the exchange, there will be a question. After each question, you have 5 seconds to think and choose the correct answer. You will hear each question only once.",
+      "think_time_sec": 5,
+      "groups": [
+        {
+          "group_id": "sim9_g1",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Apron, CHH7766, we have an APU fire at the stand, request fire service immediately, passengers are evacuating via the jet bridge."
+            },
+            {
+              "speaker": "C",
+              "text": "CHH7766, Apron, roger, fire service is on the way."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 1,
+              "question": "What happened to CHH7766?",
+              "options": {
+                "A": "A GPU fire.",
+                "B": "A catering truck fire.",
+                "C": "An APU fire at the stand.",
+                "D": "An engine fire."
+              },
+              "answer": "C",
+              "explanation": "飞行员明确报告 'we have an APU fire at the stand'，即停机位上发生 APU（辅助动力装置）起火，故选 C。A 项 GPU（地面电源车）与 D 项发动机火均为干扰。",
+              "audio_question": "audio/sim9/sim9_g1_q1.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g1_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim9_g2",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "CSN6503, Wuhan Ground, expedite taxi via C and C1, cross RWY18, then via D and D5 to holding point of RWY36L."
+            },
+            {
+              "speaker": "P",
+              "text": "Cross RWY18, via D and D5 to holding point RWY36L, CSN6503."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 2,
+              "question": "Which runway will CSN6503 cross during taxi?",
+              "options": {
+                "A": "RWY05L.",
+                "B": "RWY18.",
+                "C": "RWY36L.",
+                "D": "RWY36R."
+              },
+              "answer": "B",
+              "explanation": "管制员指令 'cross RWY18, then via D and D5 to holding point of RWY36L'，滑行中须穿越的是 18 号跑道，RWY36L 只是滑行的终点等待点，故选 B。",
+              "audio_question": "audio/sim9/sim9_g2_q2.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g2_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim9_g3",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "PANPAN, PANPAN, PANPAN, Wuhan Approach, CCA2760, a five-year-old child has a high fever with convulsions, request priority landing and an ambulance."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA2760, Wuhan Approach, roger PANPAN, you are number one."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 3,
+              "question": "Why is CCA2760 making an urgency call?",
+              "options": {
+                "A": "Because a passenger is bleeding.",
+                "B": "Because a passenger has asthma.",
+                "C": "Because a child has convulsions.",
+                "D": "Because a passenger had a stroke."
+              },
+              "answer": "C",
+              "explanation": "飞行员宣布 PANPAN 时说明 'a five-year-old child has a high fever with convulsions'，即一名五岁儿童高烧并伴有抽搐，因此请求优先落地和救护车，故选 C。",
+              "audio_question": "audio/sim9/sim9_g3_q3.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g3_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim9_g4",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "CES5288, Wuhan Approach, turn left heading 270, descend to 2100m on QNH1008, cleared ILS approach RWY36R."
+            },
+            {
+              "speaker": "P",
+              "text": "Turn right heading 270, descend to 2100m on QNH1008, cleared ILS approach RWY36R, CES5288."
+            },
+            {
+              "speaker": "C",
+              "text": "CES5288, negative, turn LEFT heading 270."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 4,
+              "question": "What did the controller correct in the readback?",
+              "options": {
+                "A": "The altitude.",
+                "B": "The heading.",
+                "C": "The runway.",
+                "D": "The direction of the turn."
+              },
+              "answer": "D",
+              "explanation": "飞行员把指令复诵成 'Turn right heading 270'，管制员纠正 'negative, turn LEFT heading 270'。航向 270 本身没错，被纠正的是转弯方向（左/右），故选 D。",
+              "audio_question": "audio/sim9/sim9_g4_q4.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g4_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim9_g5",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Approach, CSN6102, we have traffic on TCAS at 6 o'clock, 4nm, 200m below us, climbing fast, confirm."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN6102, it's a military jet, maintain 4500m, we are working on it."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 5,
+              "question": "Where is the military jet?",
+              "options": {
+                "A": "12 o'clock, 4nm, 200m below, climbing.",
+                "B": "6 o'clock, 4nm, 200m below, climbing.",
+                "C": "6 o'clock, 4nm, 200m above, descending.",
+                "D": "6 o'clock, 14nm, 200m below, climbing."
+              },
+              "answer": "B",
+              "explanation": "飞行员报告 'traffic on TCAS at 6 o'clock, 4nm, 200m below us, climbing fast'，管制员确认是军用机，与 B 项完全一致。A 项方位错（12 o'clock），C 项在上方且下降，D 项距离错（14nm）。",
+              "audio_question": "audio/sim9/sim9_g5_q5.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g5_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim9_g6",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Tower, CCA1710, ready."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA1710, cleared for takeoff, RWY05L, surface wind 360 degrees 7m/s gusting to 15m/s, after airborne, contact Departure on 120.6."
+            },
+            {
+              "speaker": "P",
+              "text": "Cleared for takeoff, Departure 120.6, CCA1710."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CCA1710, 150m climbing. We had a stick shaker during rotation, request return to land."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA1710, roger, turn right heading 090, descend to 900m, do you need any assistance?"
+            },
+            {
+              "speaker": "P",
+              "text": "Turn right heading 090, descend to 900m, request a long final and fire service on standby, CCA1710."
+            },
+            {
+              "speaker": "C",
+              "text": "Roger, CCA1710, fire service will be on standby. Contact Approach 126.8."
+            },
+            {
+              "speaker": "P",
+              "text": "Approach 126.8, thanks, CCA1710."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 6,
+              "question": "What was the wind condition when CCA1710 took off?",
+              "options": {
+                "A": "Tailwind.",
+                "B": "Light wind.",
+                "C": "Calm.",
+                "D": "Gusty wind."
+              },
+              "answer": "D",
+              "explanation": "起飞条件中管制员通报 'surface wind 360 degrees 7m/s gusting to 15m/s'，阵风达 15m/s，属于阵风（gusty wind）天气，故选 D。",
+              "audio_question": "audio/sim9/sim9_g6_q6.m4a"
+            },
+            {
+              "q_no": 7,
+              "question": "What happened to CCA1710 during takeoff?",
+              "options": {
+                "A": "It had a stick shaker during rotation.",
+                "B": "It had a bird strike.",
+                "C": "The gear failed to retract.",
+                "D": "An engine surged."
+              },
+              "answer": "A",
+              "explanation": "飞行员升空后报告 'We had a stick shaker during rotation'，即抬轮时出现抖杆（失速警告），故选 A。对话未提及鸟击、起落架或发动机喘振。",
+              "audio_question": "audio/sim9/sim9_g6_q7.m4a"
+            },
+            {
+              "q_no": 8,
+              "question": "What assistance did the crew of CCA1710 request?",
+              "options": {
+                "A": "Airstairs.",
+                "B": "A tug.",
+                "C": "A long final and fire service on standby.",
+                "D": "An ambulance."
+              },
+              "answer": "C",
+              "explanation": "机组明确请求 'request a long final and fire service on standby'，即长五边进近并让消防部门待命，故选 C。",
+              "audio_question": "audio/sim9/sim9_g6_q8.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g6_dialogue.m4a",
+          "slot": "q6_8"
+        },
+        {
+          "group_id": "sim9_g7",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "BAW631, Wuhan Control, due traffic, offset 4nm right of track, expect rejoin the route at TM."
+            },
+            {
+              "speaker": "P",
+              "text": "Roger, offset 4nm right of track, BAW631."
+            },
+            {
+              "speaker": "P",
+              "text": "Control, BAW631, we have weather indication 30nm ahead of us, request deviate to the left for 8nm."
+            },
+            {
+              "speaker": "C",
+              "text": "BAW631, negative due to prohibited area, can you accept deviation to the right?"
+            },
+            {
+              "speaker": "P",
+              "text": "Affirm, we need a heading of 140 for 16nm, BAW631."
+            },
+            {
+              "speaker": "C",
+              "text": "BAW631, turn right heading 140, report clear of weather."
+            },
+            {
+              "speaker": "P",
+              "text": "Right heading 140, wilco, BAW631."
+            },
+            {
+              "speaker": "P",
+              "text": "MAYDAY, MAYDAY, MAYDAY, Wuhan Control, BAW631, we have a galley fire, there is smoke in the cabin, we are emergency descending to 3600m."
+            },
+            {
+              "speaker": "C",
+              "text": "BAW631, Wuhan Control, roger MAYDAY, report reaching. Break Break. All stations, Wuhan Control, emergency descent between TM and XS, all aircraft below 7500m, leave the route to the north."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 9,
+              "question": "How did the pilot of BAW631 plan to avoid the weather?",
+              "options": {
+                "A": "Heading 140 for 8nm.",
+                "B": "Deviate to the left for 8nm.",
+                "C": "Deviate to the right for 8nm.",
+                "D": "Deviate to the left for 30nm."
+              },
+              "answer": "B",
+              "explanation": "飞行员发现天气后请求 'request deviate to the left for 8nm'，计划向左偏 8 海里绕飞，故选 B。heading 140 是左偏被否决后另行商定的方案，不是最初的计划。",
+              "audio_question": "audio/sim9/sim9_g7_q9.m4a"
+            },
+            {
+              "q_no": 10,
+              "question": "Why was the left deviation not approved?",
+              "options": {
+                "A": "Because of a prohibited area.",
+                "B": "Because of a restricted area.",
+                "C": "Because of military activity.",
+                "D": "Because of a danger area."
+              },
+              "answer": "A",
+              "explanation": "管制员拒绝左偏时说明 'negative due to prohibited area'，即左侧有禁区，故选 A。受限区、军方活动和危险区均未提及。",
+              "audio_question": "audio/sim9/sim9_g7_q10.m4a"
+            },
+            {
+              "q_no": 11,
+              "question": "What happened to BAW631?",
+              "options": {
+                "A": "An engine fire.",
+                "B": "A galley fire with smoke in the cabin.",
+                "C": "A cargo fire.",
+                "D": "An avionics fire."
+              },
+              "answer": "B",
+              "explanation": "飞行员宣布 MAYDAY 时说 'we have a galley fire, there is smoke in the cabin'，即厨房起火且客舱有烟，故选 B。",
+              "audio_question": "audio/sim9/sim9_g7_q11.m4a"
+            },
+            {
+              "q_no": 12,
+              "question": "Where is BAW631 when it started emergency descent?",
+              "options": {
+                "A": "Between TM and XS at 3600m.",
+                "B": "North of TM at 3600m.",
+                "C": "4nm right of the route at 3600m.",
+                "D": "Between TM and XS at 7500m."
+              },
+              "answer": "A",
+              "explanation": "管制员向全体航空器广播 'emergency descent between TM and XS'，说明紧急下降发生在 TM 与 XS 之间；3600m 是飞行员报告的下降目标高度，7500m 则是要求其他飞机避让的高度界限，故选 A。",
+              "audio_question": "audio/sim9/sim9_g7_q12.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g7_dialogue.m4a",
+          "slot": "q9_12"
+        },
+        {
+          "group_id": "sim9_g8",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Wuhan Tower, CCA908, vacating RWY36."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA908, roger, taxi to stand 214 via B7."
+            },
+            {
+              "speaker": "P",
+              "text": "Stand 214 via B7, CCA908."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN7701, go around, I say again, go around, there is a dog on the runway!"
+            },
+            {
+              "speaker": "P",
+              "text": "Going around, CSN7701."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CSN7701, how long will the delay be? We are getting close to minimum fuel."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN7701, expect approach in 10 minutes, the animal control team is on the way to remove the dog, contact Wuhan Approach on 119.4."
+            },
+            {
+              "speaker": "P",
+              "text": "Approach 119.4, CSN7701."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 13,
+              "question": "Why was CSN7701 instructed to go around?",
+              "options": {
+                "A": "There was a vehicle on the runway.",
+                "B": "There was windshear.",
+                "C": "The preceding aircraft was slow to vacate.",
+                "D": "There was an animal on the runway."
+              },
+              "answer": "D",
+              "explanation": "管制员指令复飞的原因是 'there is a dog on the runway'，跑道上有动物（狗），故选 D。前机未脱离是 CCA908 已正常脱离的干扰项，对话中未提及车辆或风切变。",
+              "audio_question": "audio/sim9/sim9_g8_q13.m4a"
+            },
+            {
+              "q_no": 14,
+              "question": "What will happen before CSN7701's next approach?",
+              "options": {
+                "A": "The animal control team will remove the animal.",
+                "B": "The inspection vehicle will chase the dog away.",
+                "C": "The runway will be closed for hours.",
+                "D": "CSN7701 will divert."
+              },
+              "answer": "A",
+              "explanation": "管制员告知 'the animal control team is on the way to remove the dog'，动物控制组正在赶来将狗带离跑道，之后再进近，故选 A。",
+              "audio_question": "audio/sim9/sim9_g8_q14.m4a"
+            },
+            {
+              "q_no": 15,
+              "question": "Why is CSN7701 concerned about the delay?",
+              "options": {
+                "A": "There is a sick passenger on board.",
+                "B": "The crew is running out of duty time.",
+                "C": "It is getting close to minimum fuel.",
+                "D": "The airport curfew is approaching."
+              },
+              "answer": "C",
+              "explanation": "飞行员主动说明 'We are getting close to minimum fuel'，油量已接近最低标准，因此关心延误时间，故选 C。",
+              "audio_question": "audio/sim9/sim9_g8_q15.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim9/sim9_g8_dialogue.m4a",
+          "slot": "q13_15"
+        }
+      ]
+    }
+  ]
+}

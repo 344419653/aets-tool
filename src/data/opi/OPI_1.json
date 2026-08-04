@@ -1,0 +1,146 @@
+{
+  "opi_number": 1,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍",
+    "复飞",
+    "空中危险接近"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "How long have you been working as an air traffic controller?",
+      "question_cn": "你作为一名管制员工作多长时间了？",
+      "type": "自我介绍/背景类",
+      "answer": "I have been working in SH area control for 15 years, I'm an area controller.",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Are you proud of yourself as a controller? Why?",
+      "question_cn": "你作为一名管制员感到自豪吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, I'm proud of myself. Because first, it pays me well. Then, it gives me a feeling of achievement. Also, my family and friends respect me because I can handle the heavy duty.",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Could you give a general introduction of the area/or airspace under your control?",
+      "question_cn": "你能对你指挥下的区域或空间做一个简单的介绍吗？",
+      "type": "描述类",
+      "answer": "Sure/No problem, Okay, alright, I'm an area controller, so the airspace under my control is around SH, from 6000m to 12500m.",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever controlled a flight which made a missed approach?",
+      "question_cn": "你曾经指挥过做复飞的飞机吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. A landing A/C reported going around on final. I issued the standard procedure. Later, I confirmed the reason, the pilot reported wind shear at 200m. So, I instructed him to try another app, and informed the following traffic.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What reasons do you think may cause a missed approach?",
+      "question_cn": "你认为什么原因能导致一起复飞？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to missed app, such as low VIS, wind shear, severe turbulence, landing gear failure, bird strike, RWY incursion and so on.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What help do you think the pilots may need when executing missed approach?",
+      "question_cn": "当执行复飞时，你觉得飞行员都需要什么帮助？",
+      "type": "处置类",
+      "answer": "First, I should provide the standard MA procedure. Then, I should inform related ATC units, and instruct other A/C to avoid. Also, I should monitor the altitude and track of the A/C.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "Do you think the standard procedures for missed approach can provide convenience both for the pilots and controllers?",
+      "question_cn": "你觉得标准的复飞程序是否能提供给飞行员和管制员便利？",
+      "type": "观点类",
+      "answer": "Yes, I think standard MA procedure is very necessary, because first, it can help us to reduce workload and avoid human error. Then, it's easy for pilots to learn and use. If there is emergency, other A/C and controller will know the track of the traffic.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "How could a missed approach influence ATC work?",
+      "question_cn": "复飞如何影响空管工作？",
+      "type": "后果类",
+      "answer": "MA is a standard procedure, but it may cause some problems, like traffic conflict, more workload, separation problem and some delay. Also, MA may fail, the A/C may crash.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Do you think it is necessary to make a missed approach for flight safety under certain situations?",
+      "question_cn": "你觉得在特定情况下是否有必要指挥复飞？",
+      "type": "观点类",
+      "answer": "Yes, I think controllers should issue MA instruction under certain situation. Because first, it's the only way to ensure flight safety during landing. Then, it can help pilot to get more time to solve problems. Also, it can help us to avoid RWY occupation/traffic conflict.",
+      "topic": "复飞",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Have you ever experienced air miss in your work? If yes, please share the story with me; if no, have you heard any of that?",
+      "question_cn": "你曾经在你工作中见过空中危险接近吗？如果见过，请和我分享这个故事，如果没有，说一说你所听到的？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, one day, I was working. Suddenly, a pilot reported TCAS descent. I instructed lower A/C to avoid and checked the conflict. I confirmed with the other A/C, he reported encountered severe turbulence. After clear of TCAS RA, I reported the situation to supervisor, and informed following traffic about turbulence problem.",
+      "topic": "空中危险接近",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What reasons may cause an airmiss?",
+      "question_cn": "什么原因导致空中危险接近？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to airmiss, such as low VIS, human error, wind shear, severe turbulence, mechanical failure or emergency descent.",
+      "topic": "空中危险接近",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "What are some of the separation limits in your control unit?",
+      "question_cn": "在你的管制单位里，间隔限制都有什么？",
+      "type": "描述类",
+      "answer": "In our ATC unit, we use procedure control, for horizontal separation, it's 10min. For vertical separation, it's 300m, and for takeoff or landing traffic, the wake turbulence separation is 3min.",
+      "topic": "空中危险接近",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "If the separation limits between two aircraft is going to be exceeded, what will you do?",
+      "question_cn": "如果两架飞机小于间隔，你将怎么做？",
+      "type": "处置类",
+      "answer": "OK. First, I will inform each A/C about the conflict, and provide radar vectors for safe separation. Then, I should maintain radar monitoring. If necessary, I can issue emergency avoiding action to establish horizontal separation.",
+      "topic": "空中危险接近",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "What do you think are some of the consequences of an airmiss?",
+      "question_cn": "你认为危险接近的后果有哪些？",
+      "type": "后果类",
+      "answer": "Airmiss is very dangerous, it may lead to traffic conflict, TCAS warning, collision, delay and more workload.",
+      "topic": "空中危险接近",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Can you suggest some good ways to avoid or prevent airmiss effectively?",
+      "question_cn": "你能建议一些好办法去避免或阻止危险接近的发生吗？",
+      "type": "建议类",
+      "answer": "Sure. First, we should use standard communication terms and monitor pilot readback. Then, we should monitor radar, avoid conflict. Also, we should use strips to avoid human error. If necessary, we can use a larger separation standard.",
+      "topic": "空中危险接近",
+      "note": ""
+    }
+  ]
+}

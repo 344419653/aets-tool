@@ -1,0 +1,1287 @@
+OPI 1
+
+1.	How long have you been working as an air traffic controller? 
+你作为一名管制员工作多长时间了？
+I have been working in SH area control for 15 years, I’m an area controller.               
+
+2.	Are you proud of yourself as a controller? Why?     观点类问题        
+你作为一名管制员感到自豪吗？为什么？
+Yes, I’m proud of myself.                                    
+Because 
+first, it pays me well. 
+Then, it gives me a feeling of achievement. 
+Also, my family and friends respect me because I can handle the heavy duty.
+
+3.Could you give a general introduction of the area/or airspace under your control?  描述
+你能对你指挥下的区域或空间做一个简单的介绍吗？
+Sure/No problem, Okay, alright, I’m an area controller, so the airspace under my control is around SH, from 6000m to 12500m.
+
+ Let’s talk about missed approach 
+
+4.	Have you ever controlled a flight which made a missed approach?   讲故事
+你曾经指挥过做复飞的飞机吗？
+Yes. One day, I was working. A landing A/C reported going around on final. I issued the standard procedure. Later, I confirmed the reason, the pilot reported wind shear at 200m. So, I instructed him to try another app, and informed the following traffic.
+
+5.	What reasons do you think may cause a missed approach?    原因  - 列举类
+你认为什么原因能导致一起复飞？
+There are many factors may lead to missed app, such as low VIS, wind shear, severe turbulence, landing gear failure, bird strike, RWY incursion and so on.
+
+6.	What help do you think the pilots may need when executing missed approach?   处置类
+当执行复飞时，你觉得飞行员都需要什么帮助？
+First, I should provide the standard MA procedure.
+Then, I should inform related ATC units, and instruct other A/C to avoid.
+Also, I should monitor the altitude and track of the A/C.
+
+7.	Do you think the standard procedures for missed approach can provide convenience both for the pilots and controllers? 
+你觉得标准的复飞程序是否能提供给飞行员和管制员便利？   观点题
+Yes, I think standard MA procedure is very necessary, because
+First, it can help us to reduce workload and avoid human error.
+Then, it’s easy for pilots to learn and use.
+If there is emergency, other A/C and controller will know the track of the traffic.
+
+8.	How could a missed approach influence ATC work?   后果类
+复飞如何影响空管工作？   
+MA is a standard procedure, but it may cause some problems, like traffic conflict, more workload, separation problem and some delay. Also, MA may fail, the A/C may crash.
+
+9.Do you think it is necessary to make a missed approach for flight safety under certain situations?    观点类
+你觉得在特定情况下是否有必要指挥复飞？
+Yes, I think controllers should issue MA instruction under certain situation. Because first, it’s the only way to ensure flight safety during landing. Then, it can help pilot to get more time to solve problems. Also, it can help us to avoid RWY occupation/traffic conflict.
+
+The following questions are about air miss
+
+10.	Have you ever experienced air miss in your work? If yes, please share the story with me; if no, have you heard any of that?
+你曾经在你工作中见过空中危险接近吗？如果见过，请和我分享这个故事，如果没有，说一说你所听到的？
+Yes, one day, I was working. Suddenly, a pilot reported TCAS descent. I instructed lower A/C to avoid and checked the conflict. I confirmed with the other A/C, he reported encountered severe turbulence. After clear of TCAS RA, I reported the situation to supervisor, and informed following traffic about turbulence problem. 
+
+11.	What reasons may cause an airmiss?
+什么原因导致空中危险接近？
+There are many factors may lead to airmiss, such as low VIS, human error, wind shear, severe turbulence, mechanical failure or emergency descent.
+12.	What are some of the separation limits in your control unit?
+在你的管制单位里，间隔限制都有什么？
+In our ATC unit, we use procedure control, for horizontal separation, it’s 10min. For vertical separation, it’s 300m, and for takeoff or landing traffic, the wake turbulence separation is 3min.
+13.	If the separation limits between two aircraft is going to be exceeded, what will you do?
+如果两架飞机小于间隔，你将怎么做？
+OK. First, I will inform each A/C about the conflict, and provide radar vectors for safe separation.
+Then, I should maintain radar monitoring.
+If necessary, I can issue emergency avoiding action to establish horizontal separation.
+14.	What do you think are some of the consequences of an airmiss?
+你认为危险接近的后果有哪些？
+Airmiss is very dangerous, it may lead to traffic conflict, TCAS warning, collision, delay and more workload.
+
+15.	Can you suggest some good ways to avoid or prevent airmiss effectively?
+你能建议一些好办法去避免或阻止危险接近的发生吗？
+Sure. First, we should use standard communication terms and monitor pilot readback.
+Then, we should monitor radar, avoid conflict.
+Also, we should use strips to avoid human error.
+If necessary, we can use a larger separation standard.                                         
+
+
+OPI 2
+
+1.	Which ATC unit do you work in?   你在那个空管部门工作？
+I have been working for … for … years, I’m a … controller.
+
+2.	What’ your position now and what’s the main responsibility of your position?
+现在你在什么岗位？你的岗位最重要的职责是什么？
+I'm an area controller, 
+My first duty is maintain safe separation, avoid collision.
+Then, I should expedite traffic flow, reduce delay.
+Also, I will provide air traffic service, such as advisory, monitoring and warning.
+
+3.Have you ever received some training related to air traffic control recently? Could you say something about that? 讲故事
+最近你们是否有接受和空管相关的培训？你能谈谈吗？
+Yes, I just finished our simulator training, we had SOP, emergency and communication practice, after 10days’ class, we had a test. (自由发挥: it’s not difficult, but we learned some new procedure. It’s very helpful, because I experienced some emergency situation.)
+
+Let’s talk about abnormal situations 
+4.	What kind of abnormal situations have you ever experienced in the past?    列举类
+过去，什么类型的不正常情况是你经历过的？
+OK, I have encountered bird strike, missed app, RWY incursion and wind shear.
+5.	According to your understanding, what are the main principles when dealing with abnormal situations?   描述类
+就你的理解，当不正常情况发生时，什么是最主要的准则？
+ATC has a principle called ASSIST. It’s a procedure to deal with abnormal situations. Acknowledge, Separation, Silence, Inform, Support and Time.
+
+6.	What personality should an air traffic controller have when dealing with abnormal or emergency situations?
+当不正常情况或紧急情况发生时，作为一名空管员应具备什么样的品质？
+I think controllers should be calm. Because 
+First, We must stay calm to avoid human error during emergency.
+Then, we should keep calm to work with pilot and other ATC units.
+Also, if we are very cool, pilots will feel confident.
+7.	Do you have standard procedures for abnormal or emergency situations in your control unit? Could you please give an example?   在你的管制部门，有标准程序应对不正常或紧急事件吗？你能给举个例子吗？    讲故事
+Sure/Yes, we have a standard procedure for all the abnormal situations. For example, if I encountered bird strike, 
+First, I will confirm the situation on board and pilot’s intention.
+Then, I will provide necessary support to the A/C.
+Also, I should inform supervisor and related ATC units.
+If necessary, I will instruct other A/C to avoid and provide emergency service.
+
+8.Have you ever had trouble in communicating with foreign pilots when dealing with abnormal situations? If yes, how did you overcome the trouble to ensure flight safety?      讲故事  解释  
+当不正常情况发生时，你感觉和国外机组通话有难度吗？如果是，你怎样战胜困难来确保飞行安全？
+Yes, one day, I was working. A landing A/C reported bird strike on final. 
+But the pilot was Russian, and spoke too fast. I didn’t understand his report. 
+So, I confirmed his intention again. And I asked the pilot to speak slower.
+The pilot requested to check the A/C after landing, and he had no control problem.
+Also, I can ask the pilot to use standard terms, and say twice.
+
+9.Assume the flight crew report that one passenger onboard had a heart attack, how do you handle the situation when you are on duty?         处置类
+当你值班的时候，机组报告一位乘客的心脏病发作了，你应该如何处理？
+Ok, first, I will confirm the passenger’s situation and pilot’s intention.
+Then, I will request medical service.
+If the passenger is not stable, I will provide diversion to a nearby A/P and priority landing.
+I should inform supervisor and related ATC units, in struct other A/C to avoid.
+
+Now, let’s change to the topic related to flow control
+
+
+10.	What reasons may cause flow control?
+什么原因能导致流控？
+There are many factors may cause flow control, such as bad weather, military activity, traffic congestion or emergency.
+
+11.	Do you think it is necessary to impose flow control?
+你认为有必要发布流控吗？
+Yes, I think it’s necessary to issue flow control, because first, it will help controllers to reduce workload and avoid human error. Then, it can help pilots to avoid holding in the air. Also, flow control will help to reduce long delays.
+12.	What consequences does flow control bring to controllers, airline companies, pilots and passengers respectively?
+流控给空管，航空公司，机组和旅客带来的后果分别是什么？
+Flow control may cause some problems, for controllers, it may lead to more coordination, for pilots, they may work overtime. For passengers, it may cause delay, and it will increase the company’s cost. (For passengers, they may be angry, or miss the following flight.)
+
+13.	Who is responsible for making a decision to control traffic flow?
+谁负责做出一个决定来控制交通流量?
+In our ATC unit, we have flow control office, the supervisor will make the decision of issuing flow control.
+
+14.	What factors should be taken into consideration when making a decision to control traffic flow?   列举题
+当做了一个管制流控决定时，什么因素将被考虑？
+Controller should consider the weather condition, A/C endurance, airspace capacity and delay situation before issuing a flow control.
+
+15.	After a long delay on the ground because of flow control, pilots are likely to be anxious, how do you deal with their complaints and quarrels on your frequency?
+
+First, I will try to get the reason of long delay, and explain it to the pilots.
+Then, I will work with flow control unit, to get a determined delay time.
+If there is a dep time, I will inform the pilot in advance.
+I should never quarrel with pilots on the frequency.
+
+OPI 3
+
+1.	Do you often communicate with foreign pilots in English? If yes, do you have any problems in radiotelephony communication?
+Yes, we have a lot of international flights. 
+Sometimes, if the pilot has a strong accent, or he speaks too fast, I may not understand his words.
+ 
+2.	Do you think it is necessary to speak English in radiotelephony communication with Chinese pilots? Why?  观点题
+你认为与中国飞行员在无线电通讯中讲英语是必须的吗？为什么？
+No, I don’t think so.
+Because
+First, some pilots are not good at English, it may cause more misunderstanding.
+Then, we can speak Chinese to reduce our workload.
+
+3.Do you think speaking English may cause more communication misunderstanding? Why?   观点题
+你认为讲英语可能引起更多的通讯误会吗？
+Yes, I think so.
+Because
+First, not all the controllers are good at English.
+Then, not all the pilots will use standard terms.
+Also, English comms may need more time or explanation.
+
+Now, let’s talk something about runway incursions.
+4.	The runway is a critical area for flight safety; do you know anything about runway incursions?
+对于飞行安全，跑道是一个关键区域，你知道任何关于跑道入侵的事情吗？
+Yes. One day, I was working. There was a dep A/C at the holding point. I instructed him to hold and issued landing clearance to another A/C on final. Suddenly, the landing A/C reported going around. I saw the dep A/C entered the RWY. So I instructed him to vacated RWY immediately, and confirmed the reason. The pilot reported it was a brake failure, they requested tug service and maintenance check.
+
+5.	What could cause a runway incursion?   什么能够引起跑道入侵？
+There are many factors may lead to RWY incursion, such as low VIS, human error, mechanical failure and ground security problem.
+
+6.	What consequences may a runway incursion bring?   跑道入侵可能带来什么样的后果？
+RWY incursion is very dangerous, it may lead to delay, missed app, aborted takeoff, skid off RWY, collision, A/C damage, personal injury and RWY closed.
+
+7.	When the runway is unlawfully occupied, what should a tower controller do?
+当跑道被非法占用的时候，作为一名塔台管制员应该做些什么？
+First, I will instruct the landing traffic to go around.
+Then, I will ask the incursion unit to vacate RWY immediately and wait for investigation.
+Also, I should confirm the reason of RWY incursion.
+If necessary, I should provide tug service. Inform supervisor and related ATC units.
+
+8.	In order to prevent a runway incursion from happening, what special rules or regulations should you follow?
+为了防止跑道入侵的发生，你必须遵循什么特殊的规则和管理？
+First, I should use standard communication terms and monitor pilot readback.
+Then, we have strips to help us to avoid human error.
+Also, we should monitor all the traffic on the ground.
+If necessary, we should use A/P surveillance radar and other equipment to avoid RWY incursion.
+
+9.Have you ever heard of or encountered a runway incursion? Please tell the story. And what did you learn from the incident? 
+你曾经听过或遇到过跑道入侵吗？请告诉我这个故事，从这次事故中你能学到什么？
+同讲故事
+
+The following questions are about fuel dumping
+
+10.	Have you ever controlled an aircraft dumping fuel?
+你曾经指挥过飞机放油吗？
+Yes. One day, I was working, an A/C reported overweight, and requested to dump fuel. So I confirmed his endurance, and provided RV to the fuel dumping area. Then I instructed other A/C to avoid him, and informed related ATC units. 1H later, the pilot reported complete, I vectored him back to the route.
+
+11.	Under what conditions does an aircraft need to dump fuel?
+在什么条件下，飞机需要放油？
+An A/C may need to dump fuel under different situations, such as overweight, preparing for belly landing or forced landing. If there is bomb threat on board, the A/C may need to dump fuel too.
+
+12.	Could you please describe the fuel dumping procedures in your airspace?
+请你描述在你的空域中飞机放油的过程？
+OK, First, we should vector the A/C to the dumping area and issue dumping instruction.
+Then, we should instruct other A/C to avoid fuel dumping area, maintain safe separation.
+Also, we should inform supervisor and related ATC units.
+After fuel dumping is complete, we should inform all the traffic and resume normal flight.
+
+13.	What information should an air traffic controller relay to other aircraft flight crews before fuel dumping begins?
+在放油开始之前，一名管制员应该提供什么信息给其他的飞行机组？
+OK, before fuel dumping, I will inform other A/C about the dumping area and vector them to avoid, also, I should announce the dumping altitude and the starting time.
+
+14.	How would fuel dumping affect other aircraft near the fuel dumping area?
+飞机放油是怎么样影响放油区的其他飞行器的？
+Fuel dumping will take some airspace, so it may cause traffic conflict, altitude problem and fire risk. Other A/C need to detour the dumping area, so it may cause some delay.
+
+
+15.	What help can controllers provide to a flight crew when they need to dump fuel?
+管制员能提供给机组什么帮助，当他们需要放油的时候？
+First, I should provide fuel dumping instruction.
+Then, I will clear the dumping area, avoid traffic conflict.
+Also, I should monitor the dumping A/C, if necessary, warn the pilot about abnormal situations.
+
+
+OPI 4
+
+1.	How long have you been working as an air traffic controller?
+作为一名空中交通管制员，你已经工作多久了？
+同类问题，参看前文
+
+2.	What is your working position?   你的工作岗位是什么？
+同类问题，参看前文
+
+3.Do you enjoy your job at present? Why?
+目前你喜欢你的工作吗？为什么？
+同类问题，参看前文
+
+Now, let’s talk something about bomb threats.
+4.	Have you ever controlled an aircraft experiencing a bomb threat? If not, do you know a story about this?
+你曾经指挥过一架飞机经历炸弹威胁吗？如果没有，你知道关于这方面的故事？
+Yes. One day, I was working. I got an anonymous call saying there is a bomb on an A/C. So I informed the pilot about the suspicious bag. The A/C was on the ground, so they finished a cabin inspection. I informed supervisor, bomb disposal squad and emergency services. Later, they found the bomb, it was a fake one.
+
+5.	Have you ever received any bomb threat training in a simulator?
+你在模拟机上曾经接受过一些关于炸弹威胁的训练吗？
+Yes, we must have bomb threat simulator training every year.
+
+6.	In your opinion, what are some important pieces of information you should gather when a bomb threat occurs?
+在你的意识里，当炸弹威胁发生时，你最应该收集的重要信息是什么？
+I think I should confirm the situation of the bomb, POB, endurance and the pilot’s intention.
+
+7.	If you receive an anonymous call saying there is a hand bomb on board, what procedures should you follow to handle the situation?
+如果你收到一个匿名电话说，有炸弹在飞机上，你应该用什么程序来掌控这一事件？
+First, I will inform the pilot about the suspicious bag, and confirm the situation on board.
+Then, I will inform supervisor and landing A/P, request bomb disposal service.
+Also, I should confirm the pilot’s intention, if they wanted to divert, provide radar vectors.
+If necessary, I should instruct other A/C to avoid.
+
+8.	If the flight with the bomb threat is going to divert to your airport, how would you handle it?
+如果有炸弹威胁的飞机将要备降到你的机场，你应怎么样应对？
+First, I should confirm the situation on board.
+Then, I will inform A/P services and bomb disposal squad.
+After landing, I should instruct the A/C to stay away from other A/C, the terminal or fuel station.
+Also, I should inform related ATC units, if necessary, issue flow control. 
+
+9.When bomb threat occurs, what help can you give the flight crew to assist them through the emergency?
+当炸弹威胁发生时，有哪些帮助是你能给机组提供的，协助他们渡过危险？
+First, I should never provide personal advice.
+Then, I must follow the SOP to get info on board, and inform related units.
+Also, I should request medical, fire and emergency service, be ready for emergency evacuation
+
+The following questions are about fire on board.
+
+10.	Which one do you think is more dangerous, a bomb threat or a fire on board? Why?
+你认为炸弹威胁和机身起火那个更危险？为什么？
+I think fire on board is more dangerous, because the fire is hard to control, and it happens fast, pilot won’t have much time to deal with it. Also, fire may damage the A/C immediately and cause other problems.
+
+11.	What may cause a fire on board?  能导致机身起火的原因都有什么？
+There are many factors may lead to fire on board, such as short circuit, passenger smoking, overheat, fuel leakage, lightning strike and lithium battery problem.
+
+12.	If a pilot reports passengers were injured, how would it affect your control operation?
+如果飞行员报告乘客受伤了，会如何影响到你的管制指挥？
+对管制运行的影响方面：
+OK. First, it’s a medical emergency situation, so we need to confirm the situation. Then, if the passenger is in danger, we need to provide diversion and priority landing, this may cause some delay for other A/C. Also, it will increase our workload and affect other passengers on board.
+
+管制需要做的事：
+If there is injury on board, 
+first, we should confirm the situation.
+If the passenger is badly injured, we must provide landing priority, it may cause some delay for other A/C.
+Also, we should inform medical service.
+
+13.	Are there any standard procedures for controllers to follow for fire on board? If yes, please explain.
+管制员对于机身起火有什么标准程序吗？如果有，请解释。
+Yes.
+First, I will confirm the fire situation on board and the pilot’s intention.
+Then, if the A/C is emergency descending, I should instruct other A/C to avoid.
+Also, I should provide diversion to the nearest A/P and inform fire services.
+After landing, I should be ready for possible evacuation on the RWY.
+
+14.	If the aircraft with a fire on board lands at your airport and executes emergency evacuation on the runway in use, what can you do to help the subsequent flights?
+如果机身起火的飞机要在你的机场落地，在可用的跑道上执行应急操作，你能怎样做来帮助它的后续飞行？
+First, I should inform following A/C about RWY occupation, and suggest diversion.
+Then, I should issue flow control, inform related ATC units.
+
+15.	How do you cooperate with other control units when fire on board happens?
+当机身起火发生时，你如何与其他管制单位协作？
+First, I should inform related ATC units about fire situation.
+Then, I may need to work with alternate A/P, help the pilot to land.
+Also, I can request more airspace for holding or maneuver.
+
+
+OPI 5
+
+1.	When and where did you graduate from the university?
+你什么时候从哪所学校毕业的？
+I graduated from CAUC/CAFUC/NUAA in 2000/2012.
+
+2.	Do you think the knowledge you’ve learned in the university helped you a lot in your work? Why or why not?  观点题
+你认为你在大学里所学的知识对你的工作有很大帮助吗？为什么？
+Yes, I think so. 
+Because first, it will help us to understand work SOP. 
+Then, it will help us to form a good safety awareness. 
+Also, the English we learned in school is very useful.
+
+3.What suggestions will you give to the student controllers who are at the university?
+你给在大学学习管制的学生们什么建议？
+OK, I think they should learn English well in school. Because we are very busy at work. Use the time in school wisely.
+
+
+Now, let’s discuss air miss or near miss.
+
+4.	Could you please describe an event of air miss or near miss? 
+请你描述一次空中危险接近事件？
+　　同Airmiss
+
+5.	Why is air miss or near miss dangerous?
+为什么危险接近危险？
+后果类问题，同airmiss .
+
+6.	What may cause air miss or near miss?
+引起空中危险接近的原因是什么？
+同airmiss原因.
+
+7.	What is the separation minima for radar control or procedure control in your control area?
+在你的管制空域中，雷达管制或程序管制的最小间隔是什么？
+同airmiss描述间隔.
+
+8.	When you discover the risk of air miss between two aircraft, what should you do immediately to avoid near miss?
+当你发现两架飞机有小于间隔的危险时，你怎样立即避免空中危险接近？
+同airmiss处置.
+
+9.What are your procedures when the separation minima seem to be exceeded?
+当最小间隔看起来要被超越时，你的标准程序是什么？
+同airmiss处置.
+
+Now let’s talk something about hijacking.
+
+
+10.	Have you ever received any simulator training about hijacking? Do you think it is necessary for controllers to receive such training? 
+你曾经经过任何有关于劫机的模拟训练吗？你认为接受这种训练对于管制员是有必要的吗？
+Yes. We must have simulator training for hijack every year. I think it’s very necessary, because all the controllers should know how to work with pilots during hijacking. And we must be ready for anything.
+
+11.	When a hijacking occurs, what information should the controllers know?
+当劫机发生时，管制员需要知道哪些信息？
+Controller should get info about the POB, endurance, number of hijackers, weapon, injuries and pilot’s intention.
+
+12.	If the hijacker wants to divert to other airport, what information should controllers provide to the flight crew?
+如果劫机者想改航去其他机场，管制员需要给机组提供什么信息？
+If they wanted to divert, I should provide the route, weather and alternate A/P info.
+
+13.	What help can ATC give to the flight crew in order to control the situation? 
+为了控制劫机事件，管制员能给机组提供什么帮助？
+First, we should inform Air Force and anti-hijack squad.
+Then, we should instruct other A/C to avoid, monitor the A/C.
+Also, we should inform supervisor, related ATC units and Emergency services.
+
+14.	Do you have standard procedures for dealing with a hijacking? If yes, what are they?
+你们有处理劫机的标准程序吗？如果有，是什么内容？
+First, I should confirm squawk 7500.
+Then, I should confirm the situation on board, such as POB, endurance, number of hijackers, weapon, injuries and pilot’s intention.
+Also, I should inform Air Force, supervisor, anti-hijack squad and related ATC units.
+If necessary, I should instruct other A/C to avoid, issue flow control.
+
+15.	What is the most important thing when dealing with a hijacking?
+当处理劫机时，什么是最重要的事情？
+Follow SOP and checklist, Never provide personal advice.
+
+
+OPI 6
+
+1.	Which ATC unit do you work for?
+你在哪个管制部门工作？
+I work in Turpan A/P. I’m a terminal controller.
+
+2.	How long have you been working in the unit?
+你工作已经多长时间了？
+同类问题，见前文/自我介绍部分
+I have been working for xxx ATMB for xx years, I’m an area controller.
+
+3.Could you tell us something about your daily work?
+你能告诉我们关于你的正常工作的一些事吗？
+I’m an area controller, I control all the cruising traffic. It’s a large airspace, so I’m very busy.
+
+Now, let’s talk something related to ATC equipment.
+
+4.	Could you please describe ATC facilities in your unit?
+请你描绘下你工作单位的管制设备？
+In my control unit, we have Radar system, ATIS, weather radar and info system. Also, we have VHF radio, intercom and strips.
+
+5.	What roles do ATC facilities play in your routine job?
+在你的日常工作中，管制设备起什么作用？
+First, the ATC facilities can provide necessary info, and help us to maintain flight safety.
+Then, they can help us to reduce workload and human error.
+Also, ATC facilities has warning function, they can help us to deal with emergency situation.
+
+6.	Suppose one day your radar fails suddenly, what will you do to continue ATC services under this situation?
+假设某一天，你的雷达突然死机，在这种情况下，你如何继续你的管制指挥？
+I will change to back up radar system, we have 2/3 systems online. If the radar is failed, I can still change to procedure control.
+
+7.	How do you control aircraft without the help of radar?
+没有雷达的帮助，你怎样指挥飞机？
+OK. We have procedure control and strips, first, I will establish procedure separation, instruct all the traffic to resume own navigation. Then, I will request all the A/C to make position report, and use strips to maintain situational awareness.
+
+8.	As a qualified controller, do you think it is important to know procedure control in case of radar failure?
+作为一名合格的管制员，在雷达失效的情况下，你认为最重要的是知晓程序吗？
+Yes, I think it’s very necessary. Because first, controllers should always be ready for possible equipment failure. Then, we must know how to deal with radar failure and how to commence procedure control.
+
+9.Do you think procedure control is more reliable than radar control? Why?
+你认为程序管制是比雷达管制可靠吗？为什么？
+No. I think radar control is more reliable. Because first, we can see the A/C on the radar, it will show us all the info about the traffic, like callsign, altitude, level change and so on. Then, the radar has warning function, it can help us to monitor conflict and other abnormal situations. Also, radar control is more accurate than procedure control.
+
+
+The following questions are about traffic delays.
+
+10. Do traffic delays often occur in your work? What would result when delays occur?
+在你工作中，航班延误经常发生吗？当延误发生时，会有什么结果？
+Yes, delay is very common. It may lead to pilot working overtime, increase ATC workload, cause endurance problem or traffic congestion. And the passengers will be very angry.
+
+11. What are the reasons for traffic delays according to your own understanding?
+ 就你自己的理解，航班延误的依据是什么？
+There are many factors may lead to delay. Such as bad weather, military activity, emergency, passenger problem or traffic congestion.
+
+12. No pilot likes delays, what do you think are some effective ways to make pilots cooperate? 
+没有机组喜欢延误，你认为哪些有效的办法能使机组配合？
+First, we should inform pilot about the reason of delay.
+Then, we should work with flow control unit to determine the delay time.
+Also, we should inform pilot about departure time in advance.
+
+13. When a pilot cannot accept delays due to performance or other reasons, how can controllers help them?
+当某个飞行员不能接受延误，由于性能或其他原因，如何能在管制中帮助他们？
+OK. First, we should confirm the endurance, suggest pilot to divert. Then, we should inform related ATC units and supervisor, ask for help. Also, we should confirm pilot’s intention and provide support, such as radar vectors or priority landing.
+
+14. Holding is one of the solutions to solve delays. So what information do you need to know before you decide to give a holding instruction?
+等待是一种解决延误的方案，因此，在你决定给出一个等待指令前，你需要知道哪些信息？
+OK, first I should confirm endurance. Then, I should check the weather in holding area, and instruct other A/C to avoid. Also, I should work with other controllers, determine the holding time.
+
+15. If you will issue a holding instruction to a flight, what basic elements do you think should usually be stated in the holding instruction?
+如果要发等待指令，你觉得要说明哪些基本要素？
+OK, I will issue the altitude, direction, holding fix and inbound track, outbound time of holding.
+
+
+
+OPI 7
+1.	When did you graduate from the university and what was your major at the university?
+你什么时候大学毕业的？你在学校时学的是什么专业？
+I graduated from university of XJ in 2010, my major was air traffic control.
+
+2.	Do you think the knowledge you learned in the university helps you a lot in your work?
+你认为你在学校里学习的知识对你的工作有大的帮助吗？
+答：我觉得有用         Yes, I think it's very useful.
+    因为：首先，大学知识是工作的基础      Because first, it's the base of our daily work.
+          其次，大学知识帮我建立了安全意识和情景意识    Then, it helped me to build a good safety and situational awareness.
+          最后，大学还学了英语，有助于我指挥国际航班    Also, I learned English in university, it's very helpful when I control the international flights.
+3.Do you enjoy your present job?
+你满意你现在的工作吗？
+Yes, I like my job, because first, it pays me well. Then, it gives me a feeling of achievement. Also, my family and friends respect me because I can handle the heavy duty.
+
+Now let’s talk about bad weather.
+4.	Could you list some types of bad weather such as severe turbulence?
+你能列举出一些危险天气吗？例如严重颠簸。
+Sure. There are many dangerous weather situations, such as wind shear, icing, heavy rain, thunderstorm or fog.
+
+5.	Where do you get information about bad weather in your airspace?
+在你的空域中，你从哪里得到关于坏天气的信息？
+We can get weather info from ATIS, weather forecast/report, weather satellite and pilot report.
+
+6.	What problems could bad weather bring to your work?
+坏天气将给你的工作带来什么问题？
+OK, first, bad weather will increase our workload, cause delay, detour or diversion.
+Then, bad weather may cause more conflict and endurance problem.
+Also, we may need to issue flow control, and sometimes, A/C may be damaged when encountered lightning strike or turbulence.
+
+7.	Have you ever experienced any extremely bad weather while you were on duty? Please say something about it.
+当你值班时，你经历过任何极端恶劣的天气吗？请讲一讲关于这件事吧。
+Yes. One day, I was working. There was heavy snow. The RWY was covered. A landing A/C reported overrun the RWY. So, I instructed following A/C to go around, and send a tug to the damaged flight. The A/C had LG problem, we closed the RWY for 4 hours. Later, the weather got better, we resumed normal operation.
+
+8.	Do you know how weather trends can influence air traffic control?
+你知道怎样的天气趋势能影响空中交通管制吗？
+Yes. 
+If the weather is getting better, we may have more traffic in the area, there will be more workload and conflict. Controllers may make more mistakes.
+If the weather is getting worse, we may encounter delay, detour and diversion, A/C may encounter damage or endurance problem.
+
+9.	What suggestions will you give to the pilots who would likely be affected by bad weather conditions?
+你能给受恶劣天气影响的飞行员们什么建议吗？
+Ok, first, I should inform the pilot about weather condition, suggest holding, diversion or return.
+Then, I should confirm endurance.
+Also, I should ask pilot to monitor weather radar.
+
+10.What factors should you consider for aircraft if the weather is getting worse in your airspace?
+如果天气变坏在你的空域里，你应该考虑哪些因素对飞机的影响？
+OK, if the weather is getting worse, I should consider endurance, diversion, holding, operation standard, using larger separation and pilot’s intention.
+
+The following questions are about fuel.
+11.	What do you know about Minimum FUEL? What should you do if the pilot declares low fuel in your airspace?
+你知道最低油量吗？如果飞行员在你的空域里证实低油量，你将如何做？
+Low fuel means the A/C has enough fuel to follow the flight planned route to the landing A/P. But he can’t accept any more holding or delay. It’s not an emergency.
+First, I should confirm the endurance. 
+Then, I should provide radar vectors and priority landing.
+Also, I should inform related ATC units and instruct other A/C to avoid.
+
+12.	What is the difference between Minimum FUEL and Emergency FUEL?
+低油量和最小油量有何不同？
+Minimum fuel means the A/C has used up the holding fuel. It’s not an emergency.
+Emergency fuel is a “MAYDAY” situation, the A/C can only follow direct flight to the RWY.
+
+13.	What should you pay attention to when the pilot declares Emergency FUEL? 
+当机组报告紧急油量时，你将注意哪些？
+First, I should confirm his endurance and pilot’s intention.
+Then, I should provide direct flight and immediate landing.
+Also, I should inform A/P, related ATC units and the supervisor, instruct other A/C to avoid.
+If necessary, I should request a better landing direction.
+
+14.	What help can you give to the flight crew to ensure the safety of flight?
+你给机组什么帮助能确认飞行安全？
+First, I should monitor the altitude and speed of the A/C.
+Then, I can request more airspace and provide landing priority.
+Also, I should help the pilot to avoid bad weather and possible missed app.
+
+15.	Why is the fuel quantity of the flight which declares Emergency FUEL checked after landing?
+宣布最低油量的航班在落地后为什么要检查油量？
+Because we need to find out the reason of fuel shortage, and this can prevent the pilot from cheating for an early landing.
+
+
+
+
+OPI 8
+
+1.	How long have you been working as a controller?
+作为管制员，你工作多长时间了？
+I have been working in Turpan for 10 years. I’m a terminal controller.
+
+2.	Could you tell some advantages or disadvantages of your job?
+你能告诉我工作的优势或劣势吗？
+I like my job, because first, it pays me well. Then, it gives me a feeling of achievement. Also, my family and friends respect me because I can handle the heavy duty.
+
+This job has some disadvantages, such as stress, stay up late, safety risk and we must spend a lot of time to learn about new skills after work.
+
+3.How do you keep your ATC knowledge up-to-date与时俱进?  观点+描述题
+你怎样保持你的管制知识是最新的？
+答：好的，平时，我们会保持学习和模拟机训练。其次，我们会阅读行业新闻，同时，我还会向教员学习。
+OK, first, I will keep learning and do simulator training, then, I will read the news in aviation area. Also, I will learn from instructors.
+
+Now let’s talk about marginal weather.
+4.	Can you explain marginal weather to us?
+你能给我们解释下边缘天气吗？
+Sure. Marginal weather means the weather condition is near the minimum operation standard. Such as low visibility, heavy rain, strong crosswind and so on.
+
+5.	What hazards may marginal weather bring to flight safety?
+边缘天气给飞行安全带来什么危险？
+Marginal weather can be very dangerous, it may lead to missed app, diversion, delay, endurance problem, detour, even crash.
+
+6.	Do you know a pilot who has risked to flying in under marginal weather?
+你遇到过边缘天气还飞来落地的飞行员没有？
+Yes. One day, we had heavy fog in the A/P. The visibility was low, many flights were holding in the air. But 1 flight from Russia decided to land. So, I informed the pilot about local weather, and asked him to check landing minima. 5min later, the A/C landed safely.
+
+7.	Can you refuse the pilot’s request of operating an aircraft in marginal weather? Why?
+你能拒绝机组在危险天气下驾驶航空器飞行吗？为什么？
+No, we can’t refuse pilot’s request. Because the captain has the final decision of operation. But we must inform pilot about the weather condition, and warn him about the risk.
+
+8.	Can you give some suggestions to the pilots landing in marginal weather?
+你能给在危险天气里落地的机组一些建议吗？
+OK. First, I will inform pilot about local weather, and ask for his intention. Then, I will ask the pilot to check landing minima and be ready for missed app. Also, I should suggest the pilot to hold or divert.
+
+9.For operations in marginal weather, are there any different requirements for Terminal controllers and Area controllers?
+在边缘天气下运行时，对终端管制员和区域管制员分别有何不同要求？
+OK.
+For Terminal controllers, they should pay attention to landing minima, pilot decisions and endurance. They should inform pilot about A/P weather, and be ready for missed app.
+For Area controllers, they may need to inform following traffic about detour, delay and bad weather. Sometimes, they will issue flow control or provide diversion.
+
+
+The following questions are about minimum safe altitude.  见2021AETS核心笔记内MSA部分
+
+10.	Can you tell me your understanding about minimum safe altitudes? 
+你能告诉我，你理解的最低安全高度？
+MSA stands for minimum safe altitude. It means, under radar control, the lowest altitude an A/C can fly in an area. Normally, the MSA is 100m above the highest obstruction in an area.
+
+11.	What might happen if the minimum safe altitude is exceeded?
+如果最低安全高度被突破能发生什么？
+Flying below MSA is very dangerous, the A/C may collide with terrain or ground obstruction.
+
+12.	Do you have any means of ensuring that aircraft do not exceed the minimum safety altitude?
+有没有什么确保飞机不低于MSA的办法？
+Sure, in our unit, first, we have radar MSA warning. Then, controllers will monitor the traffic all the time. Also, we will choose to use higher flight levels above MSA.
+
+
+13.	What will you do if the aircraft under your control flies below the minimum safety altitude?
+如果机组在你的管制区里低于最低安全高度，你将如何做？
+First, I will ask him to climb above MSA immediately.
+Then, I will confirm the reason of flying below MSA.
+If the A/C was unable to maintain above MSA, I will check if he can see the ground, and provide diversion.
+Also, I should remind pilot about the obstructions near him.
+
+14.	Below the minimum altitude and under radar control, can you assign a visual approach in marginal weather to avoid terrain warning? Why?
+在最低安全高度以下，并且是雷达管制，你能指令在危险天气里做目视进近的飞机去避让地形告警，为什么？
+No, I can’t. Because first, flying below MSA under radar control is unlawful. Then, in marginal weather, there is no VMC condition for pilots to fly visual approach. Also, terrain warning is a way to help us, we should use it to maintain flight safety.
+
+
+15.	For pilots insisting on visual approach in marginal weather, what precautions can ATC make to ensure flight safety? 
+如果机组坚持要在危险天气里做目视进近，管制员有什么预防措施去确保飞行安全？
+OK, First, we should inform pilot about weather condition, and warn him about the risk.
+Then, we should remind pilot about ground obstruction near final.
+Also, we should be ready for missed app.
+Controllers should always monitor the situation of the traffic.
+
+
+OPI 9
+
+1. Why did you choose to be an air traffic controller?   为什么你选择成为一名管制员？
+Because first, I think it’s a challenging job, I like to solve problems.
+Then, I think ATC service is important, and I wish to serve my part in it.
+
+2. What was your first impression of your work?   你对这份工作的第一印象是什么？
+I think it’s a challenging job. Controllers must be very responsible and careful, they must work together.
+
+3. What’s your position in your ATC unit?     在你的管制部门，你在哪个岗位？
+I’m a terminal controller in Turpan A/P.
+
+Now let’s talk about bird activities.
+
+4.  Could you say something about the bird activities at your airport?
+你能谈谈关于你的机场的鸟群活动吗？
+Sure. Our A/P is near a river, so there are many birds flying near the RWY. But the winter is cold, so bird activity often happens during summer time. We don’t have many bird strike problems.
+
+5.  How do bird activities influence flight safety?
+鸟群活动是怎样影响飞行安全的？
+Bird strike can be dangerous, it may lead to windshield damage, bird ingestion, airframe damage, control problem or personal injury.
+
+6.  If you receive a report that there is a flock of birds in the vicinity of your airport, what will you do?
+如果你接到有一大群鸟在你机场附近，你将怎么做？
+First, I will monitor bird activity and inform pilots about it.
+Then, I should monitor pilot report.
+Also, I can request bird dispersing service.
+If necessary, I can inform related ATC units and ask to delay the app.
+
+7.  What are some possible consequences to an aircraft if it ingests birds into the engine? 
+如果飞机发动机吸进了飞鸟，有什么可能的后果？
+It’s called bird ingestion. It’s very dangerous, may lead to engine fire or failure, bleed air problem, diversion or return to land.
+
+8.Have you ever experienced any coordination between ATC units concerning bird strike?
+你曾经在管制单位之间协调过涉及鸟击的事情吗？
+Yes, one time, I encountered bird strike, the pilot requested to hold in the air for checking, so I informed tower to delay the departure traffic, 20min later, the A/C requested to make a low pass, and I informed tower about the situation. Tower called for mechanics and they finished visual check. The A/C landed safely.
+
+The following questions are about VIP flights此处指代专机 special flight.
+
+9.  In China, what flights can be categorized as VIP flights?
+在中国，什么飞行被视为VIP飞行？
+(In our work, the flight for a leader of a province or above is VIP flight.)
+The flight for the president or leader of a country is called special flight.
+
+10. What are some priorities that VIP flights have over normal flights?
+VIP航班比正常航班有什么优先权？
+ATC will not impose flow control on the VIP flight. We will try our best to avoid delay on VIP flight.
+
+11. If normal flights encounter emergency, should VIP flights give way to the flight with the emergency? Why?
+如果正常飞行遭遇到险情，VIP飞行将给遇险航班让路，为什么？
+Yes, because Emergency flight has the top priority.
+
+
+12. Can you introduce the standard procedures used to control VIP flights in your daily work?
+你能介绍下在你日常工作中指挥VIP飞行的标准程序吗？
+OK. First, we will confirm VIP info with FIS office.
+Then, we will contact the pilot, confirm their request and intention.
+Also, we should instruct other A/C to avoid VIP flight.
+
+
+13. If your control unit receives a VIP flight plan from the dispatch office, how will you deal with it?
+如果你的管制单位从签派接到VIP飞行计划，你如何处理它？
+First, We will have a briefing, make precautions.
+Then, we should inform related ATC units, and check weather condition.
+Also, we should make sure we have enough back up controllers to be ready for emergency situation.
+I should report this situation to supervisor and A/P.
+
+
+14. Do you know the radar separation between VIP flights and normal flights?
+你知道VIP飞行和普通飞行的雷达间隔吗？
+Sure, we will double the radar separation between VIP and normal flights.
+
+
+15. Is it more difficult to ensure the security of VIP flights than normal flights? Why?
+确认VIP飞行安全与普通航班飞行安全是不同的？为什么？
+No. I think it’s easier to ensure the safety of the VIP flight. Because first, we will use double separation, then, everyone is monitoring the VIP flights, there will be less human error. Also, the VIP flight has the higher priority.
+
+
+OPI 10
+
+1.	Can you describe the job responsibility of an ATC controller?
+你能形容下作为一名管制员的责任吗？
+A: OK, as a controller, first, I should provide safe separation, prevent collision between A/C and the A/C with obstructions. Then, I should expedite the traffic flow, reduce delay. Also, I should provide air traffic services, like advisory, warning or monitoring.
+
+2.	What types of on-the-job training did you receive?
+你受到了什么类型的工作培训？
+We had theory and simulator training, and we must have recurrent training every year.
+
+3.Is it necessary for a controller to take simulator training every year? Why?
+每年都接受模拟机训练是重要的，为什么？
+Yes, I think it’s necessary, because first, we need simulator training to practice SOPs, avoid human error. Then, we may have some new flight procedures or operation standard, we can get familiar with them by finishing simulator course. Also, we need to practice more on some certain emergency situation.
+
+Now let’s talk about belly landings.
+
+4.	What are the possible reasons for making a belling landing?
+做机腹着陆的最重要原因是什么？
+There are many factors may lead to belly landing, such as landing gear failure, mechanical problem or tyre burst.
+
+5.	Which is more dangerous, belly landing or water ditching? Why? 
+机腹着陆与水上迫降哪一种更危险？为什么？
+I think ditching is more dangerous. Because it may cause A/C disintegrated, passenger drowning, and it’s much harder to rescue.
+
+6.	What help can ATC controllers provide to the flight crew when they request belly landing?
+当机组需要进行机腹着陆时，管制员能提供什么帮助？
+OK. First, I should instruct the A/C to dump fuel and reduce weight.
+Then, I should inform A/P, request to foam the RWY.
+Also, I should request medical, fire and rescue services.
+If necessary, I should instruct other A/C to divert. Remind the pilot to use minimum landing spd.
+
+7.	Before making belly landing, many flights conduct low pass, in what way can low pass help belly landing?
+在做机腹着陆前，许多飞行员要进行低空通场，什么方法能使低空通场帮助到机腹着陆？
+First, pilot can check the RWY condition during low pass.
+Then, ATC will check the landing gear condition, help the pilot to make the decision of belly landing.
+
+8.	Is fuel dumping necessary before each belly landing? Why?
+在做机腹着陆之前需要放油吗？为什么？
+Yes, fuel dumping is very necessary. Because it can help pilot to reduce landing weight, and reduce the risk of fire or explosion.
+
+9.What ground services may be needed when making a belly landing?
+当做机腹着陆时，什么地面保障服务是必要的？
+We may need to foam the RWY, and request medical, fire and emergency service.
+
+The following questions are about emergency evacuation. EE 
+10.	Have you ever experienced or heard of emergency evacuation? Tell me about it.
+你曾经经历或听说过关于紧急疏散吗？告诉我关于它。
+Yes. One day, I was working. A landing flight reported smoke in the cabin, so I confirmed his intention. The pilot said they will make a emergency evacuation after landing. I informed related ATC units and following flights. Also, I requested medical and emergency service to be ready. 10min later, the A/C landed, the pilot lead all the passengers to safe area. (No one was hurt.)
+
+10.In which situations is emergency evacuation needed?
+在什么情况下需要做紧急撤离？
+There are many factors may lead to EE, such as landing gear failure, fire or smoke, ditching or risk of explosion.
+
+
+12.	When a flight executes emergency evacuation, what departments will ATC need to inform?
+当一架飞机执行紧急疏散时，管制需要通知什么部门？
+I should inform related ATC units, following flights, supervisor, medical, fire and emergency service. 
+
+
+13.	What assistance should you provide for the flight crew before executing emergency evacuation?
+在紧急疏散执行前，你准备为机组提供什么帮助？
+First, I should instruct other A/C to avoid.
+Then, I should inform pilot about the safe area to go after evacuation.
+Also I should inform M, F and E service, supervisor and related ATC units.
+
+
+14.	When emergency evacuation occurs, what ground services are needed? 
+当紧急疏散发生时，都需要什么地面保障？
+同上.
+
+
+15.	If emergency evacuation is not executed properly（适当的）, what possible results may occur?
+如果紧急疏散没有正确执行，会有什么可能的后果？
+Passengers may not be able to leave the cabin in time, and get injured during evacuation.
+(For example, there is fire in the cabin, but the passengers can’t evacuate immediately, they may get hurt)
+
+OPI 11
+
+1.	How long have you be working as a controller? Do you like your job?
+你干管制工作多长时间了？你喜欢你的工作吗？
+同前文类似问题
+
+2.	Please briefly introduce the airspace under your jurisdiction.
+请简单的介绍下载你管辖下的空域？
+OK, I’m a xxx controller, I control the airspace between xxxm and xxxxm. Most of the traffic are xxxx flights.
+
+3.Please talk about the work shift in your unit?
+请谈一谈你单位的倒班班次？
+In my unit, we have 3 groups, each will work for 2 days and rest for 1 day. In a working day, according to the regulation, we can control for 2 hours, and rest for 30min.
+
+Now let’s talk about ATC clearance.
+
+4.	Could you please tell me something about the ATC clearance limit?
+请你告诉我一些关于放行限制的事情？
+OK. ATC clearance limit means the A/C must operate within our restriction. It’s to ensure the flight safety. (For example, we will issue the limit of dep procedure, pilot should follow our procedure to leave the airspace).
+
+5.	When should ATC controllers issue a clearance to a flight?
+什么时候管制员能准许一架航班的放行？
+Controller should issue ATC clearance before taxi.
+
+6.	Generally, what information should be included in ATC clearance? Please give an example.
+通常，放行许可都包含什么信息？请举个例子
+OK. For example: CCA105, cleared to BJ via flight planned route. RWY 36. Initial climb to 1200m on QNH. After airborne, contact Dep on 125.35. Follow xxxx D. Cruising level 9800m. Squawk 2453. Info H.
+
+7.	If one flight enters a controlled airspace without your clearance, what should you do to solve the problem?
+如果一个航班在管制空域中没有接到你的放行，你将如何处理这个问题？
+First, I should instruct the A/C to vacate my airspace immediately.
+Then, I will confirm the reason of entering my airspace.
+If necessary, I will inform related ATC units, and provide radar vectors to help the pilot to detour.
+
+8.	What consequences would there be if you didn’t realize the mistakes you made in a clearance?
+如果你没有意识到你发的放行许可里的错误，会有什么后果？
+First, pilot will make mistakes, cause traffic conflict.
+Then, there will be delay or other accident.
+Also, pilot may encounter lost navigation.
+
+9. As a controller, how can you ensure the clearances you issue to the flight crew are proper and correct?
+作为管制员，你如何确保发给机组的许可是完整和正确的？
+First, I will check the flight plan and strips to ensure my instructions are correct.
+Then, I will use standard terms and monitor pilot readback.
+Also, I should monitor radar, if the A/C is making mistakes, I should correct him immediately.
+
+The following questions are about delay.  
+
+10.	Have you ever experienced delay during your routine job? Please tell me about it.
+在你的日常工作中，你曾经经历过延误吗？ 请告诉我关于它。
+Yes. One day, I was working. There was heavy fog in our A/P, a dep A/C waited for 4 hours. The pilot and passengers were very angry. I worked with weather department and flow control unit, we tried our best to help the flight. Later, the visibility got better, the flight left the A/P safely.
+
+11.	What reasons may cause ground delay?
+什么原因能导致地面延误？
+There are many factors may lead to ground delay, such as bad weather, military activity, traffic congestion and emergency.
+
+12.	Do you think ground delay is an economic way for airliner companies? Why?
+对于航空公司来说，你认为地面延误是一种经济的方法吗？为什么？
+Yes, I think so. Because first, ground delay can help us to avoid endurance problem and pilots working overtime. Then, it’s low cost, and easier to make changes. Also, the passengers will have more convenience.
+
+
+13.	Is holding in the air an efficient way to deal with delays?
+空中等待是解决延误的有效方法吗？
+No, I don’t think so. Because a long holding in the air may lead to endurance problem, and increase traffic conflict. We should use holding in the air with caution.
+
+
+14.	What influences does delay have on airliner companies, passengers and ATC controllers?
+延误分别对航空公司，旅客或者管制员有何影响？
+Delay will increase company cost, increase controller’s workload, cause more conflict or human error, also, passengers will be angry or miss the following flight.
+
+15.	Sometimes, the flights have to be delayed because of weather, what strategies can be used to relieve traffic flow pressure?
+有时，机组由于天气导致延误，什么策略可以用来缓解交通流量压力？
+First, we can issue flow control.
+Then, we can work with pilots, suggest the flights in the air to divert or hold.
+Also, we should have precautions for bad weather, increase working sectors or request more airspace for maneuver.
+
+
+OPI 12
+
+1. Can you tell me something about your present job?
+你能谈谈有关你现在工作的事吗？
+I have been working in Xiamen ATMB for xx years, I’m a xxx controller. I like my job, it’s busy and challenging, but it pays me well, and I enjoy the feeling of helping pilots. Safety is our top priority.
+
+2. Can you please describe the work shift in your unit?
+在你单位，你能描述下是如何换班的吗？
+Sure, in our ATC unit, we have 3 groups, so each group will work for 1 day and rest for 2 days.
+In one day, we can work for 2 hours and rest for 2 hours, we will work for 10 hours in total.
+
+3. Do you experience much pressure from your work? How do you relax yourself?
+你的工作压力大吗？你如何放松自己？
+Yes, being a controller is stressful. So, I would like to do some cardio after work, eat well, have a long and peaceful sleep. Some people like to talk to friends, roast on his job experience or release the pressure.
+
+
+Now let’s discuss runway incursion.
+
+4. Have you ever encountered runway incursion or heard of such kind of incidents? 
+你曾经遇到过跑道入侵或听说过吗？
+Yes,I have heard.An aircraft enter the runway not follow the controllers instruction and cause the departure aircraft immediately emergency brake and turn avoid this aircraft.
+
+5. What may result in runway incursion? 
+跑道入侵能导致什么？
+Runway incursion may cause the aircraft collision with other departure or landing aircraft and vehicle on the runway;may cause the runway confusion and increase the controller working and pressure.
+6. Do you think the use of non-standard phraseology might be one of the contributing factors of runway incursion? Please explain your reasoning?
+你认为使用非标准用语是导致跑道入侵的可能因素之一吗？请告诉我原因
+Yes, I do. Because first, we may have misunderstanding during communication, pilot will make mistakes. Then, if we don’t use standard terms, we may have more workload and confusion, this will cause more human error.
+
+
+7. What are your suggestions for avoiding runway incursion?
+对于如何避免跑道入侵，你有什么建议？
+I should watching the aircraft or vehicle moving situation on runway all time;I should use the standard taxi way to avoid pilot or driver bring confusion;I should use the standard radio communication.
+
+The following questions are about simulator training for controllers.
+8. When and where do you receive simulator training? 
+什么时候，在哪里你接受过模拟机训练？
+We must have simulator training once every year, normally, we will have the recurrent training in our ATC unit.
+
+9. Is simulator training necessary for controllers? Why?
+模拟机训练对管制员来说是必须的吗？为什么？
+Yes. I think the simulator training is very necessary, because
+First, it can help us to experience emergency situations.
+Then, it can help us to practice SOP and avoid human error.
+Also, we can practice English communication on the simulator.
+
+10. What do you think the controllers can learn from simulator training practices?
+你认为管制员能从模拟机训练中学到什么东西吗？
+First, we can practice all the SOP and flight procedures, and improve our control skills.
+Then, we can experience different emergency situations, and build up confidence.
+Also, we can try high traffic flow or high pressure work, it will help us to deal with abnormal situations.
+
+11. Did you receive training for emergency situations on the simulators? What impressed you most among those subjects?
+你接受过模拟机关于特情的训练吗？你对那些科目印象是什么？
+Sure. I had different emergency situation training, but the fire, decompression and hijack situation are the most impressive ones.
+
+12.Some controllers may do a good job in the simulator training but he or she can’t control airplanes properly and correctly in real time, what is your opinion about this?
+有些管制员模拟机训练做的很好，但他在真正的时候不能指挥好飞机，你怎么看？
+First, I think they should have more real working experience.
+Then, I think they should build up confidence and learn from their instructors.
+Also, I think they may have too much pressure, they should relax and focus on the traffic.
+
+The following questions are about traffic conflicts
+13.What may cause traffic conflicts?    
+什么能导致飞行冲突？
+There are many factors may lead to conflict, such as bad weather, human error, mechanical failure or emergency situation.
+
+14.When traffic conflicts occur, what do you think is the most effective way to solve the problem?
+当飞行冲突发生时，你任务解决这一问题的最好办法是什么？
+First, I should follow SOP to establish safe separation.
+Then, I should confirm the reason of the conflict.
+Also, I should maintain monitoring and avoid more conflict.
+
+15.Can pilots and controllers completely believe TCAS warning? Why?
+飞行员与管制员能完全相信TCAS告警吗？为什么？
+No. Pilot and controller should check TCAS warning before any actions. Because there may be equipment failure or false alarm. Believe the TCAS warning without any checking can be dangerous.
+
+OPI 13
+
+1. Which ATC unit do you work in?
+你在管制哪个部门工作?
+同自我介绍部分
+
+
+2. What are the main responsibilities of your job?
+你工作中的主要职责是什么？
+管制员三大职责，同自我介绍部分
+
+
+3. Do you like your job? Why?
+你喜欢你的工作吗？为什么？
+对工作的观点，同自我介绍部分
+
+
+
+Now let’s talk about ground collisions.
+
+4. Have you ever encountered or heard of ground collisions? Please tell me about it.
+你曾经遇到或听到过地面相撞吗？请告诉我关于它。
+Yes. One day, I was working. A dep A/C requested to taxi, I issued taxi instruction. 2min later, the pilot reported collision with a ground vehicle, and he was holding position. I confirmed the situation, the pilot reported landing gear damage. So, I informed A/P operators to check the situation and provided maintenance service.
+
+
+5. What are the possible causes of ground collisions?
+对于地面相撞什么是可能的原因？
+There are many factors may lead to ground collisions, such as human error, low visibility, mechanical failure and ground security problem.
+
+
+6. Who should be responsible for the accidents once ground collisions occur?
+对于一次地面相撞事故的发生，谁将负责任？
+OK, First, the ground controller should be responsible for collisions on the apron. Then, the pilot or driver on the ground should be responsible.
+
+
+7. In your opinion, what should controllers do to prevent ground collisions from happening?
+你的意见，管制员应怎么做来预防地面相撞的发生？
+First, controllers should always monitor the traffic on the ground.
+Then, we should use standard communication terms and monitor pilot readback.
+Also, we should use Airport Surveillance Radar and other equipment to avoid ground collisions.
+
+The following questions are about radio communication.
+
+8. Do you think both controllers and pilots should be well prepared for radio communication failure? Why?
+你认为管制员与飞行员都能很好地准备通讯失效吗？为什么？ 重要性   后果的麻烦
+Yes, I think so. Because first, radio communication is the most important part in our operation, then, radio failure can be very common, we all need to know how to deal with it and avoid further problems, such as conflict, separation problem and so on.
+
+9. What reasons may cause radio communication failure?
+什么原因能导致通讯系统失效？  原因     断电、故障、地形、天气…
+There are many factors may lead to radio failure, such as power loss, equipment failure, terrain, bad weather or interference.
+
+
+10. Is radio check an efficient way to check radio failure? Why?
+波道检查是对检查通讯失效的有效办法吗？为什么？ 观点   有效，因为简单，能发现问题，确认质量，甚至帮助提前解决通讯问题
+Yes, radio check is an easy way to check for radio failure, pilot and controller should commence radio check if they need to find out the problems or determine communication quality.
+
+11.Why should you transmit some messages blindly when two-way communication fails? 
+当双通道通讯都失效后，为什么你要盲发一些信息？
+Because in 2-way communication failure, we can’t receive the message from outside, so we don’t know if we can send out any message. In this case, we should use 121.5 to transmit necessary info, and hope it works.
+
+The following questions are about misunderstanding in communication.
+
+12.Have you ever encountered misunderstanding between you and other controllers or pilots?
+你曾经遇到过你和其他管制员或机组之间的理解错误吗？
+Yes. One day, I was working, I instructed a dep flight to follow a landing A/C, and line up behind. The pilot readback the instruction without mistake, but he didn’t check the traffic on final. He started to enter the RWY. I asked him to stop immediately, luckily, we avoided runway incursion. The pilot reported there was radio interference, and he misunderstood my instructions.
+
+
+13. If a message in radio telephony communication is misunderstood, what might be the consequences?
+如果飞行员误解无线电波道里的信息，会导致什么后果？
+Pilot misunderstand the instruction is very dangerous. It may lead to traffic conflict, runway incursion, separation problem and delay, sometimes, it may cause missed app, even crash.
+
+14. Do you think the use of standard phraseology can reduce misunderstanding? Why?
+你认为使用标准用语能降低理解错误吗？为什么？
+Yes, we should use standard terms to reduce misunderstanding, because standard terms can help pilots and controllers to avoid accent interference and reduce workload. We all use the same words for same meanings, it’s easier to understand.
+
+15. Can you give some suggestions to avoid misunderstanding in communication?
+你能给出一些建议去避免通讯误解吗？
+Sure. First, we should use standard terms in radio communication.
+Then, we should speak loudly and clearly.
+If we have problems in understanding, we should speak slower and confirm twice.
+
+OPI 14
+
+1. Why did you choose ATC as your career?
+为什么你选择管制作为你的职业？
+Because I liked aviation and it’s hard for me to be a pilot, I chose to be the eyes and ears for all the flights.
+
+2. What do you think of your present job?
+你对你现在的工作有何想法？
+Because first, it pays me well, then, this job gives me a feeling of achievement, also, my family and friends respect me for I can handle the duty.
+
+
+3. Which air traffic control unit do you think is the most challenging one?
+你认为哪个管制单位是最有挑战性的一个？
+I think the app control is the most challenging position. Because they need to deal with all the conflicts and provide sequencing service, app controller must think fast and work with both tower and area controllers.
+
+
+Now let’s talk about fire on board.
+
+4. Have you ever experienced or heard of a flight with fire on board? Please tell me about it.
+你曾经经历过或听过关于飞机机身起火吗？请跟我谈一谈。
+同机上失火的画图内容
+
+
+5. What are the possible causes of fire on board?
+什么可能引起机身起火？
+同机上失火的画图内容
+
+
+6. What are the possible results if the flight with fire on board is not controlled properly and timely?
+如果机身起火的飞机不能被恰当地和及时地指挥，可能会导致什么结果？
+同机上失火的画图内容
+
+
+7. What should ACC or APP do when the flight crew report fire on board?
+当机组报告机身起火时，ACC或APP应该怎样做？
+这道题问区调或进近管制员该怎么做，这个问法就是迷惑大家的，同机上失火画图的处置方法
+
+
+8. Is emergency evacuation needed after landing if the aircraft catches fire? Why?
+着火的飞机在落地后需要紧急疏散吗？为什么？
+Yes, if the fire is still not under control after landing, the pilot will commence emergency evacuation, because there is risk of explosion or passenger injury.
+
+The following questions are about language proficiency in radiotelephony communication.
+9. Do you often use English to communicate with pilots in your routine work?
+在你值班时，你经常用英语在波道里同飞行员通话吗？
+Yes, we have some international flights in our airspace, we must use English to provide control services.
+
+
+10. Is it hard for you to communicate with pilots in English? Why?
+用英语与飞行员进行对话对于你来说是困难的吗？为什么？
+I think standard English communication is easy, every controller should know how to deal with foreign pilots, but for emergency situation, English communication is a little bit difficult.
+
+
+11. How can a controller achieve effective communication in English with pilots?
+管制员怎样用英语与飞行员进行有效的沟通？
+First, we should use standard communication terms, speak loudly and clearly.
+Then, we should monitor pilot readback.
+Also, if there is any problem, we should speak slower or twice, and confirm pilot’s intention.
+
+
+12．In what way does ICAO language proficiency requirement contribute to flight safety?
+ICAO英语熟练度的要求是怎样帮助大家改善飞行安全的？
+First, this test and English requirement will drive us to learn the English communication, it will help us to reduce misunderstanding.
+Then, we will learn about some emergency situations, and the procedures that pilots may follow.
+
+
+
+The following questions are about misunderstanding in communication
+
+13.Have you ever experienced or heard of misunderstanding in communication with pilots?
+你曾经经历过或听过与飞行员产生误解的事情吗？
+同OPI 13话题
+
+
+14.What may cause misunderstanding?
+什么能导致误解？
+There are many factors may lead to misunderstanding, such as strong accent, speak too fast, and using non-standard terms.
+
+
+15.As a controller, how can you avoid misunderstanding in communication? 
+作为管制员，你是如何避免通讯中的误解的？
+同OPI 13 第15题
+
+OPI 15
+
+1.Why did you choose to be an air traffic controller?
+为什么你选择了空中交通管制这个职业？
+同OPI 14
+
+2.What are the important qualities that an air traffic controller should have?
+一名管制员应有的重要品质是什么？
+见OPI话题分析画图：日常问题-工作经历部分
+
+3.Do you think on-the-job training is important for controllers? Why?
+你认为工作培训对于管制员来说是重要的吗？为什么？
+Yes, I think so, because first, it will help us to improve our efficiency and reduce human error. Then, we can learn about new equipment and procedures during training.
+
+
+Now let’s talk about the relationship between controllers and pilots.
+
+4.Have you ever flown with a flight crew to experience the whole flight? Do you think it is necessary for controllers?
+你曾经有过和机组体验整个飞行过程的经历吗？你认为对于管制员来说它是必要的吗？
+Yes. We had the airline practice, controllers can follow the flight crew to experience a whole flight. I think it’s very necessary, because we can know more about the crew’s work and their flight procedures. Also, it will help us to improve our service. 
+
+5.Do you often exchange ideas with pilots on some concerns about flight and air traffic control?
+你经常就一些飞行员和管制员关心的事交换意见吗？
+Sure. I have some pilot friends, we talk about our work very often. They will share their suggestions and complaints. I will explain our working procedures and regulations. It’s good for my job.
+
+6. How should controllers cooperate with pilots in maintaining an orderly flow of traffic?
+管制员和飞行员如何配合才能保持有序的交通流量？
+First, we should communicate well, follow regulations and SOP.
+Then, we should share info about weather, traffic and emergency situation.
+Also, I should respect the captain’s decision and provide necessary help.
+
+7. If disputes occur between you and the pilots, what should you do to ensure flight safety?
+如果你与飞行员间产生争论，你将做什么来确保安全？
+First, I should explain the reason of my decision, remind pilot to check operation minima.
+Then, I will ask for his intention, provide help.
+Also, I should never quarrel with pilots on the frequency.
+
+8. What should you do when the flight crew doesn’t follow your instruction in flight?
+当飞行员没有按你指令飞行时，你将如何做？
+First, I will say again the instruction, and confirm the reason of his decision. 
+Then, I will warn him about the danger of this situation, and confirm his intentions.
+If he insists to not follow my instructions, I should report to supervisor and related ATC units.
+Also, I should instruct other A/C to avoid him.
+Sometimes, not following ATC instructions can mean hijack situation. So I should check for it.
+
+9. If you make mistakes in your instruction and the flight crew point it out, do you think you lose face and how do you correct it to ensure flight safety?
+如果你的指令出现错误，机组指出了错误，你觉得丢脸了，如何改正它以确保安全？
+OK, first of all, I think it’s a good thing that the pilot can point out my mistake. I will admit the mistake and correct instructions immediately. Normally, I will say “correction” and the correct content.
+
+
+The following questions are about missed approach.
+
+10. Have you ever encountered the situation of a missed approach? 
+你曾经遇到过复飞情况吗？
+详见笔记
+
+11. What are the possible reasons for a missed approach?
+对于复飞，什么是最可能的原因？
+详见笔记
+
+12.When the flight crew makes a decision to land instead of following controllers’ advice of going around, what should controllers do?
+　　First, I should inform the pilot about ground situation and weather.
+　　Then, I should make sure the RWY is clear.
+　　Also, I should remind pilot to check the RWY and the landing minima.
+
+
+
+The following questions are about emergency descent. 
+
+13.Under what situations is emergency descent necessary?
+在什么情况下，必需紧急下降？
+If there is fire, smoke or decompression problem on board, ED is necessary.
+
+
+14.When the flight crew reports they are making emergency descent, what help can ATC provide to the crew?
+当机组报告他们要紧急下降时，管制员准备给机组提供什么帮助？
+First, I can instruct other A/C to avoid.
+Then, I should inform related ATC units about this situation, and request more airspace.
+Also, I should monitor the A/C, ask for the pilot’s intention.
+
+15. When emergency descent occurs, how do you coordinate with controllers in other control units?
+当紧急下降发生时，你是如何协调其他管制单位的？
+First, I will inform related ATC units about the situation and destination altitude.
+Then, I can request more airspace and ground services.
+Also, I should work with other ATC unit to avoid conflict.
+
+
+OPI 16
+
+1.  Do you enjoy studying English?
+你喜欢学习英语吗？
+Yes, I like studying English, because I can learn more about our job and the English culture.
+
+2.	What problems do you have in your English studies? What help do you need?
+在你的英语学习中有什么困难？你需要什么帮助？
+同画图：英语学习
+
+
+3.Do you think English is important in radio communication nowadays?
+你认为英语在今天的无线电通话中是重要的吗？
+Yes, because first, we need to use English to control international flights. Then, we can use English to get more info, help us to make better decisions. Also, we can learn about new equipment and technology by using English.
+
+Now let’s talk about speed adjustment.
+
+4.	Do you have ways to delay approach? What are they?
+你有什么方法去延迟进近？它们是什么方法？
+First, we can instruct the A/C to hold and wait for app clearance.
+Then, we can provide radar vectors, and ask the pilot to commence app at a certain time.
+
+5.	When and why do you need to use speed adjustment?
+什么时候，你为什么需要使用速度调整？
+First, if there is separation problem, I will use spd adjustment.
+Then, I will use spd adjustment to restrict the A/C under flow control.
+If the A/C is too slow, I will ask the pilot to increase spd to avoid stall.
+
+
+6.	What methods do you usually use to adjust speed?
+你经常使用的速度调整方法是什么？
+First, I can ask the pilot to fly a certain spd.
+Then, I can ask the pilot to pass a fix at a certain time.
+Or, I can ask the pilot to fly faster or slower at own discretion.
+
+
+7.	What are the main principles for speed adjustment?
+什么是速度调整最主要的原则？
+First, we must follow the regulation to adjust spd.
+Then, we should confirm the spd limit with pilot, avoid too fast or too slow.
+Also, we should avoid adjust spd frequently.
+
+8.Do you think controllers should keep speed adjustments to the minimum? Why?
+你认为管制员将速度调整至最小？为什么？
+No, I don’t think so. If we always adjust the spd to the minimum, there will be delay, traffic congestion, control problem, stall or more conflict.
+
+The following questions are about landing gear problems.
+9.	Have you ever controlled a flight with landing gear problems? 
+你曾经指挥过起落架故障的飞机吗？
+Yes. One day, I was working. A landing A/C reported unsafe landing gear indication. So I provided holding for the pilot to finish the checklist. Later, the pilot requested to make a low pass. I provided radar vectors. The mechanic reported landing gear fully extended. So the pilot tried to land. 10min later, the A/C landed safely.
+
+
+10.	What might be the results if a landing aircraft can only extend landing gear partially?
+ 如果一架落地飞机仅能放下部门起落架，会导致什么结果？
+If the A/C landed with part of the LG, the A/C will lost balance after touchdown. There may be wing damage, engine damage, skid off the RWY, even crash.
+
+
+11.	What help can you provide to the flight crew undergoing the gear problems?
+在起落架故障时，你能给机组什么帮助？
+OK, First, I can provide holding instruction to the pilot.
+Then, I can provide low pass for visual check.
+Also, I can help the pilot to make a touch-and-go.
+Finally, I can help the pilot to make a belly landing.
+
+
+12. In this situation, what should you do to maintain the safety of other aircraft in the vicinity of the aerodrome?
+在起落架故障发生时，你能做什么来保证故障飞机与其他飞机间的安全？
+First, I should inform other A/C about this emergency.
+Then, I can suggest them to hold or divert.
+Also, I should check their endurance and monitor the separation.
+
+
+The following questions are about separation.
+
+13.	Do you use radar separation or procedure separation in your control unit? What is the difference between them?
+在你单位，你经常使用雷达间隔或程序间隔吗？两者之间有什么不同？
+We use radar procedure in our unit. In procedure control, the separation standard is time separation. But in radar control, it’s distance separation.
+
+14.	Is separation changeable in your control unit according to the situation of traffic in the air? How can you change it?
+依照空中交通形势，在你的管制单位里怎样进行间隔调整的？
+Yes, we can use different separation standard. Normally, we use larger separation during bad weather or traffic congestion.
+
+15.	Why is minimum separation needed in air traffic control services?
+管制服务中为什么需要最小间隔?
+Because the minimum separation can help controllers to avoid collision. Pilot can use minimum separation to monitor conflict.
+

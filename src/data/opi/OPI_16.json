@@ -1,0 +1,147 @@
+{
+  "opi_number": 16,
+  "total_questions": 15,
+  "topic_blocks": [
+    "英语学习",
+    "速度调整",
+    "起落架故障",
+    "间隔"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Do you enjoy studying English?",
+      "question_cn": "你喜欢学习英语吗？",
+      "type": "自我介绍/背景类",
+      "answer": "Yes, I like studying English, because I can learn more about our job and the English culture.",
+      "topic": "英语学习",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "What problems do you have in your English studies? What help do you need?",
+      "question_cn": "在你的英语学习中有什么困难？你需要什么帮助？",
+      "type": "描述类",
+      "answer": "同画图：英语学习（参见OPI 3英语学习部分）",
+      "topic": "英语学习",
+      "note": "原文标注同画图：英语学习"
+    },
+    {
+      "id": 3,
+      "question_en": "Do you think English is important in radio communication nowadays?",
+      "question_cn": "你认为英语在今天的无线电通话中是重要的吗？",
+      "type": "观点类",
+      "answer": "Yes, because first, we need to use English to control international flights. Then, we can use English to get more info, help us to make better decisions. Also, we can learn about new equipment and technology by using English.",
+      "topic": "英语学习",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Do you have ways to delay approach? What are they?",
+      "question_cn": "你有什么方法去延迟进近？它们是什么方法？",
+      "type": "描述类",
+      "answer": "First, we can instruct the A/C to hold and wait for app clearance. Then, we can provide radar vectors, and ask the pilot to commence app at a certain time.",
+      "topic": "速度调整",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "When and why do you need to use speed adjustment?",
+      "question_cn": "什么时候，你为什么需要使用速度调整？",
+      "type": "原因/列举类",
+      "answer": "First, if there is separation problem, I will use spd adjustment. Then, I will use spd adjustment to restrict the A/C under flow control. If the A/C is too slow, I will ask the pilot to increase spd to avoid stall.",
+      "topic": "速度调整",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What methods do you usually use to adjust speed?",
+      "question_cn": "你经常使用的速度调整方法是什么？",
+      "type": "描述类",
+      "answer": "First, I can ask the pilot to fly a certain spd. Then, I can ask the pilot to pass a fix at a certain time. Or, I can ask the pilot to fly faster or slower at own discretion.",
+      "topic": "速度调整",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "What are the main principles for speed adjustment?",
+      "question_cn": "什么是速度调整最主要的原则？",
+      "type": "描述类",
+      "answer": "First, we must follow the regulation to adjust spd. Then, we should confirm the spd limit with pilot, avoid too fast or too slow. Also, we should avoid adjust spd frequently.",
+      "topic": "速度调整",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Do you think controllers should keep speed adjustments to the minimum? Why?",
+      "question_cn": "你认为管制员将速度调整至最小？为什么？",
+      "type": "观点类",
+      "answer": "No, I don't think so. If we always adjust the spd to the minimum, there will be delay, traffic congestion, control problem, stall or more conflict.",
+      "topic": "速度调整",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Have you ever controlled a flight with landing gear problems?",
+      "question_cn": "你曾经指挥过起落架故障的飞机吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. A landing A/C reported unsafe landing gear indication. So I provided holding for the pilot to finish the checklist. Later, the pilot requested to make a low pass. I provided radar vectors. The mechanic reported landing gear fully extended. So the pilot tried to land. 10min later, the A/C landed safely.",
+      "topic": "起落架故障",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "What might be the results if a landing aircraft can only extend landing gear partially?",
+      "question_cn": "如果一架落地飞机仅能放下部门起落架，会导致什么结果？",
+      "type": "后果类",
+      "answer": "If the A/C landed with part of the LG, the A/C will lost balance after touchdown. There may be wing damage, engine damage, skid off the RWY, even crash.",
+      "topic": "起落架故障",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What help can you provide to the flight crew undergoing the gear problems?",
+      "question_cn": "在起落架故障时，你能给机组什么帮助？",
+      "type": "描述类",
+      "answer": "OK, First, I can provide holding instruction to the pilot. Then, I can provide low pass for visual check. Also, I can help the pilot to make a touch-and-go. Finally, I can help the pilot to make a belly landing.",
+      "topic": "起落架故障",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "In this situation, what should you do to maintain the safety of other aircraft in the vicinity of the aerodrome?",
+      "question_cn": "在起落架故障发生时，你能做什么来保证故障飞机与其他飞机间的安全？",
+      "type": "处置类",
+      "answer": "First, I should inform other A/C about this emergency. Then, I can suggest them to hold or divert. Also, I should check their endurance and monitor the separation.",
+      "topic": "起落架故障",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "Do you use radar separation or procedure separation in your control unit? What is the difference between them?",
+      "question_cn": "在你单位，你经常使用雷达间隔或程序间隔吗？两者之间有什么不同？",
+      "type": "描述类",
+      "answer": "We use radar procedure in our unit. In procedure control, the separation standard is time separation. But in radar control, it's distance separation.",
+      "topic": "间隔",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Is separation changeable in your control unit according to the situation of traffic in the air? How can you change it?",
+      "question_cn": "依照空中交通形势，在你的管制单位里怎样进行间隔调整的？",
+      "type": "描述类",
+      "answer": "Yes, we can use different separation standard. Normally, we use larger separation during bad weather or traffic congestion.",
+      "topic": "间隔",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Why is minimum separation needed in air traffic control services?",
+      "question_cn": "管制服务中为什么需要最小间隔?",
+      "type": "原因/列举类",
+      "answer": "Because the minimum separation can help controllers to avoid collision. Pilot can use minimum separation to monitor conflict.",
+      "topic": "间隔",
+      "note": ""
+    }
+  ]
+}

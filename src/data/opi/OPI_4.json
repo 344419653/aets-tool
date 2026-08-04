@@ -1,0 +1,146 @@
+{
+  "opi_number": 4,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍",
+    "炸弹威胁",
+    "机上失火"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "How long have you been working as an air traffic controller?",
+      "question_cn": "作为一名空中交通管制员，你已经工作多久了？",
+      "type": "自我介绍/背景类",
+      "answer": "同类问题，参看前文",
+      "topic": "自我介绍",
+      "note": "原文标注同类问题，参看前文"
+    },
+    {
+      "id": 2,
+      "question_en": "What is your working position?",
+      "question_cn": "你的工作岗位是什么？",
+      "type": "自我介绍/背景类",
+      "answer": "同类问题，参看前文",
+      "topic": "自我介绍",
+      "note": "原文标注同类问题，参看前文"
+    },
+    {
+      "id": 3,
+      "question_en": "Do you enjoy your job at present? Why?",
+      "question_cn": "目前你喜欢你的工作吗？为什么？",
+      "type": "观点类",
+      "answer": "同类问题，参看前文",
+      "topic": "自我介绍",
+      "note": "原文标注同类问题，参看前文"
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever controlled an aircraft experiencing a bomb threat? If not, do you know a story about this?",
+      "question_cn": "你曾经指挥过一架飞机经历炸弹威胁吗？如果没有，你知道关于这方面的故事？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. I got an anonymous call saying there is a bomb on an A/C. So I informed the pilot about the suspicious bag. The A/C was on the ground, so they finished a cabin inspection. I informed supervisor, bomb disposal squad and emergency services. Later, they found the bomb, it was a fake one.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "Have you ever received any bomb threat training in a simulator?",
+      "question_cn": "你在模拟机上曾经接受过一些关于炸弹威胁的训练吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, we must have bomb threat simulator training every year.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "In your opinion, what are some important pieces of information you should gather when a bomb threat occurs?",
+      "question_cn": "在你的意识里，当炸弹威胁发生时，你最应该收集的重要信息是什么？",
+      "type": "描述类",
+      "answer": "I think I should confirm the situation of the bomb, POB, endurance and the pilot's intention.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "If you receive an anonymous call saying there is a hand bomb on board, what procedures should you follow to handle the situation?",
+      "question_cn": "如果你收到一个匿名电话说，有炸弹在飞机上，你应该用什么程序来掌控这一事件？",
+      "type": "处置类",
+      "answer": "First, I will inform the pilot about the suspicious bag, and confirm the situation on board. Then, I will inform supervisor and landing A/P, request bomb disposal service. Also, I should confirm the pilot's intention, if they wanted to divert, provide radar vectors. If necessary, I should instruct other A/C to avoid.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "If the flight with the bomb threat is going to divert to your airport, how would you handle it?",
+      "question_cn": "如果有炸弹威胁的飞机将要备降到你的机场，你应怎么样应对？",
+      "type": "处置类",
+      "answer": "First, I should confirm the situation on board. Then, I will inform A/P services and bomb disposal squad. After landing, I should instruct the A/C to stay away from other A/C, the terminal or fuel station. Also, I should inform related ATC units, if necessary, issue flow control.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "When bomb threat occurs, what help can you give the flight crew to assist them through the emergency?",
+      "question_cn": "当炸弹威胁发生时，有哪些帮助是你能给机组提供的，协助他们渡过危险？",
+      "type": "描述类",
+      "answer": "First, I should never provide personal advice. Then, I must follow the SOP to get info on board, and inform related units. Also, I should request medical, fire and emergency service, be ready for emergency evacuation.",
+      "topic": "炸弹威胁",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Which one do you think is more dangerous, a bomb threat or a fire on board? Why?",
+      "question_cn": "你认为炸弹威胁和机身起火那个更危险？为什么？",
+      "type": "比较类",
+      "answer": "I think fire on board is more dangerous, because the fire is hard to control, and it happens fast, pilot won't have much time to deal with it. Also, fire may damage the A/C immediately and cause other problems.",
+      "topic": "机上失火",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "What may cause a fire on board?",
+      "question_cn": "能导致机身起火的原因都有什么？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to fire on board, such as short circuit, passenger smoking, overheat, fuel leakage, lightning strike and lithium battery problem.",
+      "topic": "机上失火",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "If a pilot reports passengers were injured, how would it affect your control operation?",
+      "question_cn": "如果飞行员报告乘客受伤了，会如何影响到你的管制指挥？",
+      "type": "后果类",
+      "answer": "OK. First, it's a medical emergency situation, so we need to confirm the situation. Then, if the passenger is in danger, we need to provide diversion and priority landing, this may cause some delay for other A/C. Also, it will increase our workload and affect other passengers on board. / If there is injury on board, first, we should confirm the situation. If the passenger is badly injured, we must provide landing priority, it may cause some delay for other A/C. Also, we should inform medical service.",
+      "topic": "机上失火",
+      "note": "原文档包含两个版本答案，已合并"
+    },
+    {
+      "id": 13,
+      "question_en": "Are there any standard procedures for controllers to follow for fire on board? If yes, please explain.",
+      "question_cn": "管制员对于机身起火有什么标准程序吗？如果有，请解释。",
+      "type": "处置类",
+      "answer": "Yes. First, I will confirm the fire situation on board and the pilot's intention. Then, if the A/C is emergency descending, I should instruct other A/C to avoid. Also, I should provide diversion to the nearest A/P and inform fire services. After landing, I should be ready for possible evacuation on the RWY.",
+      "topic": "机上失火",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "If the aircraft with a fire on board lands at your airport and executes emergency evacuation on the runway in use, what can you do to help the subsequent flights?",
+      "question_cn": "如果机身起火的飞机要在你的机场落地，在可用的跑道上执行应急操作，你能怎样做来帮助它的后续飞行？",
+      "type": "处置类",
+      "answer": "First, I should inform following A/C about RWY occupation, and suggest diversion. Then, I should issue flow control, inform related ATC units.",
+      "topic": "机上失火",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "How do you cooperate with other control units when fire on board happens?",
+      "question_cn": "当机身起火发生时，你如何与其他管制单位协作？",
+      "type": "描述类",
+      "answer": "First, I should inform related ATC units about fire situation. Then, I may need to work with alternate A/P, help the pilot to land. Also, I can request more airspace for holding or maneuver.",
+      "topic": "机上失火",
+      "note": ""
+    }
+  ]
+}

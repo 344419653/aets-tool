@@ -1,0 +1,146 @@
+{
+  "opi_number": 2,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍",
+    "不正常情况",
+    "流量控制"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Which ATC unit do you work in?",
+      "question_cn": "你在那个空管部门工作？",
+      "type": "自我介绍/背景类",
+      "answer": "I have been working for … for … years, I'm a … controller.",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "What's your position now and what's the main responsibility of your position?",
+      "question_cn": "现在你在什么岗位？你的岗位最重要的职责是什么？",
+      "type": "描述类",
+      "answer": "I'm an area controller, My first duty is maintain safe separation, avoid collision. Then, I should expedite traffic flow, reduce delay. Also, I will provide air traffic service, such as advisory, monitoring and warning.",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Have you ever received some training related to air traffic control recently? Could you say something about that?",
+      "question_cn": "最近你们是否有接受和空管相关的培训？你能谈谈吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, I just finished our simulator training, we had SOP, emergency and communication practice, after 10days' class, we had a test. (自由发挥: it's not difficult, but we learned some new procedure. It's very helpful, because I experienced some emergency situation.)",
+      "topic": "自我介绍",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "What kind of abnormal situations have you ever experienced in the past?",
+      "question_cn": "过去，什么类型的不正常情况是你经历过的？",
+      "type": "原因/列举类",
+      "answer": "OK, I have encountered bird strike, missed app, RWY incursion and wind shear.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "According to your understanding, what are the main principles when dealing with abnormal situations?",
+      "question_cn": "就你的理解，当不正常情况发生时，什么是最主要的准则？",
+      "type": "描述类",
+      "answer": "ATC has a principle called ASSIST. It's a procedure to deal with abnormal situations. Acknowledge, Separation, Silence, Inform, Support and Time.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "What personality should an air traffic controller have when dealing with abnormal or emergency situations?",
+      "question_cn": "当不正常情况或紧急情况发生时，作为一名空管员应具备什么样的品质？",
+      "type": "描述类",
+      "answer": "I think controllers should be calm. Because first, We must stay calm to avoid human error during emergency. Then, we should keep calm to work with pilot and other ATC units. Also, if we are very cool, pilots will feel confident.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "Do you have standard procedures for abnormal or emergency situations in your control unit? Could you please give an example?",
+      "question_cn": "在你的管制部门，有标准程序应对不正常或紧急事件吗？你能给举个例子吗？",
+      "type": "讲故事/经历类",
+      "answer": "Sure/Yes, we have a standard procedure for all the abnormal situations. For example, if I encountered bird strike, First, I will confirm the situation on board and pilot's intention. Then, I will provide necessary support to the A/C. Also, I should inform supervisor and related ATC units. If necessary, I will instruct other A/C to avoid and provide emergency service.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Have you ever had trouble in communicating with foreign pilots when dealing with abnormal situations? If yes, how did you overcome the trouble to ensure flight safety?",
+      "question_cn": "当不正常情况发生时，你感觉和国外机组通话有难度吗？如果是，你怎样战胜困难来确保飞行安全？",
+      "type": "讲故事/经历类",
+      "answer": "Yes, one day, I was working. A landing A/C reported bird strike on final. But the pilot was Russian, and spoke too fast. I didn't understand his report. So, I confirmed his intention again. And I asked the pilot to speak slower. The pilot requested to check the A/C after landing, and he had no control problem. Also, I can ask the pilot to use standard terms, and say twice.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Assume the flight crew report that one passenger onboard had a heart attack, how do you handle the situation when you are on duty?",
+      "question_cn": "当你值班的时候，机组报告一位乘客的心脏病发作了，你应该如何处理？",
+      "type": "处置类",
+      "answer": "Ok, first, I will confirm the passenger's situation and pilot's intention. Then, I will request medical service. If the passenger is not stable, I will provide diversion to a nearby A/P and priority landing. I should inform supervisor and related ATC units, in struct other A/C to avoid.",
+      "topic": "不正常情况",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "What reasons may cause flow control?",
+      "question_cn": "什么原因能导致流控？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may cause flow control, such as bad weather, military activity, traffic congestion or emergency.",
+      "topic": "流量控制",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "Do you think it is necessary to impose flow control?",
+      "question_cn": "你认为有必要发布流控吗？",
+      "type": "观点类",
+      "answer": "Yes, I think it's necessary to issue flow control, because first, it will help controllers to reduce workload and avoid human error. Then, it can help pilots to avoid holding in the air. Also, flow control will help to reduce long delays.",
+      "topic": "流量控制",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "What consequences does flow control bring to controllers, airline companies, pilots and passengers respectively?",
+      "question_cn": "流控给空管，航空公司，机组和旅客带来的后果分别是什么？",
+      "type": "后果类",
+      "answer": "Flow control may cause some problems, for controllers, it may lead to more coordination, for pilots, they may work overtime. For passengers, it may cause delay, and it will increase the company's cost. (For passengers, they may be angry, or miss the following flight.)",
+      "topic": "流量控制",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "Who is responsible for making a decision to control traffic flow?",
+      "question_cn": "谁负责做出一个决定来控制交通流量?",
+      "type": "描述类",
+      "answer": "In our ATC unit, we have flow control office, the supervisor will make the decision of issuing flow control.",
+      "topic": "流量控制",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "What factors should be taken into consideration when making a decision to control traffic flow?",
+      "question_cn": "当做了一个管制流控决定时，什么因素将被考虑？",
+      "type": "原因/列举类",
+      "answer": "Controller should consider the weather condition, A/C endurance, airspace capacity and delay situation before issuing a flow control.",
+      "topic": "流量控制",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "After a long delay on the ground because of flow control, pilots are likely to be anxious, how do you deal with their complaints and quarrels on your frequency?",
+      "question_cn": "由于流控导致长时间地面延误后，飞行员可能会焦虑，你如何处理他们在频率上的抱怨和争吵？",
+      "type": "处置类",
+      "answer": "First, I will try to get the reason of long delay, and explain it to the pilots. Then, I will work with flow control unit, to get a determined delay time. If there is a dep time, I will inform the pilot in advance. I should never quarrel with pilots on the frequency.",
+      "topic": "流量控制",
+      "note": "原文档此题无题号，已按顺序补全为第15题"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "bank_name": "AETS Part One 听力理解题库",
+  "version": "1.2",
+  "generated": "2026-07-17",
+  "schema_note": "每套题(set)含若干听力材料组(group)；每组一段对话(dialogue, P=飞行员 C=管制员)和1-4道题(questions)；answer 为正确选项字母；audio_* 为配套音频的规划路径（生成后按此命名）。",
+  "exam_note": "问题念完后5秒作答，听力只播放一遍（think_time_sec=5）。",
+  "paper_rules": {
+    "说明": "组卷规则：不是150题混抽15题，而是分层随机。",
+    "q1_5": "从全部套卷的 slot=q1_5 组中（每套5组，共50组短对话，每组1题）完全随机抽5组，依次作为新卷 Q1-Q5。",
+    "q6_8": "从 slot=q6_8 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q6-Q8，不可拆分；可与其他组来自不同套卷。",
+    "q9_12": "从 slot=q9_12 的组中（共10组，每组含1段对话+4题）随机抽1组，整组作为 Q9-Q12，不可拆分。",
+    "q13_15": "从 slot=q13_15 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q13-Q15，不可拆分。",
+    "组合数": "C(50,5)×10×10×10（不算顺序约21亿种整卷）"
+  },
+  "sets": [
+    {
+      "set_id": "sim8",
+      "title": "AETS test simulation 8",
+      "source": "仿写",
+      "directions": "In this part, you are going to hear a dialogue or exchange, after the exchange, there will be a question. After each question, you have 5 seconds to think and choose the correct answer. You will hear each question only once.",
+      "think_time_sec": 5,
+      "groups": [
+        {
+          "group_id": "sim8_g1",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Apron, DLH550, a catering truck has hit our aircraft, we need an inspection before departure."
+            },
+            {
+              "speaker": "C",
+              "text": "DLH550, Apron, roger, maintenance is on the way, do not start up."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 1,
+              "question": "What happened to DLH550?",
+              "options": {
+                "A": "It had an APU fire.",
+                "B": "It was struck by lightning.",
+                "C": "It had a flat tire.",
+                "D": "It was hit by a catering truck."
+              },
+              "answer": "D",
+              "explanation": "飞行员报告 \"a catering truck has hit our aircraft\"，即 DLH550 被餐车撞击，需要出发前检查，故选 D。APU 火警、雷击、爆胎在对话中均未提及。",
+              "audio_question": "audio/sim8/sim8_g1_q1.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g1_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim8_g2",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "CES6410, Wuhan Ground, taxi via B and B3, hold short of RWY05L, I say again, hold short of RWY05L."
+            },
+            {
+              "speaker": "P",
+              "text": "Hold short of RWY05L, CES6410."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 2,
+              "question": "What must CES6410 do?",
+              "options": {
+                "A": "Stop before RWY05L.",
+                "B": "Cross RWY05L immediately.",
+                "C": "Contact the Tower now.",
+                "D": "Expedite taxi."
+              },
+              "answer": "A",
+              "explanation": "管制员指令 \"hold short of RWY05L\" 并重复强调，即必须在 05L 跑道外等待、不得进入跑道，故选 A。B（立即穿越跑道）与指令相反。",
+              "audio_question": "audio/sim8/sim8_g2_q2.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g2_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim8_g3",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "PANPAN, PANPAN, PANPAN, Wuhan Control, CSN3907, a passenger has gone into labour, request priority landing and medical assistance on arrival."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN3907, Wuhan Control, roger PANPAN, expect no delay."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 3,
+              "question": "Why is CSN3907 making an urgency call?",
+              "options": {
+                "A": "Because a passenger fainted.",
+                "B": "Because a passenger was injured by turbulence.",
+                "C": "Because a passenger had a heart attack.",
+                "D": "Because a passenger is giving birth."
+              },
+              "answer": "D",
+              "explanation": "飞行员发出 PANPAN 呼叫，说明 \"a passenger has gone into labour\"（一名乘客临盆分娩），请求优先落地和医疗援助，故选 D。A、B、C 所述情况对话中均未出现。",
+              "audio_question": "audio/sim8/sim8_g3_q3.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g3_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim8_g4",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "BAW553, Wuhan Control, follow TM-01A Arrival, descend to 2700m on QNH1011, Info D."
+            },
+            {
+              "speaker": "P",
+              "text": "Roger, TM-02A Arrival, descend to 2700m on QNH1011, Info D, BAW553."
+            },
+            {
+              "speaker": "C",
+              "text": "BAW553, negative, TM-01A Arrival."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 4,
+              "question": "What did the controller correct in the readback?",
+              "options": {
+                "A": "The altitude.",
+                "B": "The ATIS information.",
+                "C": "The arrival procedure.",
+                "D": "The QNH."
+              },
+              "answer": "C",
+              "explanation": "管制员发布的是 \"TM-01A Arrival\"，飞行员误复诵为 \"TM-02A Arrival\"，管制员纠正 \"negative, TM-01A Arrival\"，即纠正的是进场程序，故选 C。高度、QNH、通播编号均复诵正确。",
+              "audio_question": "audio/sim8/sim8_g4_q4.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g4_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim8_g5",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Approach, CCA1135, we have a TCAS traffic advisory, traffic at 11 o'clock, 7nm, 300m above us, converging, confirm."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA1135, it's a climbing business jet, maintain 5100m."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 5,
+              "question": "Where is the business jet?",
+              "options": {
+                "A": "11 o'clock, 7nm, 300m above, converging.",
+                "B": "11 o'clock, 7nm, 300m below, converging.",
+                "C": "11 o'clock, 17nm, 300m above, converging.",
+                "D": "1 o'clock, 7nm, 300m above, converging."
+              },
+              "answer": "A",
+              "explanation": "飞行员报告的冲突飞机位置为 \"traffic at 11 o'clock, 7nm, 300m above us, converging\"，管制员确认是那架爬升的公务机，与 A 完全一致；B 把 above 错成 below，C 距离错，D 方位错。",
+              "audio_question": "audio/sim8/sim8_g5_q5.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g5_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim8_g6",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Tower, CSN4520, ready."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN4520, cleared for takeoff, RWY18, surface wind 150 degrees 4m/s, after airborne, contact Departure on 121.1."
+            },
+            {
+              "speaker": "P",
+              "text": "Cleared for takeoff, Departure 121.1, CSN4520."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CSN4520, 250m climbing. We have a forward cargo door open indication, request hold at HZ to run the checklist."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN4520, roger, climb to 1500m, hold at HZ as published, report established in the hold."
+            },
+            {
+              "speaker": "P",
+              "text": "Climb to 1500m, hold at HZ, wilco, CSN4520."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 6,
+              "question": "What was the wind condition when CSN4520 took off?",
+              "options": {
+                "A": "Strong gusting wind.",
+                "B": "Tailwind.",
+                "C": "Light wind.",
+                "D": "Calm."
+              },
+              "answer": "C",
+              "explanation": "起飞时管制员通报 \"surface wind 150 degrees 4m/s\"，风速仅 4 米/秒，属轻风，故选 C。既非阵风也非静风，且 150° 风对 18 跑道是顶风分量，B 错误。",
+              "audio_question": "audio/sim8/sim8_g6_q6.m4a"
+            },
+            {
+              "q_no": 7,
+              "question": "What problem does CSN4520 have?",
+              "options": {
+                "A": "A cabin door unlocked.",
+                "B": "A cargo door open indication.",
+                "C": "A gear door not closed.",
+                "D": "A slide deployed."
+              },
+              "answer": "B",
+              "explanation": "飞行员报告 \"We have a forward cargo door open indication\"，即前货舱门开启指示，故选 B。A、C、D 在对话中均未提及。",
+              "audio_question": "audio/sim8/sim8_g6_q7.m4a"
+            },
+            {
+              "q_no": 8,
+              "question": "What did the crew of CSN4520 request?",
+              "options": {
+                "A": "To dump fuel.",
+                "B": "To continue to the destination.",
+                "C": "To hold and run the checklist.",
+                "D": "To land immediately."
+              },
+              "answer": "C",
+              "explanation": "机组请求 \"hold at HZ to run the checklist\"，即进入 HZ 等待以执行检查单，管制员也批准 \"hold at HZ as published\"，故选 C。未提放油、继续飞往目的地或立即着陆。",
+              "audio_question": "audio/sim8/sim8_g6_q8.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g6_dialogue.m4a",
+          "slot": "q6_8"
+        },
+        {
+          "group_id": "sim8_g7",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "AFR784, Wuhan Control, due traffic, offset 3nm left of track, expect rejoin the route at WHA."
+            },
+            {
+              "speaker": "P",
+              "text": "Roger, offset 3nm left of track, AFR784."
+            },
+            {
+              "speaker": "P",
+              "text": "Control, AFR784, we have a build-up ahead of us, request climb to 9800m to get over it."
+            },
+            {
+              "speaker": "C",
+              "text": "AFR784, negative due traffic, can you accept deviation to the right for 10nm?"
+            },
+            {
+              "speaker": "P",
+              "text": "Affirm, we need a heading of 130 for 20nm, AFR784."
+            },
+            {
+              "speaker": "C",
+              "text": "AFR784, turn right heading 130, report clear of weather."
+            },
+            {
+              "speaker": "P",
+              "text": "Right heading 130, wilco, AFR784."
+            },
+            {
+              "speaker": "P",
+              "text": "MAYDAY, MAYDAY, MAYDAY, Wuhan Control, AFR784, we have encountered severe clear air turbulence, two cabin crew members are injured, we are descending to 6000m."
+            },
+            {
+              "speaker": "C",
+              "text": "AFR784, Wuhan Control, roger MAYDAY, report reaching. Break Break. All stations, Wuhan Control, aircraft descending between WHA and ZF, all aircraft below 8400m, leave the route to the south."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 9,
+              "question": "How did the pilot of AFR784 first plan to avoid the weather?",
+              "options": {
+                "A": "Climb to 9800m.",
+                "B": "Deviate to the left for 20nm.",
+                "C": "Descend below the weather.",
+                "D": "Deviate to the right for 10nm."
+              },
+              "answer": "A",
+              "explanation": "飞行员最初请求 \"climb to 9800m to get over it\"，即爬升越过前方积雨云，故选 A。向右偏置 10nm 是管制员随后提出的替代方案，并非飞行员最初的计划。",
+              "audio_question": "audio/sim8/sim8_g7_q9.m4a"
+            },
+            {
+              "q_no": 10,
+              "question": "Why was the climb not approved?",
+              "options": {
+                "A": "Because of a restricted area.",
+                "B": "Because of traffic.",
+                "C": "Because of a prohibited area.",
+                "D": "Because of military activity."
+              },
+              "answer": "B",
+              "explanation": "管制员拒绝爬升请求时说 \"negative due traffic\"，即因空中交通（冲突）未批准，故选 B。禁区、限制区、军方活动均未提及。",
+              "audio_question": "audio/sim8/sim8_g7_q10.m4a"
+            },
+            {
+              "q_no": 11,
+              "question": "What happened to AFR784?",
+              "options": {
+                "A": "It encountered severe hail.",
+                "B": "It encountered severe turbulence and cabin crew were injured.",
+                "C": "It was struck by lightning.",
+                "D": "It had an engine flameout."
+              },
+              "answer": "B",
+              "explanation": "飞行员宣布 MAYDAY：\"encountered severe clear air turbulence, two cabin crew members are injured\"，即遭遇严重晴空颠簸且两名乘务员受伤，故选 B。冰雹、雷击、发动机熄火均未提及。",
+              "audio_question": "audio/sim8/sim8_g7_q11.m4a"
+            },
+            {
+              "q_no": 12,
+              "question": "Where is AFR784 when it started descending?",
+              "options": {
+                "A": "Between WHA and ZF at 8400m.",
+                "B": "Between WHA and ZF at 6000m.",
+                "C": "South of WHA at 6000m.",
+                "D": "3nm left of the route at 6000m."
+              },
+              "answer": "B",
+              "explanation": "管制员在 Break Break 通播中说明 \"aircraft descending between WHA and ZF\"，且 AFR784 宣布 \"descending to 6000m\"，即它在 WHA 与 ZF 之间下降前往 6000m，故选 B。8400m 是要求其他飞机避让的高度界限，A 错误。",
+              "audio_question": "audio/sim8/sim8_g7_q12.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g7_dialogue.m4a",
+          "slot": "q9_12"
+        },
+        {
+          "group_id": "sim8_g8",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Wuhan Tower, CSN3201, 8nm final, established ILS, RWY36R."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN3201, Wuhan Tower, continue approach, reduce speed to 150kts."
+            },
+            {
+              "speaker": "P",
+              "text": "Continue approach, speed 150kts, CSN3201."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN3201, Tower, cleared to land, RWY36R, wind 020, 10m/s, gusting up to 20m/s. QNH1002."
+            },
+            {
+              "speaker": "P",
+              "text": "Cleared to land, RWY36R, QNH1002, CSN3201."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CSN3201, we had a hard landing, we suspect structural damage, we have stopped on the runway. Unable to vacate, request a tug."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN3201, roger, tug is on the way. Break Break. JAL663, go around, I say again, go around, runway occupied."
+            },
+            {
+              "speaker": "P",
+              "text": "Going around, JAL663."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, JAL663, request an approach to the opposite direction runway RWY18 to save time."
+            },
+            {
+              "speaker": "C",
+              "text": "JAL663, negative, RWY18 is not available, expect approach RWY36R in 20 minutes, contact Wuhan Approach on 124.2."
+            },
+            {
+              "speaker": "P",
+              "text": "Approach 124.2, JAL663."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 13,
+              "question": "Why did CSN3201 stop on the runway?",
+              "options": {
+                "A": "A brake fire.",
+                "B": "A tire burst.",
+                "C": "A steering failure.",
+                "D": "A hard landing with possible structural damage."
+              },
+              "answer": "D",
+              "explanation": "飞行员报告 \"we had a hard landing, we suspect structural damage, we have stopped on the runway\"，即重着陆并怀疑结构损伤而停在跑道上，故选 D。刹车起火、爆胎、转向失效均未提及。",
+              "audio_question": "audio/sim8/sim8_g8_q13.m4a"
+            },
+            {
+              "q_no": 14,
+              "question": "What was the consequence of CSN3201's problem?",
+              "options": {
+                "A": "The aircraft skidded off the runway.",
+                "B": "The landing gear caught fire.",
+                "C": "The aircraft was stuck on the runway and the runway was blocked.",
+                "D": "Passengers were injured."
+              },
+              "answer": "C",
+              "explanation": "飞行员称 \"Unable to vacate, request a tug\"，管制员随后指令 JAL663 \"go around, runway occupied\"，说明飞机被困在跑道上、跑道被占用，故选 C。飞机并未滑出跑道，也无起火或人员受伤信息。",
+              "audio_question": "audio/sim8/sim8_g8_q14.m4a"
+            },
+            {
+              "q_no": 15,
+              "question": "What did JAL663 request after the go-around?",
+              "options": {
+                "A": "To land on the opposite direction runway.",
+                "B": "Priority landing.",
+                "C": "Medical assistance.",
+                "D": "To hold for 20 minutes."
+              },
+              "answer": "A",
+              "explanation": "复飞后 JAL663 请求 \"an approach to the opposite direction runway RWY18 to save time\"，即改用反向跑道进近，故选 A。管制员拒绝该请求并要求联系进近，D 的 20 分钟等待是管制员的安排而非机组请求。",
+              "audio_question": "audio/sim8/sim8_g8_q15.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim8/sim8_g8_dialogue.m4a",
+          "slot": "q13_15"
+        }
+      ]
+    }
+  ]
+}

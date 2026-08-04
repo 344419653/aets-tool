@@ -1,0 +1,146 @@
+{
+  "opi_number": 8,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/工作感受",
+    "边缘天气",
+    "最低安全高度"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "How long have you been working as a controller?",
+      "question_cn": "作为管制员，你工作多长时间了？",
+      "type": "自我介绍/背景类",
+      "answer": "I have been working in Turpan for 10 years. I'm a terminal controller.",
+      "topic": "自我介绍/工作感受",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "Could you tell some advantages or disadvantages of your job?",
+      "question_cn": "你能告诉我工作的优势或劣势吗？",
+      "type": "观点类",
+      "answer": "I like my job, because first, it pays me well. Then, it gives me a feeling of achievement. Also, my family and friends respect me because I can handle the heavy duty. This job has some disadvantages, such as stress, stay up late, safety risk and we must spend a lot of time to learn about new skills after work.",
+      "topic": "自我介绍/工作感受",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "How do you keep your ATC knowledge up-to-date?",
+      "question_cn": "你怎样保持你的管制知识是最新的？",
+      "type": "描述类",
+      "answer": "OK, first, I will keep learning and do simulator training, then, I will read the news in aviation area. Also, I will learn from instructors.",
+      "topic": "自我介绍/工作感受",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Can you explain marginal weather to us?",
+      "question_cn": "你能给我们解释下边缘天气吗？",
+      "type": "描述类",
+      "answer": "Sure. Marginal weather means the weather condition is near the minimum operation standard. Such as low visibility, heavy rain, strong crosswind and so on.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What hazards may marginal weather bring to flight safety?",
+      "question_cn": "边缘天气给飞行安全带来什么危险？",
+      "type": "后果类",
+      "answer": "Marginal weather can be very dangerous, it may lead to missed app, diversion, delay, endurance problem, detour, even crash.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "Do you know a pilot who has risked to flying in under marginal weather?",
+      "question_cn": "你遇到过边缘天气还飞来落地的飞行员没有？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, we had heavy fog in the A/P. The visibility was low, many flights were holding in the air. But 1 flight from Russia decided to land. So, I informed the pilot about local weather, and asked him to check landing minima. 5min later, the A/C landed safely.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "Can you refuse the pilot's request of operating an aircraft in marginal weather? Why?",
+      "question_cn": "你能拒绝机组在危险天气下驾驶航空器飞行吗？为什么？",
+      "type": "观点类",
+      "answer": "No, we can't refuse pilot's request. Because the captain has the final decision of operation. But we must inform pilot about the weather condition, and warn him about the risk.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Can you give some suggestions to the pilots landing in marginal weather?",
+      "question_cn": "你能给在危险天气里落地的机组一些建议吗？",
+      "type": "建议类",
+      "answer": "OK. First, I will inform pilot about local weather, and ask for his intention. Then, I will ask the pilot to check landing minima and be ready for missed app. Also, I should suggest the pilot to hold or divert.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "For operations in marginal weather, are there any different requirements for Terminal controllers and Area controllers?",
+      "question_cn": "在边缘天气下运行时，对终端管制员和区域管制员分别有何不同要求？",
+      "type": "描述类",
+      "answer": "OK. For Terminal controllers, they should pay attention to landing minima, pilot decisions and endurance. They should inform pilot about A/P weather, and be ready for missed app. For Area controllers, they may need to inform following traffic about detour, delay and bad weather. Sometimes, they will issue flow control or provide diversion.",
+      "topic": "边缘天气",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Can you tell me your understanding about minimum safe altitudes?",
+      "question_cn": "你能告诉我，你理解的最低安全高度？",
+      "type": "描述类",
+      "answer": "MSA stands for minimum safe altitude. It means, under radar control, the lowest altitude an A/C can fly in an area. Normally, the MSA is 100m above the highest obstruction in an area.",
+      "topic": "最低安全高度",
+      "note": "原文标注见2021AETS核心笔记内MSA部分"
+    },
+    {
+      "id": 11,
+      "question_en": "What might happen if the minimum safe altitude is exceeded?",
+      "question_cn": "如果最低安全高度被突破能发生什么？",
+      "type": "后果类",
+      "answer": "Flying below MSA is very dangerous, the A/C may collide with terrain or ground obstruction.",
+      "topic": "最低安全高度",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Do you have any means of ensuring that aircraft do not exceed the minimum safety altitude?",
+      "question_cn": "有没有什么确保飞机不低于MSA的办法？",
+      "type": "描述类",
+      "answer": "Sure, in our unit, first, we have radar MSA warning. Then, controllers will monitor the traffic all the time. Also, we will choose to use higher flight levels above MSA.",
+      "topic": "最低安全高度",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "What will you do if the aircraft under your control flies below the minimum safety altitude?",
+      "question_cn": "如果机组在你的管制区里低于最低安全高度，你将如何做？",
+      "type": "处置类",
+      "answer": "First, I will ask him to climb above MSA immediately. Then, I will confirm the reason of flying below MSA. If the A/C was unable to maintain above MSA, I will check if he can see the ground, and provide diversion. Also, I should remind pilot about the obstructions near him.",
+      "topic": "最低安全高度",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Below the minimum altitude and under radar control, can you assign a visual approach in marginal weather to avoid terrain warning? Why?",
+      "question_cn": "在最低安全高度以下，并且是雷达管制，你能指令在危险天气里做目视进近的飞机去避让地形告警，为什么？",
+      "type": "观点类",
+      "answer": "No, I can't. Because first, flying below MSA under radar control is unlawful. Then, in marginal weather, there is no VMC condition for pilots to fly visual approach. Also, terrain warning is a way to help us, we should use it to maintain flight safety.",
+      "topic": "最低安全高度",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "For pilots insisting on visual approach in marginal weather, what precautions can ATC make to ensure flight safety?",
+      "question_cn": "如果机组坚持要在危险天气里做目视进近，管制员有什么预防措施去确保飞行安全？",
+      "type": "处置类",
+      "answer": "OK, First, we should inform pilot about weather condition, and warn him about the risk. Then, we should remind pilot about ground obstruction near final. Also, we should be ready for missed app. Controllers should always monitor the situation of the traffic.",
+      "topic": "最低安全高度",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "APP_ID": "在此填入讯飞开放平台应用的 APPID",
+  "API_KEY": "在此填入语音评测（流式版）的 APIKey",
+  "API_SECRET": "在此填入语音评测（流式版）的 APISecret"
+}

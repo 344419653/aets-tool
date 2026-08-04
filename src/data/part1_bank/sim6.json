@@ -1,0 +1,441 @@
+{
+  "bank_name": "AETS Part One 听力理解题库",
+  "version": "1.2",
+  "generated": "2026-07-17",
+  "schema_note": "每套题(set)含若干听力材料组(group)；每组一段对话(dialogue, P=飞行员 C=管制员)和1-4道题(questions)；answer 为正确选项字母；audio_* 为配套音频的规划路径（生成后按此命名）。",
+  "exam_note": "问题念完后5秒作答，听力只播放一遍（think_time_sec=5）。",
+  "paper_rules": {
+    "说明": "组卷规则：不是150题混抽15题，而是分层随机。",
+    "q1_5": "从全部套卷的 slot=q1_5 组中（每套5组，共50组短对话，每组1题）完全随机抽5组，依次作为新卷 Q1-Q5。",
+    "q6_8": "从 slot=q6_8 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q6-Q8，不可拆分；可与其他组来自不同套卷。",
+    "q9_12": "从 slot=q9_12 的组中（共10组，每组含1段对话+4题）随机抽1组，整组作为 Q9-Q12，不可拆分。",
+    "q13_15": "从 slot=q13_15 的组中（共10组，每组含1段对话+3题）随机抽1组，整组作为 Q13-Q15，不可拆分。",
+    "组合数": "C(50,5)×10×10×10（不算顺序约21亿种整卷）"
+  },
+  "sets": [
+    {
+      "set_id": "sim6",
+      "title": "AETS test simulation 6",
+      "source": "仿写",
+      "directions": "In this part, you are going to hear a dialogue or exchange, after the exchange, there will be a question. After each question, you have 5 seconds to think and choose the correct answer. You will hear each question only once.",
+      "think_time_sec": 5,
+      "groups": [
+        {
+          "group_id": "sim6_g1",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Delivery, CSN3108, we are still boarding two wheelchair passengers, request delay pushback for 10 minutes."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN3108, Delivery, roger, standby, I'll call you back for pushback."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 1,
+              "question": "Why does CSN3108 want to delay pushback?",
+              "options": {
+                "A": "The tow bar is broken.",
+                "B": "They are waiting for catering.",
+                "C": "Two wheelchair passengers are still boarding.",
+                "D": "They are waiting for connecting baggage."
+              },
+              "answer": "C",
+              "explanation": "飞行员报告 'we are still boarding two wheelchair passengers'，即两名轮椅旅客仍在登机，故请求推迟推出，选 C。",
+              "audio_question": "audio/sim6/sim6_g1_q1.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g1_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim6_g2",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "CXA8105, Wuhan Ground, taxi to holding point RWY36R via A, A5 and P."
+            },
+            {
+              "speaker": "P",
+              "text": "Taxi to holding point RWY36R via A, A5 and P, CXA8105."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 2,
+              "question": "Which taxiway will CXA8105 use last before reaching the holding point?",
+              "options": {
+                "A": "Taxiway P.",
+                "B": "Taxiway A5.",
+                "C": "Taxiway A.",
+                "D": "Taxiway T2."
+              },
+              "answer": "A",
+              "explanation": "滑行指令为 'taxi to holding point RWY36R via A, A5 and P'，路线依次经 A、A5，最后一段为滑行道 P，故选 A；T2 对话中未提及。",
+              "audio_question": "audio/sim6/sim6_g2_q2.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g2_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim6_g3",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "PANPAN, PANPAN, PANPAN, Wuhan Approach, CCA1507, a passenger has a severe asthma attack, we have administered oxygen, request priority landing and an ambulance."
+            },
+            {
+              "speaker": "C",
+              "text": "CCA1507, Wuhan Approach, roger PANPAN, you are number one, ambulance will be ready."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 3,
+              "question": "Which of the following statements is true?",
+              "options": {
+                "A": "The aircraft will divert to another airport.",
+                "B": "The passenger refused medical help.",
+                "C": "The crew gave the passenger oxygen.",
+                "D": "The passenger has already recovered."
+              },
+              "answer": "C",
+              "explanation": "飞行员说 'we have administered oxygen'，即机组已为发病旅客供氧，故 C 正确；对话中没有提到备降、旅客拒绝救助或已康复。",
+              "audio_question": "audio/sim6/sim6_g3_q3.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g3_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim6_g4",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "BAW553, Wuhan Control, follow ZF-01A Arrival, descend to 1800m on QNH1007, Info M."
+            },
+            {
+              "speaker": "P",
+              "text": "Roger, ZF-01A Arrival, descend to 1900m on QNH1007, Info M, BAW553."
+            },
+            {
+              "speaker": "C",
+              "text": "BAW553, negative, descend to 1800m on QNH1007."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 4,
+              "question": "What did the controller correct in the readback?",
+              "options": {
+                "A": "The ATIS information.",
+                "B": "The QNH.",
+                "C": "The arrival procedure.",
+                "D": "The altitude."
+              },
+              "answer": "D",
+              "explanation": "管制员指令下 1800 米，飞行员误复诵为 '1900m'，管制员随即纠正 'negative, descend to 1800m'，被纠正的是高度，故选 D；QNH、进场程序和通波信息复诵均无误。",
+              "audio_question": "audio/sim6/sim6_g4_q4.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g4_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim6_g5",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Wuhan Approach, CES5856, TCAS RA, we are climbing."
+            },
+            {
+              "speaker": "C",
+              "text": "CES5856, roger, report clear of conflict."
+            },
+            {
+              "speaker": "P",
+              "text": "Wilco, CES5856."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 5,
+              "question": "Why is CES5856 climbing?",
+              "options": {
+                "A": "To avoid conflicting traffic.",
+                "B": "To reach its cruising level.",
+                "C": "To follow the controller's instruction.",
+                "D": "To avoid adverse weather."
+              },
+              "answer": "A",
+              "explanation": "飞行员报告 'TCAS RA, we are climbing'，TCAS RA（决断咨询）是为避让冲突飞机，故选 A；这是机组自主避让动作，并非管制员指令。",
+              "audio_question": "audio/sim6/sim6_g5_q5.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g5_dialogue.m4a",
+          "slot": "q1_5"
+        },
+        {
+          "group_id": "sim6_g6",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Tower, CSN6420, ready."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN6420, cleared for takeoff, RWY36L, surface wind 020 degrees 6m/s, after airborne, contact Departure on 120.6."
+            },
+            {
+              "speaker": "P",
+              "text": "Cleared for takeoff, Departure 120.6, CSN6420."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CSN6420, 800m climbing. We have a flap asymmetry warning, request return to land."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN6420, roger, turn right heading 330, descend to 900m, do you need any assistance?"
+            },
+            {
+              "speaker": "P",
+              "text": "Turn right heading 330, descend to 900m. Request a low pass over the runway so the tower can check the flaps visually, CSN6420."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN6420, approved low pass RWY36L, report on final. After the low pass, contact Approach 127.35."
+            },
+            {
+              "speaker": "P",
+              "text": "Low pass approved, will report on final, CSN6420."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 6,
+              "question": "What was the wind condition when CSN6420 took off?",
+              "options": {
+                "A": "Calm.",
+                "B": "Gusty wind.",
+                "C": "Strong crosswind.",
+                "D": "Light wind from the northeast."
+              },
+              "answer": "D",
+              "explanation": "起飞指令中通报 'surface wind 020 degrees 6m/s'，风向 020 即东北风，风速 6 米/秒属轻风，故选 D；对话未提及静风、阵风或强侧风。",
+              "audio_question": "audio/sim6/sim6_g6_q6.m4a"
+            },
+            {
+              "q_no": 7,
+              "question": "What problem does CSN6420 have?",
+              "options": {
+                "A": "A flap problem.",
+                "B": "A gear problem.",
+                "C": "An engine fire.",
+                "D": "A bird strike."
+              },
+              "answer": "A",
+              "explanation": "飞行员报告 'We have a flap asymmetry warning'，即襟翼不对称警告，是襟翼故障，故选 A；与起落架、发动机失火、鸟击无关。",
+              "audio_question": "audio/sim6/sim6_g6_q7.m4a"
+            },
+            {
+              "q_no": 8,
+              "question": "What will CSN6420 probably do next?",
+              "options": {
+                "A": "Land immediately on RWY36L.",
+                "B": "Dump fuel before landing.",
+                "C": "Make a low pass for a visual check.",
+                "D": "Hold over the airport."
+              },
+              "answer": "C",
+              "explanation": "飞行员请求 'a low pass over the runway so the tower can check the flaps visually'，管制员也批准了 'low pass RWY36L'，故下一步是低空通场接受目视检查，选 C。",
+              "audio_question": "audio/sim6/sim6_g6_q8.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g6_dialogue.m4a",
+          "slot": "q6_8"
+        },
+        {
+          "group_id": "sim6_g7",
+          "dialogue": [
+            {
+              "speaker": "C",
+              "text": "CSN5609, Wuhan Control, due traffic, offset 3nm left of track, expect rejoin the route at DA."
+            },
+            {
+              "speaker": "P",
+              "text": "Roger, offset 3nm left of track, CSN5609."
+            },
+            {
+              "speaker": "P",
+              "text": "Control, CSN5609, weather radar shows a cell 25nm ahead of us, request deviate to the right for 12nm."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN5609, negative due to danger area, can you accept deviation to the left?"
+            },
+            {
+              "speaker": "P",
+              "text": "Affirm, we need a heading of 030 for 15nm, CSN5609."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN5609, turn left heading 030, report clear of weather."
+            },
+            {
+              "speaker": "P",
+              "text": "Left heading 030, wilco, CSN5609."
+            },
+            {
+              "speaker": "P",
+              "text": "MAYDAY, MAYDAY, MAYDAY, Wuhan Control, CSN5609, our No.1 engine has flamed out, we are drifting down to 6600m."
+            },
+            {
+              "speaker": "C",
+              "text": "CSN5609, Wuhan Control, roger MAYDAY, report reaching 6600m. Break Break. All stations, Wuhan Control, aircraft drifting down between KG and TM, all aircraft below 7800m, leave the route to the east."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 9,
+              "question": "How did the pilot of CSN5609 plan to avoid the weather?",
+              "options": {
+                "A": "Climb over the weather cell.",
+                "B": "Deviate to the right side for 12nm.",
+                "C": "Deviate to the right side for 25nm.",
+                "D": "Deviate to the left side for 25nm."
+              },
+              "answer": "B",
+              "explanation": "飞行员说 'request deviate to the right for 12nm'，即计划向右偏 12 海里绕飞（25nm 是天气距离，不是偏置距离），故选 B。",
+              "audio_question": "audio/sim6/sim6_g7_q9.m4a"
+            },
+            {
+              "q_no": 10,
+              "question": "Why was the right deviation not approved?",
+              "options": {
+                "A": "Because of opposite direction traffic.",
+                "B": "Because of a danger area.",
+                "C": "Because of military activity.",
+                "D": "Because of a prohibited area."
+              },
+              "answer": "B",
+              "explanation": "管制员回答 'negative due to danger area'，因右侧有危险区而不批准右偏，故选 B；未提及对头交通、军航活动或禁区。",
+              "audio_question": "audio/sim6/sim6_g7_q10.m4a"
+            },
+            {
+              "q_no": 11,
+              "question": "Which of the following statements about CSN5609 is NOT true?",
+              "options": {
+                "A": "It is drifting down to 6600m.",
+                "B": "It was struck by hail.",
+                "C": "It declared MAYDAY.",
+                "D": "Its No.1 engine flamed out."
+              },
+              "answer": "B",
+              "explanation": "飞行员宣布 MAYDAY 并说 'our No.1 engine has flamed out, we are drifting down to 6600m'，A、C、D 均与原文一致；对话从未提及冰雹击伤，故选 B。",
+              "audio_question": "audio/sim6/sim6_g7_q11.m4a"
+            },
+            {
+              "q_no": 12,
+              "question": "Where is CSN5609 when it started drifting down?",
+              "options": {
+                "A": "Over DA at 6000m.",
+                "B": "Between KG and TM, drifting down to 6600m.",
+                "C": "Between KG and TM at 7800m.",
+                "D": "East of the route at 6600m."
+              },
+              "answer": "B",
+              "explanation": "管制员广播 'aircraft drifting down between KG and TM'，结合飞行员报告的 'drifting down to 6600m'，可知飞机在 KG 与 TM 之间正下降到 6600 米，故选 B；7800m 是要求其他飞机避让的高度界限。",
+              "audio_question": "audio/sim6/sim6_g7_q12.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g7_dialogue.m4a",
+          "slot": "q9_12"
+        },
+        {
+          "group_id": "sim6_g8",
+          "dialogue": [
+            {
+              "speaker": "P",
+              "text": "Wuhan Tower, CES2331, 7nm final, established ILS, RWY36R."
+            },
+            {
+              "speaker": "C",
+              "text": "CES2331, Wuhan Tower, continue approach, reduce speed to 140kts, wind 330, 8m/s, gusting up to 18m/s, QNH1016."
+            },
+            {
+              "speaker": "P",
+              "text": "Continue approach, speed 140kts, CES2331."
+            },
+            {
+              "speaker": "P",
+              "text": "Tower, CES2331, going around! There is a vehicle crossing the runway!"
+            },
+            {
+              "speaker": "C",
+              "text": "CES2331, roger, that was a runway inspection vehicle, it should have vacated by now. Climb to 900m, turn left heading 320."
+            },
+            {
+              "speaker": "P",
+              "text": "Climb to 900m, heading 320, CES2331."
+            },
+            {
+              "speaker": "C",
+              "text": "CES2331, contact Wuhan Approach on 119.4, the runway will be inspected again before your next approach."
+            },
+            {
+              "speaker": "P",
+              "text": "Approach 119.4, CES2331."
+            }
+          ],
+          "questions": [
+            {
+              "q_no": 13,
+              "question": "Why did CES2331 go around?",
+              "options": {
+                "A": "The landing gear was not down.",
+                "B": "The wind was too strong.",
+                "C": "The preceding aircraft was slow to vacate.",
+                "D": "There was a vehicle on the runway."
+              },
+              "answer": "D",
+              "explanation": "飞行员喊 'going around! There is a vehicle crossing the runway!'，复飞原因是跑道上有车辆正在穿越，故选 D；与风大或前机未及时脱离无关。",
+              "audio_question": "audio/sim6/sim6_g8_q13.m4a"
+            },
+            {
+              "q_no": 14,
+              "question": "What was the vehicle doing on the runway?",
+              "options": {
+                "A": "Inspecting the runway.",
+                "B": "Cutting the grass.",
+                "C": "Clearing the birds.",
+                "D": "Towing an aircraft."
+              },
+              "answer": "A",
+              "explanation": "管制员说 'that was a runway inspection vehicle'，即该车辆是跑道检查车，正在执行跑道检查，故选 A。",
+              "audio_question": "audio/sim6/sim6_g8_q14.m4a"
+            },
+            {
+              "q_no": 15,
+              "question": "What can be inferred from the exchange?",
+              "options": {
+                "A": "The vehicle driver will lose his job.",
+                "B": "CES2331 will divert to another airport.",
+                "C": "The vehicle was authorized to work near the runway.",
+                "D": "The tower did not know the vehicle was there."
+              },
+              "answer": "C",
+              "explanation": "管制员明知该车是 'runway inspection vehicle'，且说 'the runway will be inspected again before your next approach'，可推断车辆是经授权在跑道附近作业的，故选 C；塔台并非不知情，也未提及备降或处罚司机。",
+              "audio_question": "audio/sim6/sim6_g8_q15.m4a"
+            }
+          ],
+          "audio_dialogue": "audio/sim6/sim6_g8_dialogue.m4a",
+          "slot": "q13_15"
+        }
+      ]
+    }
+  ]
+}

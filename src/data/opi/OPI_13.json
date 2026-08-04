@@ -1,0 +1,147 @@
+{
+  "opi_number": 13,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/工作职责",
+    "地面相撞",
+    "无线电通讯",
+    "通讯误解"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Which ATC unit do you work in?",
+      "question_cn": "你在管制哪个部门工作?",
+      "type": "自我介绍/背景类",
+      "answer": "同自我介绍部分（参见OPI 1-2）",
+      "topic": "自我介绍/工作职责",
+      "note": "原文标注同自我介绍部分"
+    },
+    {
+      "id": 2,
+      "question_en": "What are the main responsibilities of your job?",
+      "question_cn": "你工作中的主要职责是什么？",
+      "type": "描述类",
+      "answer": "管制员三大职责，同自我介绍部分（参见OPI 1-2）",
+      "topic": "自我介绍/工作职责",
+      "note": "原文标注同自我介绍部分"
+    },
+    {
+      "id": 3,
+      "question_en": "Do you like your job? Why?",
+      "question_cn": "你喜欢你的工作吗？为什么？",
+      "type": "观点类",
+      "answer": "对工作的观点，同自我介绍部分（参见OPI 1-2）",
+      "topic": "自我介绍/工作职责",
+      "note": "原文标注同自我介绍部分"
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever encountered or heard of ground collisions? Please tell me about it.",
+      "question_cn": "你曾经遇到或听到过地面相撞吗？请告诉我关于它。",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working. A dep A/C requested to taxi, I issued taxi instruction. 2min later, the pilot reported collision with a ground vehicle, and he was holding position. I confirmed the situation, the pilot reported landing gear damage. So, I informed A/P operators to check the situation and provided maintenance service.",
+      "topic": "地面相撞",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "question_en": "What are the possible causes of ground collisions?",
+      "question_cn": "对于地面相撞什么是可能的原因？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to ground collisions, such as human error, low visibility, mechanical failure and ground security problem.",
+      "topic": "地面相撞",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "question_en": "Who should be responsible for the accidents once ground collisions occur?",
+      "question_cn": "对于一次地面相撞事故的发生，谁将负责任？",
+      "type": "描述类",
+      "answer": "OK, First, the ground controller should be responsible for collisions on the apron. Then, the pilot or driver on the ground should be responsible.",
+      "topic": "地面相撞",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "question_en": "In your opinion, what should controllers do to prevent ground collisions from happening?",
+      "question_cn": "你的意见，管制员应怎么做来预防地面相撞的发生？",
+      "type": "建议类",
+      "answer": "First, controllers should always monitor the traffic on the ground. Then, we should use standard communication terms and monitor pilot readback. Also, we should use Airport Surveillance Radar and other equipment to avoid ground collisions.",
+      "topic": "地面相撞",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "question_en": "Do you think both controllers and pilots should be well prepared for radio communication failure? Why?",
+      "question_cn": "你认为管制员与飞行员都能很好地准备通讯失效吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, I think so. Because first, radio communication is the most important part in our operation, then, radio failure can be very common, we all need to know how to deal with it and avoid further problems, such as conflict, separation problem and so on.",
+      "topic": "无线电通讯",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "What reasons may cause radio communication failure?",
+      "question_cn": "什么原因能导致通讯系统失效？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to radio failure, such as power loss, equipment failure, terrain, bad weather or interference.",
+      "topic": "无线电通讯",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Is radio check an efficient way to check radio failure? Why?",
+      "question_cn": "波道检查是对检查通讯失效的有效办法吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, radio check is an easy way to check for radio failure, pilot and controller should commence radio check if they need to find out the problems or determine communication quality.",
+      "topic": "无线电通讯",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "Why should you transmit some messages blindly when two-way communication fails?",
+      "question_cn": "当双通道通讯都失效后，为什么你要盲发一些信息？",
+      "type": "原因/列举类",
+      "answer": "Because in 2-way communication failure, we can't receive the message from outside, so we don't know if we can send out any message. In this case, we should use 121.5 to transmit necessary info, and hope it works.",
+      "topic": "无线电通讯",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "Have you ever encountered misunderstanding between you and other controllers or pilots?",
+      "question_cn": "你曾经遇到过你和其他管制员或机组之间的理解错误吗？",
+      "type": "讲故事/经历类",
+      "answer": "Yes. One day, I was working, I instructed a dep flight to follow a landing A/C, and line up behind. The pilot readback the instruction without mistake, but he didn't check the traffic on final. He started to enter the RWY. I asked him to stop immediately, luckily, we avoided runway incursion. The pilot reported there was radio interference, and he misunderstood my instructions.",
+      "topic": "通讯误解",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "If a message in radio telephony communication is misunderstood, what might be the consequences?",
+      "question_cn": "如果飞行员误解无线电波道里的信息，会导致什么后果？",
+      "type": "后果类",
+      "answer": "Pilot misunderstand the instruction is very dangerous. It may lead to traffic conflict, runway incursion, separation problem and delay, sometimes, it may cause missed app, even crash.",
+      "topic": "通讯误解",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "question_en": "Do you think the use of standard phraseology can reduce misunderstanding? Why?",
+      "question_cn": "你认为使用标准用语能降低理解错误吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, we should use standard terms to reduce misunderstanding, because standard terms can help pilots and controllers to avoid accent interference and reduce workload. We all use the same words for same meanings, it's easier to understand.",
+      "topic": "通讯误解",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "Can you give some suggestions to avoid misunderstanding in communication?",
+      "question_cn": "你能给出一些建议去避免通讯误解吗？",
+      "type": "建议类",
+      "answer": "Sure. First, we should use standard terms in radio communication. Then, we should speak loudly and clearly. If we have problems in understanding, we should speak slower and confirm twice.",
+      "topic": "通讯误解",
+      "note": ""
+    }
+  ]
+}

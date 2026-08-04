@@ -1,0 +1,147 @@
+{
+  "opi_number": 14,
+  "total_questions": 15,
+  "topic_blocks": [
+    "自我介绍/职业选择",
+    "机上失火",
+    "无线电通讯英语",
+    "通讯误解"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Why did you choose ATC as your career?",
+      "question_cn": "为什么你选择管制作为你的职业？",
+      "type": "自我介绍/背景类",
+      "answer": "Because I liked aviation and it's hard for me to be a pilot, I chose to be the eyes and ears for all the flights.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "question_en": "What do you think of your present job?",
+      "question_cn": "你对你现在的工作有何想法？",
+      "type": "观点类",
+      "answer": "Because first, it pays me well, then, this job gives me a feeling of achievement, also, my family and friends respect me for I can handle the duty.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "question_en": "Which air traffic control unit do you think is the most challenging one?",
+      "question_cn": "你认为哪个管制单位是最有挑战性的一个？",
+      "type": "观点类",
+      "answer": "I think the app control is the most challenging position. Because they need to deal with all the conflicts and provide sequencing service, app controller must think fast and work with both tower and area controllers.",
+      "topic": "自我介绍/职业选择",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "question_en": "Have you ever experienced or heard of a flight with fire on board? Please tell me about it.",
+      "question_cn": "你曾经经历过或听过关于飞机机身起火吗？请跟我谈一谈。",
+      "type": "讲故事/经历类",
+      "answer": "同机上失火的画图内容（参见OPI 4第10-15题）",
+      "topic": "机上失火",
+      "note": "原文标注同机上失火的画图内容"
+    },
+    {
+      "id": 5,
+      "question_en": "What are the possible causes of fire on board?",
+      "question_cn": "什么可能引起机身起火？",
+      "type": "原因/列举类",
+      "answer": "同机上失火的画图内容（参见OPI 4第11题）",
+      "topic": "机上失火",
+      "note": "原文标注同机上失火的画图内容"
+    },
+    {
+      "id": 6,
+      "question_en": "What are the possible results if the flight with fire on board is not controlled properly and timely?",
+      "question_cn": "如果机身起火的飞机不能被恰当地和及时地指挥，可能会导致什么结果？",
+      "type": "后果类",
+      "answer": "同机上失火的画图内容（参见OPI 4第10-15题）",
+      "topic": "机上失火",
+      "note": "原文标注同机上失火的画图内容"
+    },
+    {
+      "id": 7,
+      "question_en": "What should ACC or APP do when the flight crew report fire on board?",
+      "question_cn": "当机组报告机身起火时，ACC或APP应该怎样做？",
+      "type": "处置类",
+      "answer": "这道题问区调或进近管制员该怎么做，这个问法就是迷惑大家的，同机上失火画图的处置方法（参见OPI 4第13题）",
+      "topic": "机上失火",
+      "note": "原文标注同机上失火画图的处置方法"
+    },
+    {
+      "id": 8,
+      "question_en": "Is emergency evacuation needed after landing if the aircraft catches fire? Why?",
+      "question_cn": "着火的飞机在落地后需要紧急疏散吗？为什么？",
+      "type": "观点类",
+      "answer": "Yes, if the fire is still not under control after landing, the pilot will commence emergency evacuation, because there is risk of explosion or passenger injury.",
+      "topic": "机上失火",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "question_en": "Do you often use English to communicate with pilots in your routine work?",
+      "question_cn": "在你值班时，你经常用英语在波道里同飞行员通话吗？",
+      "type": "自我介绍/背景类",
+      "answer": "Yes, we have some international flights in our airspace, we must use English to provide control services.",
+      "topic": "无线电通讯英语",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "question_en": "Is it hard for you to communicate with pilots in English? Why?",
+      "question_cn": "用英语与飞行员进行对话对于你来说是困难的吗？为什么？",
+      "type": "观点类",
+      "answer": "I think standard English communication is easy, every controller should know how to deal with foreign pilots, but for emergency situation, English communication is a little bit difficult.",
+      "topic": "无线电通讯英语",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "question_en": "How can a controller achieve effective communication in English with pilots?",
+      "question_cn": "管制员怎样用英语与飞行员进行有效的沟通？",
+      "type": "建议类",
+      "answer": "First, we should use standard communication terms, speak loudly and clearly. Then, we should monitor pilot readback. Also, if there is any problem, we should speak slower or twice, and confirm pilot's intention.",
+      "topic": "无线电通讯英语",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "question_en": "In what way does ICAO language proficiency requirement contribute to flight safety?",
+      "question_cn": "ICAO英语熟练度的要求是怎样帮助大家改善飞行安全的？",
+      "type": "描述类",
+      "answer": "First, this test and English requirement will drive us to learn the English communication, it will help us to reduce misunderstanding. Then, we will learn about some emergency situations, and the procedures that pilots may follow.",
+      "topic": "无线电通讯英语",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "question_en": "Have you ever experienced or heard of misunderstanding in communication with pilots?",
+      "question_cn": "你曾经经历过或听过与飞行员产生误解的事情吗？",
+      "type": "讲故事/经历类",
+      "answer": "同OPI 13话题（参见OPI 13第12题）",
+      "topic": "通讯误解",
+      "note": "原文标注同OPI 13话题"
+    },
+    {
+      "id": 14,
+      "question_en": "What may cause misunderstanding?",
+      "question_cn": "什么能导致误解？",
+      "type": "原因/列举类",
+      "answer": "There are many factors may lead to misunderstanding, such as strong accent, speak too fast, and using non-standard terms.",
+      "topic": "通讯误解",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "question_en": "As a controller, how can you avoid misunderstanding in communication?",
+      "question_cn": "作为管制员，你是如何避免通讯中的误解的？",
+      "type": "建议类",
+      "answer": "同OPI 13 第15题（参见OPI 13第15题）",
+      "topic": "通讯误解",
+      "note": "原文标注同OPI 13第15题"
+    }
+  ]
+}
