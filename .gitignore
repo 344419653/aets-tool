@@ -8,7 +8,4 @@ dist/
 *.zip
 public/models/
 part4_audio/
-src/assets/audio/**/*.mp3
-src/assets/audio/**/*.m4a
-src/assets/audio/**/*.wav
 server/ise-config.local.json
